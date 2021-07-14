@@ -29,7 +29,7 @@ https://spotifycharts.com/regional/
 
 ## Scketch: ##
 
-<img src="https://user-images.githubusercontent.com/80076539/125554739-12c4f6e7-6214-4695-99d0-fea13844cb04.png" alt="drawing" width="600"/>
+<img src="https://user-images.githubusercontent.com/80076539/125554739-12c4f6e7-6214-4695-99d0-fea13844cb04.png" alt="drawing" width="800"/>
 
 ## Documentation: ##
 
