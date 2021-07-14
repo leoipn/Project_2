@@ -1,7 +1,7 @@
 ## Project Title:
 # _A Spotify Story._
 
-<img src="https://www.zdnet.com/a/hub/i/2021/02/02/f5d66b1e-6228-4373-a347-a327de7ab4a3/spotify-korea.jpg" alt="drawing" width="1000"/>
+<img src="https://www.zdnet.com/a/hub/i/2021/02/02/f5d66b1e-6228-4373-a347-a327de7ab4a3/spotify-korea.jpg" alt="drawing" width="800"/>
 
 ## Proposal:
 
