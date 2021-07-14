@@ -24,11 +24,12 @@ In order to answer these previous questions, we found that the best place to fin
 
 ## Team Members:
 
- - Manuel Borrego 
+ - Andres Estrada
  - Orlando García
  - José Sierra
- - Gustavo Maldonado
+ - Leobardo Preciado
+ - Carlos Mendoza
 
 ## Documentation: ##
 
-https://drive.google.com/drive/folders/10ElzxHnUkrGWUMvIrauUdAcDxYwNkQSP?usp=sharing
+https://docs.google.com/presentation/d/1wwfA7ykD5djNibOcCrLmiRX4VQXxLZ7WsqQTf8vrG7E/edit?usp=sharing
