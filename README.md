@@ -30,6 +30,12 @@ In order to answer these previous questions, we found that the best place to fin
  - Leobardo Preciado
  - Carlos Mendoza
 
+## Dataset: ##
+
+https://developer.spotify.com/documentation/web-api/
+
+https://spotifycharts.com/regional/
+
 ## Documentation: ##
 
 https://docs.google.com/presentation/d/1wwfA7ykD5djNibOcCrLmiRX4VQXxLZ7WsqQTf8vrG7E/edit?usp=sharing
