@@ -11,8 +11,7 @@ During time, muscic has been constantly changing, evolving or derivating in seve
 We would like to study these changes through Data Analytics.
 
 As a team we are always close to music. Music is an universal language, like programming languages it has been the union of many cultures and traditions.
-We would like to explore artists, genders, popularity and music itself
-
+We would like to explore universal artists, genders, popularity and music lisetened around the world using one of the most important platform for online streaming.
 
 ## Team Members:
 
@@ -27,6 +26,10 @@ We would like to explore artists, genders, popularity and music itself
 https://developer.spotify.com/documentation/web-api/
 
 https://spotifycharts.com/regional/
+
+## Scketch: ##
+
+![image](https://user-images.githubusercontent.com/80076539/125554739-12c4f6e7-6214-4695-99d0-fea13844cb04.png)
 
 ## Documentation: ##
 
