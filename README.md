@@ -5,13 +5,14 @@
 
 ## Proposal:
 
-Since the origin of modern times humanity has been soroundedby music, we may say that history can be tell throuhg music.
+Since the origin of modern times humanity has been sorounded by music, we may say that history of the world can be tell throuhg music.
 
-During time, muscic has been constantly changing, evolving or derivating in several genders. The music taste during time has been changing. New artists have been emerging. 
+Muscic has been constantly changing, evolving or derivating in several genders. The music taste during time has been changing and new artists have been emerging. 
 We would like to study these changes through Data Analytics.
 
 As a team we are always close to music. Music is an universal language, like programming languages it has been the union of many cultures and traditions.
-We would like to explore universal artists, genders, popularity and music lisetened around the world using one of the most important platform for online streaming.
+
+We would like to explore universal artists, genders, popularity and music lisetened around the world on one of the most important platform for online streaming.
 
 ## Team Members:
 
