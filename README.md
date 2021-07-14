@@ -1,7 +1,7 @@
 ## Project Title:
-# _Diabetes Disease Diagnosed Analysis for US Population._
+# _A Spotify Story._
 
-![image](https://user-images.githubusercontent.com/80076539/117385344-89880c00-aeaa-11eb-8c16-981b4281102f.png)
+![image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.zdnet.com%2Farticle%2Fspotify-launches-service-in-south-korea%2F&psig=AOvVaw0T6EnyqaLNoJdD7sELO5ab&ust=1626316358128000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCPC3-tvC4fECFQAAAAAdAAAAABAD)
 
 ## Description:
 
