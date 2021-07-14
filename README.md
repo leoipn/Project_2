@@ -1,7 +1,7 @@
 ## Project Title:
 # _A Spotify Story._
 
-<img src="https://www.zdnet.com/a/hub/i/2021/02/02/f5d66b1e-6228-4373-a347-a327de7ab4a3/spotify-korea.jpg" alt="drawing" width="600"/>
+<img src="https://www.zdnet.com/a/hub/i/2021/02/02/f5d66b1e-6228-4373-a347-a327de7ab4a3/spotify-korea.jpg" alt="drawing" width="1000"/>
 
 ## Proposal:
 
@@ -29,7 +29,7 @@ https://spotifycharts.com/regional/
 
 ## Scketch: ##
 
-<img src="https://user-images.githubusercontent.com/80076539/125554739-12c4f6e7-6214-4695-99d0-fea13844cb04.png" alt="drawing" width="800"/>
+<img src="https://user-images.githubusercontent.com/80076539/125554739-12c4f6e7-6214-4695-99d0-fea13844cb04.png" alt="drawing" width="1000"/>
 
 ## Documentation: ##
 
