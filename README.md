@@ -1,7 +1,7 @@
 ## Project Title:
 # _A Spotify Story._
 
-![image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.zdnet.com%2Farticle%2Fspotify-launches-service-in-south-korea%2F&psig=AOvVaw0T6EnyqaLNoJdD7sELO5ab&ust=1626316358128000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCPC3-tvC4fECFQAAAAAdAAAAABAD)
+![image](https://www.zdnet.com/a/hub/i/2021/02/02/f5d66b1e-6228-4373-a347-a327de7ab4a3/spotify-korea.jpg)
 
 ## Description:
 
