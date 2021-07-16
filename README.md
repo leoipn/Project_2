@@ -1,34 +1,37 @@
 ## Project Title:
-# _Diabetes Disease Diagnosed Analysis for US Population._
+# _A Spotify Story._
 
-![image](https://user-images.githubusercontent.com/80076539/117385344-89880c00-aeaa-11eb-8c16-981b4281102f.png)
+<img src="https://www.zdnet.com/a/hub/i/2021/02/02/f5d66b1e-6228-4373-a347-a327de7ab4a3/spotify-korea.jpg" alt="drawing" width="800"/>
 
-## Description:
+## Proposal:
 
-These days everyone has a relative or a close friend who has been diagnosed with diabetes. We can see that is getting more frequent every day. In this matter we decided to Analyze Diabetes Disease Diagnosed for US Population.
+Since the origin of modern times humanity has been sorounded by music, we may say that history of the world can be tell throuhg music.
 
-As a team we define that Our Project main objective is to discover the incidents of social demographics in diagnosed diabetes for population in US. We will analyze the relationship between gender, race-ethnicity, ages and educational levels through the years, as the data admits.
+Muscic has been constantly changing, evolving or derivating in several genders. The music taste during time has been changing and new artists have been emerging. 
+We would like to study these changes through Data Analytics.
 
-We approach our project in a way to be able to answer the following Questions:
+As a team we are always close to music. Music is an universal language, like programming languages it has been the union of many cultures and traditions.
 
-What is the proportion by ethnicity with diagnosed diabetes?
-
-How is the disease behavior in range of ages to define if there is a correlation between them?
-
-What´s the gender distribution for diagnosed diabetes?
-
-How are the impacts in the educational and income levels in relationship with diagnosed diabetes?
-
-In order to answer these previous questions, we found that the best place to find our data Based on population in the US is the CDC, Center for Disease Control and Prevention.
-
+We would like to explore universal artists, genders, popularity and music lisetened around the world on one of the most important platform for online streaming.
 
 ## Team Members:
 
- - Manuel Borrego 
+ - Andres Estrada
  - Orlando García
  - José Sierra
- - Gustavo Maldonado
+ - Leobardo Preciado
+ - Carlos Mendoza
+
+## Dataset: ##
+
+https://developer.spotify.com/documentation/web-api/
+
+https://spotifycharts.com/regional/
+
+## Scketch: ##
+
+<img src="https://user-images.githubusercontent.com/80076539/125554739-12c4f6e7-6214-4695-99d0-fea13844cb04.png" alt="drawing" width="800"/>
 
 ## Documentation: ##
 
-https://drive.google.com/drive/folders/10ElzxHnUkrGWUMvIrauUdAcDxYwNkQSP?usp=sharing
+https://docs.google.com/presentation/d/1wwfA7ykD5djNibOcCrLmiRX4VQXxLZ7WsqQTf8vrG7E/edit?usp=sharing
