@@ -7,7 +7,7 @@
 
 console.log("Its working")
 
-d3.request("http://google.com").get(importedData=>{
+d3.request("http://127.0.0.1:5000/songs").get(importedData=>{
     var songs = importedData;
     console.log(songs);
     
