@@ -20,6 +20,7 @@ def jsonified():
     for song in songs:
         song.pop("_id")
     
+    
     return jsonify(songs)
     #return jsonify([i for i in mongo.db.destinations.find({})])
 
