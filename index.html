@@ -12,18 +12,34 @@
   <link rel="stylesheet" href="https://unpkg.com/leaflet@1.6.0/dist/leaflet.css"
     integrity="sha512-xwE/Az9zrjBIphAcBb3F6JVqxf46+CDLwfLMHloNu6KEQCAWi6HcDUbeOfBIptF7tcCzusKFjFw2yuvEpDL9wQ=="
     crossorigin="" />
+  <!--Chart.js  -->
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@3.4.1/dist/chart.min.js"></script>
+
   <link rel="shortcut icon" href="#">
   <!-- Our CSS -->
   <!-- <link rel="stylesheet" type="text/css" href="style.css"> -->
+<style>
+  .container {
+    max-width: 1800px;
+  };
+</style>
 </head>
 
-<body>
 
+
+
+<body>
+<div class="container my-1">
   <div class="row">
     <div class="col-6">
-        <h2>First Chart Title</h2>
+        <h2>Chart from Plotly</h2>
         <div id="StreamsByDatePlot"></div>
     </div>
+    <div class="col-6">
+      <h2>Chart from Chart.js</h2>
+      <canvas id="chart"></canvas>
+      <div id="StreamsByDatePlot2"></div>
+  </div>
   </div>
   <div class="row">
     <div class="col-6">
@@ -31,6 +47,11 @@
         <h2>Second Chart Title</h2>
         <div id="StreamsByArtistPlot"></div>
     </div>
+    <div class="col-6">
+      <br>
+      <h2>Streams by Artist with Chart.js</h2>
+      <canvas id="StreamsByArtistPlot2"></canvas>
+  </div>
   </div>
   <div class="row">
     <div class="col-6">
@@ -38,8 +59,15 @@
         <h2>Third Chart Title</h2>
         <div id="StreamsByTrackPlot"></div>
     </div>
+    <div class="col-6">
+      <br>
+      <h2>Streams by Track with Chart.js</h2>
+      <canvas id="StreamsByTrackPlot2"></canvas>
+  </div>
   </div>
 
+</div>
+  
 
 
 
@@ -59,7 +87,10 @@
 
   <!-- JS -->
   <script type="text/javascript" src="Static/js/app.js"></script>
-
+  
+  <!-- Moment is used to parse dates formats -->
+  <script src="https://unpkg.com/moment@2.24.0/moment.js"></script>
+  <script src="//cdnjs.cloudflare.com/ajax/libs/linq.js/2.2.0.2/linq.min.js"></script>
 </body>
 
 </html>

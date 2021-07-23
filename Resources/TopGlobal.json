@@ -1,0 +1,3201 @@
+[{
+  "_id": {
+    "$oid": "60f79074a24480877399e26f"
+  },
+  "ArtistName": "Måneskin",
+  "TrackName": "Beggin'",
+  "Danceability": 0.714,
+  "Energy": 0.8,
+  "Key": 0.359,
+  "Loudness": 11,
+  "Acousticness": 0.127,
+  "Instrumentalness": 0,
+  "Liveness": 0.359,
+  "Valence": 0.589,
+  "Tempo": 134.002,
+  "TrackReference": "https://api.spotify.com/v1/tracks/3Wrjm47oTz2sjIgck11l5e"
+},{
+  "_id": {
+    "$oid": "60f79076a24480877399e270"
+  },
+  "ArtistName": "The Kid LAROI",
+  "TrackName": "Stay (with Justin Bieber)",
+  "Danceability": 0.591,
+  "Energy": 0.764,
+  "Key": 0.103,
+  "Loudness": 1,
+  "Acousticness": 0.0383,
+  "Instrumentalness": 0,
+  "Liveness": 0.103,
+  "Valence": 0.478,
+  "Tempo": 169.928,
+  "TrackReference": "https://api.spotify.com/v1/tracks/5HCyWlXZPP0y6Gqq8TgA20"
+},{
+  "_id": {
+    "$oid": "60f79076a24480877399e271"
+  },
+  "ArtistName": "Olivia Rodrigo",
+  "TrackName": "good 4 u",
+  "Danceability": 0.563,
+  "Energy": 0.664,
+  "Key": 0.0849,
+  "Loudness": 9,
+  "Acousticness": 0.335,
+  "Instrumentalness": 0,
+  "Liveness": 0.0849,
+  "Valence": 0.688,
+  "Tempo": 166.928,
+  "TrackReference": "https://api.spotify.com/v1/tracks/4ZtFanR9U6ndgddUvNcjcG"
+},{
+  "_id": {
+    "$oid": "60f79076a24480877399e272"
+  },
+  "ArtistName": "Ed Sheeran",
+  "TrackName": "Bad Habits",
+  "Danceability": 0.808,
+  "Energy": 0.897,
+  "Key": 0.364,
+  "Loudness": 11,
+  "Acousticness": 0.0469,
+  "Instrumentalness": 0.0000314,
+  "Liveness": 0.364,
+  "Valence": 0.591,
+  "Tempo": 126.026,
+  "TrackReference": "https://api.spotify.com/v1/tracks/6PQ88X9TkUIAUIZJHW2upE"
+},{
+  "_id": {
+    "$oid": "60f79076a24480877399e273"
+  },
+  "ArtistName": "Doja Cat",
+  "TrackName": "Kiss Me More (feat. SZA)",
+  "Danceability": 0.764,
+  "Energy": 0.705,
+  "Key": 0.12,
+  "Loudness": 8,
+  "Acousticness": 0.259,
+  "Instrumentalness": 0.0000892,
+  "Liveness": 0.12,
+  "Valence": 0.781,
+  "Tempo": 110.97,
+  "TrackReference": "https://api.spotify.com/v1/tracks/3DarAbFujv6eYNliUTyqtz"
+},{
+  "_id": {
+    "$oid": "60f79076a24480877399e274"
+  },
+  "ArtistName": "Lil Nas X",
+  "TrackName": "MONTERO (Call Me By Your Name)",
+  "Danceability": 0.61,
+  "Energy": 0.508,
+  "Key": 0.384,
+  "Loudness": 8,
+  "Acousticness": 0.297,
+  "Instrumentalness": 0,
+  "Liveness": 0.384,
+  "Valence": 0.758,
+  "Tempo": 178.818,
+  "TrackReference": "https://api.spotify.com/v1/tracks/67BtfxlNbhBmCDR2L2l8qd"
+},{
+  "_id": {
+    "$oid": "60f79077a24480877399e275"
+  },
+  "ArtistName": "Rauw Alejandro",
+  "TrackName": "Todo De Ti",
+  "Danceability": 0.78,
+  "Energy": 0.719,
+  "Key": 0.0931,
+  "Loudness": 3,
+  "Acousticness": 0.302,
+  "Instrumentalness": 0.000196,
+  "Liveness": 0.0931,
+  "Valence": 0.336,
+  "Tempo": 127.962,
+  "TrackReference": "https://api.spotify.com/v1/tracks/5RwV8BvLfX5injfqYodke9"
+},{
+  "_id": {
+    "$oid": "60f79077a24480877399e276"
+  },
+  "ArtistName": "Måneskin",
+  "TrackName": "I WANNA BE YOUR SLAVE",
+  "Danceability": 0.75,
+  "Energy": 0.608,
+  "Key": 0.178,
+  "Loudness": 1,
+  "Acousticness": 0.00165,
+  "Instrumentalness": 0,
+  "Liveness": 0.178,
+  "Valence": 0.958,
+  "Tempo": 132.507,
+  "TrackReference": "https://api.spotify.com/v1/tracks/4pt5fDVTg5GhEvEtlz9dKk"
+},{
+  "_id": {
+    "$oid": "60f79077a24480877399e277"
+  },
+  "ArtistName": "BTS",
+  "TrackName": "Permission to Dance",
+  "Danceability": 0.702,
+  "Energy": 0.741,
+  "Key": 0.337,
+  "Loudness": 9,
+  "Acousticness": 0.00544,
+  "Instrumentalness": 0,
+  "Liveness": 0.337,
+  "Valence": 0.646,
+  "Tempo": 124.925,
+  "TrackReference": "https://api.spotify.com/v1/tracks/0LThjFY2iTtNdd4wviwVV2"
+},{
+  "_id": {
+    "$oid": "60f79077a24480877399e278"
+  },
+  "ArtistName": "Bad Bunny",
+  "TrackName": "Yonaguni",
+  "Danceability": 0.644,
+  "Energy": 0.648,
+  "Key": 0.135,
+  "Loudness": 1,
+  "Acousticness": 0.276,
+  "Instrumentalness": 0,
+  "Liveness": 0.135,
+  "Valence": 0.44,
+  "Tempo": 179.951,
+  "TrackReference": "https://api.spotify.com/v1/tracks/2JPLbjOn0wPCngEot2STUS"
+},{
+  "_id": {
+    "$oid": "60f79077a24480877399e279"
+  },
+  "ArtistName": "Dua Lipa",
+  "TrackName": "Levitating (feat. DaBaby)",
+  "Danceability": 0.702,
+  "Energy": 0.825,
+  "Key": 0.0674,
+  "Loudness": 6,
+  "Acousticness": 0.00883,
+  "Instrumentalness": 0,
+  "Liveness": 0.0674,
+  "Valence": 0.915,
+  "Tempo": 102.977,
+  "TrackReference": "https://api.spotify.com/v1/tracks/5nujrmhLynf4yMoMtj8AQF"
+},{
+  "_id": {
+    "$oid": "60f79078a24480877399e27a"
+  },
+  "ArtistName": "J Balvin",
+  "TrackName": "Qué Más Pues?",
+  "Danceability": 0.891,
+  "Energy": 0.819,
+  "Key": 0.173,
+  "Loudness": 8,
+  "Acousticness": 0.0261,
+  "Instrumentalness": 0.000354,
+  "Liveness": 0.173,
+  "Valence": 0.768,
+  "Tempo": 101.968,
+  "TrackReference": "https://api.spotify.com/v1/tracks/6hf0RpxTbOprT5nnwzkk8e"
+},{
+  "_id": {
+    "$oid": "60f79078a24480877399e27b"
+  },
+  "ArtistName": "BTS",
+  "TrackName": "Butter",
+  "Danceability": 0.759,
+  "Energy": 0.459,
+  "Key": 0.0906,
+  "Loudness": 8,
+  "Acousticness": 0.00323,
+  "Instrumentalness": 0,
+  "Liveness": 0.0906,
+  "Valence": 0.695,
+  "Tempo": 109.997,
+  "TrackReference": "https://api.spotify.com/v1/tracks/2bgTY4UwhfBYhGT4HUYStN"
+},{
+  "_id": {
+    "$oid": "60f79078a24480877399e27c"
+  },
+  "ArtistName": "Justin Bieber",
+  "TrackName": "Peaches (feat. Daniel Caesar & Giveon)",
+  "Danceability": 0.677,
+  "Energy": 0.696,
+  "Key": 0.42,
+  "Loudness": 0,
+  "Acousticness": 0.321,
+  "Instrumentalness": 0,
+  "Liveness": 0.42,
+  "Valence": 0.464,
+  "Tempo": 90.03,
+  "TrackReference": "https://api.spotify.com/v1/tracks/4iJyoBOLtHqaGxP12qzhQI"
+},{
+  "_id": {
+    "$oid": "60f79078a24480877399e27d"
+  },
+  "ArtistName": "Olivia Rodrigo",
+  "TrackName": "traitor",
+  "Danceability": 0.38,
+  "Energy": 0.339,
+  "Key": 0.12,
+  "Loudness": 3,
+  "Acousticness": 0.691,
+  "Instrumentalness": 0,
+  "Liveness": 0.12,
+  "Valence": 0.0849,
+  "Tempo": 100.607,
+  "TrackReference": "https://api.spotify.com/v1/tracks/5CZ40GBx1sQ9agT82CLQCT"
+},{
+  "_id": {
+    "$oid": "60f79078a24480877399e27e"
+  },
+  "ArtistName": "Olivia Rodrigo",
+  "TrackName": "deja vu",
+  "Danceability": 0.442,
+  "Energy": 0.612,
+  "Key": 0.37,
+  "Loudness": 2,
+  "Acousticness": 0.584,
+  "Instrumentalness": 0.0000057,
+  "Liveness": 0.37,
+  "Valence": 0.178,
+  "Tempo": 180.917,
+  "TrackReference": "https://api.spotify.com/v1/tracks/6HU7h9RYOaPRFeh0R3UeAr"
+},{
+  "_id": {
+    "$oid": "60f79078a24480877399e27f"
+  },
+  "ArtistName": "Nio Garcia",
+  "TrackName": "AM Remix",
+  "Danceability": 0.743,
+  "Energy": 0.655,
+  "Key": 0.0764,
+  "Loudness": 6,
+  "Acousticness": 0.114,
+  "Instrumentalness": 0,
+  "Liveness": 0.0764,
+  "Valence": 0.785,
+  "Tempo": 172.031,
+  "TrackReference": "https://api.spotify.com/v1/tracks/05bfbizlM5AX6Mf1RRyMho"
+},{
+  "_id": {
+    "$oid": "60f79079a24480877399e280"
+  },
+  "ArtistName": "The Weeknd",
+  "TrackName": "Save Your Tears (with Ariana Grande) (Remix)",
+  "Danceability": 0.65,
+  "Energy": 0.825,
+  "Key": 0.0936,
+  "Loudness": 0,
+  "Acousticness": 0.0215,
+  "Instrumentalness": 0.0000244,
+  "Liveness": 0.0936,
+  "Valence": 0.593,
+  "Tempo": 118.091,
+  "TrackReference": "https://api.spotify.com/v1/tracks/37BZB0z9T8Xu7U3e65qxFy"
+},{
+  "_id": {
+    "$oid": "60f79079a24480877399e281"
+  },
+  "ArtistName": "Mora",
+  "TrackName": "Volando - Remix",
+  "Danceability": 0.659,
+  "Energy": 0.688,
+  "Key": 0.113,
+  "Loudness": 6,
+  "Acousticness": 0.207,
+  "Instrumentalness": 0,
+  "Liveness": 0.113,
+  "Valence": 0.632,
+  "Tempo": 153.979,
+  "TrackReference": "https://api.spotify.com/v1/tracks/0G2zPzWqVjR68iNPmx2TBe"
+},{
+  "_id": {
+    "$oid": "60f79079a24480877399e282"
+  },
+  "ArtistName": "Post Malone",
+  "TrackName": "Motley Crew",
+  "Danceability": 0.797,
+  "Energy": 0.631,
+  "Key": 0.0998,
+  "Loudness": 3,
+  "Acousticness": 0.0904,
+  "Instrumentalness": 0.00000371,
+  "Liveness": 0.0998,
+  "Valence": 0.288,
+  "Tempo": 129.915,
+  "TrackReference": "https://api.spotify.com/v1/tracks/40uMIn2zJLAQhNXghRjBed"
+},{
+  "_id": {
+    "$oid": "60f79079a24480877399e283"
+  },
+  "ArtistName": "Olivia Rodrigo",
+  "TrackName": "drivers license",
+  "Danceability": 0.561,
+  "Energy": 0.431,
+  "Key": 0.106,
+  "Loudness": 10,
+  "Acousticness": 0.768,
+  "Instrumentalness": 0.0000142,
+  "Liveness": 0.106,
+  "Valence": 0.137,
+  "Tempo": 143.875,
+  "TrackReference": "https://api.spotify.com/v1/tracks/5wANPM4fQCJwkGd4rN57mH"
+},{
+  "_id": {
+    "$oid": "60f79079a24480877399e284"
+  },
+  "ArtistName": "Olivia Rodrigo",
+  "TrackName": "happier",
+  "Danceability": 0.395,
+  "Energy": 0.443,
+  "Key": 0.0839,
+  "Loudness": 6,
+  "Acousticness": 0.765,
+  "Instrumentalness": 0.00000967,
+  "Liveness": 0.0839,
+  "Valence": 0.338,
+  "Tempo": 168.924,
+  "TrackReference": "https://api.spotify.com/v1/tracks/2tGvwE8GcFKwNdAXMnlbfl"
+},{
+  "_id": {
+    "$oid": "60f7907aa24480877399e285"
+  },
+  "ArtistName": "Doja Cat",
+  "TrackName": "Ain't Shit",
+  "Danceability": 0.855,
+  "Energy": 0.488,
+  "Key": 0.347,
+  "Loudness": 3,
+  "Acousticness": 0.506,
+  "Instrumentalness": 0,
+  "Liveness": 0.347,
+  "Valence": 0.619,
+  "Tempo": 124.097,
+  "TrackReference": "https://api.spotify.com/v1/tracks/5lAnYvAIkSDNXqfo7DyFUm"
+},{
+  "_id": {
+    "$oid": "60f7907aa24480877399e286"
+  },
+  "ArtistName": "The Weeknd",
+  "TrackName": "Blinding Lights",
+  "Danceability": 0.514,
+  "Energy": 0.73,
+  "Key": 0.0897,
+  "Loudness": 1,
+  "Acousticness": 0.00146,
+  "Instrumentalness": 0.0000954,
+  "Liveness": 0.0897,
+  "Valence": 0.334,
+  "Tempo": 171.005,
+  "TrackReference": "https://api.spotify.com/v1/tracks/0VjIjW4GlUZAMYd2vXMi3b"
+},{
+  "_id": {
+    "$oid": "60f7907aa24480877399e287"
+  },
+  "ArtistName": "Masked Wolf",
+  "TrackName": "Astronaut In The Ocean",
+  "Danceability": 0.778,
+  "Energy": 0.695,
+  "Key": 0.15,
+  "Loudness": 4,
+  "Acousticness": 0.175,
+  "Instrumentalness": 0,
+  "Liveness": 0.15,
+  "Valence": 0.472,
+  "Tempo": 149.996,
+  "TrackReference": "https://api.spotify.com/v1/tracks/0BGwAKW4u8kWOhWFflZxfl"
+},{
+  "_id": {
+    "$oid": "60f7907aa24480877399e288"
+  },
+  "ArtistName": "Olivia Rodrigo",
+  "TrackName": "favorite crime",
+  "Danceability": 0.369,
+  "Energy": 0.272,
+  "Key": 0.147,
+  "Loudness": 9,
+  "Acousticness": 0.866,
+  "Instrumentalness": 0,
+  "Liveness": 0.147,
+  "Valence": 0.218,
+  "Tempo": 172.929,
+  "TrackReference": "https://api.spotify.com/v1/tracks/5JCoSi02qi3jJeHdZXMmR8"
+},{
+  "_id": {
+    "$oid": "60f7907aa24480877399e289"
+  },
+  "ArtistName": "Bruno Mars",
+  "TrackName": "Leave The Door Open",
+  "Danceability": 0.586,
+  "Energy": 0.616,
+  "Key": 0.0927,
+  "Loudness": 5,
+  "Acousticness": 0.182,
+  "Instrumentalness": 0,
+  "Liveness": 0.0927,
+  "Valence": 0.719,
+  "Tempo": 148.088,
+  "TrackReference": "https://api.spotify.com/v1/tracks/7MAibcTli4IisCtbHKrGMh"
+},{
+  "_id": {
+    "$oid": "60f7907ba24480877399e28a"
+  },
+  "ArtistName": "Riton",
+  "TrackName": "Friday (feat. Mufasa & Hypeman) - Dopamine Re-Edit",
+  "Danceability": 0.824,
+  "Energy": 0.862,
+  "Key": 0.303,
+  "Loudness": 2,
+  "Acousticness": 0.0076,
+  "Instrumentalness": 0.000132,
+  "Liveness": 0.303,
+  "Valence": 0.801,
+  "Tempo": 122.98,
+  "TrackReference": "https://api.spotify.com/v1/tracks/4cG7HUWYHBV6R6tHn1gxrl"
+},{
+  "_id": {
+    "$oid": "60f7907ba24480877399e28b"
+  },
+  "ArtistName": "Glass Animals",
+  "TrackName": "Heat Waves",
+  "Danceability": 0.761,
+  "Energy": 0.525,
+  "Key": 0.0921,
+  "Loudness": 11,
+  "Acousticness": 0.44,
+  "Instrumentalness": 0.0000067,
+  "Liveness": 0.0921,
+  "Valence": 0.531,
+  "Tempo": 80.87,
+  "TrackReference": "https://api.spotify.com/v1/tracks/02MWAaffLxlfxAUY7c5dvx"
+},{
+  "_id": {
+    "$oid": "60f7907ba24480877399e28c"
+  },
+  "ArtistName": "Doja Cat",
+  "TrackName": "Need To Know",
+  "Danceability": 0.664,
+  "Energy": 0.609,
+  "Key": 0.0926,
+  "Loudness": 1,
+  "Acousticness": 0.304,
+  "Instrumentalness": 0,
+  "Liveness": 0.0926,
+  "Valence": 0.194,
+  "Tempo": 130.041,
+  "TrackReference": "https://api.spotify.com/v1/tracks/3Vi5XqYrmQgOYBajMWSvCi"
+},{
+  "_id": {
+    "$oid": "60f7907ba24480877399e28d"
+  },
+  "ArtistName": "Doja Cat",
+  "TrackName": "You Right",
+  "Danceability": 0.828,
+  "Energy": 0.621,
+  "Key": 0.0845,
+  "Loudness": 8,
+  "Acousticness": 0.0164,
+  "Instrumentalness": 0.00233,
+  "Liveness": 0.0845,
+  "Valence": 0.436,
+  "Tempo": 128.986,
+  "TrackReference": "https://api.spotify.com/v1/tracks/0k4d5YPDr1r7FX77VdqWez"
+},{
+  "_id": {
+    "$oid": "60f7907ba24480877399e28e"
+  },
+  "ArtistName": "BTS",
+  "TrackName": "Dynamite",
+  "Danceability": 0.746,
+  "Energy": 0.765,
+  "Key": 0.0936,
+  "Loudness": 6,
+  "Acousticness": 0.0112,
+  "Instrumentalness": 0,
+  "Liveness": 0.0936,
+  "Valence": 0.737,
+  "Tempo": 114.044,
+  "TrackReference": "https://api.spotify.com/v1/tracks/4saklk6nie3yiGePpBwUoc"
+},{
+  "_id": {
+    "$oid": "60f7907ca24480877399e28f"
+  },
+  "ArtistName": "Sebastian Yatra",
+  "TrackName": "Pareja Del Año",
+  "Danceability": 0.715,
+  "Energy": 0.622,
+  "Key": 0.0948,
+  "Loudness": 4,
+  "Acousticness": 0.163,
+  "Instrumentalness": 0,
+  "Liveness": 0.0948,
+  "Valence": 0.808,
+  "Tempo": 80.015,
+  "TrackReference": "https://api.spotify.com/v1/tracks/2rCbl9naJYhaxjLsfx88uM"
+},{
+  "_id": {
+    "$oid": "60f7907ca24480877399e290"
+  },
+  "ArtistName": "Olivia Rodrigo",
+  "TrackName": "jealousy, jealousy",
+  "Danceability": 0.695,
+  "Energy": 0.575,
+  "Key": 0.0614,
+  "Loudness": 10,
+  "Acousticness": 0.198,
+  "Instrumentalness": 0,
+  "Liveness": 0.0614,
+  "Valence": 0.699,
+  "Tempo": 163.929,
+  "TrackReference": "https://api.spotify.com/v1/tracks/0MMyJUC3WNnFS1lit5pTjk"
+},{
+  "_id": {
+    "$oid": "60f7907ca24480877399e291"
+  },
+  "ArtistName": "Harry Styles",
+  "TrackName": "Watermelon Sugar",
+  "Danceability": 0.548,
+  "Energy": 0.816,
+  "Key": 0.335,
+  "Loudness": 0,
+  "Acousticness": 0.122,
+  "Instrumentalness": 0,
+  "Liveness": 0.335,
+  "Valence": 0.557,
+  "Tempo": 95.39,
+  "TrackReference": "https://api.spotify.com/v1/tracks/6UelLqGlWMcVH1E5c4H7lY"
+},{
+  "_id": {
+    "$oid": "60f7907ca24480877399e292"
+  },
+  "ArtistName": "Polo G",
+  "TrackName": "RAPSTAR",
+  "Danceability": 0.789,
+  "Energy": 0.536,
+  "Key": 0.129,
+  "Loudness": 6,
+  "Acousticness": 0.41,
+  "Instrumentalness": 0,
+  "Liveness": 0.129,
+  "Valence": 0.437,
+  "Tempo": 81.039,
+  "TrackReference": "https://api.spotify.com/v1/tracks/18vXApRmJSgQ6wG2ll9AOg"
+},{
+  "_id": {
+    "$oid": "60f7907ca24480877399e293"
+  },
+  "ArtistName": "Billie Eilish",
+  "TrackName": "NDA",
+  "Danceability": 0.765,
+  "Energy": 0.373,
+  "Key": 0.112,
+  "Loudness": 8,
+  "Acousticness": 0.329,
+  "Instrumentalness": 0.541,
+  "Liveness": 0.112,
+  "Valence": 0.59,
+  "Tempo": 85.015,
+  "TrackReference": "https://api.spotify.com/v1/tracks/6uqyE384HDSsuwpoF4mjrL"
+},{
+  "_id": {
+    "$oid": "60f7907da24480877399e294"
+  },
+  "ArtistName": "Bad Bunny",
+  "TrackName": "DÁKITI",
+  "Danceability": 0.731,
+  "Energy": 0.573,
+  "Key": 0.113,
+  "Loudness": 4,
+  "Acousticness": 0.401,
+  "Instrumentalness": 0.0000522,
+  "Liveness": 0.113,
+  "Valence": 0.145,
+  "Tempo": 109.928,
+  "TrackReference": "https://api.spotify.com/v1/tracks/4MzXwWMhyBbmu6hOcLVD49"
+},{
+  "_id": {
+    "$oid": "60f7907da24480877399e295"
+  },
+  "ArtistName": "Bizarrap",
+  "TrackName": "Nicky Jam: Bzrp Music Sessions, Vol. 41",
+  "Danceability": 0.627,
+  "Energy": 0.849,
+  "Key": 0.145,
+  "Loudness": 1,
+  "Acousticness": 0.0913,
+  "Instrumentalness": 0,
+  "Liveness": 0.145,
+  "Valence": 0.818,
+  "Tempo": 89.907,
+  "TrackReference": "https://api.spotify.com/v1/tracks/03LfOYi0icz4souspZVVhq"
+},{
+  "_id": {
+    "$oid": "60f7907da24480877399e296"
+  },
+  "ArtistName": "J Balvin",
+  "TrackName": "Poblado - Remix",
+  "Danceability": 0.813,
+  "Energy": 0.809,
+  "Key": 0.377,
+  "Loudness": 3,
+  "Acousticness": 0.102,
+  "Instrumentalness": 0.00000137,
+  "Liveness": 0.377,
+  "Valence": 0.646,
+  "Tempo": 93.005,
+  "TrackReference": "https://api.spotify.com/v1/tracks/1WedZeiezCmCEOzLwhx0hV"
+},{
+  "_id": {
+    "$oid": "60f7907da24480877399e297"
+  },
+  "ArtistName": "Tiësto",
+  "TrackName": "The Business",
+  "Danceability": 0.798,
+  "Energy": 0.62,
+  "Key": 0.112,
+  "Loudness": 8,
+  "Acousticness": 0.414,
+  "Instrumentalness": 0.0192,
+  "Liveness": 0.112,
+  "Valence": 0.235,
+  "Tempo": 120.031,
+  "TrackReference": "https://api.spotify.com/v1/tracks/6f3Slt0GbA2bPZlz0aIFXN"
+},{
+  "_id": {
+    "$oid": "60f7907da24480877399e298"
+  },
+  "ArtistName": "Bella Poarch",
+  "TrackName": "Build a Bitch",
+  "Danceability": 0.855,
+  "Energy": 0.463,
+  "Key": 0.347,
+  "Loudness": 3,
+  "Acousticness": 0.217,
+  "Instrumentalness": 0.0000177,
+  "Liveness": 0.347,
+  "Valence": 0.866,
+  "Tempo": 102.931,
+  "TrackReference": "https://api.spotify.com/v1/tracks/7BoobGhD4x5K96Me0hqC8Q"
+},{
+  "_id": {
+    "$oid": "60f7907da24480877399e299"
+  },
+  "ArtistName": "TINI",
+  "TrackName": "Miénteme",
+  "Danceability": 0.85,
+  "Energy": 0.541,
+  "Key": 0.286,
+  "Loudness": 2,
+  "Acousticness": 0.161,
+  "Instrumentalness": 0.00000501,
+  "Liveness": 0.286,
+  "Valence": 0.916,
+  "Tempo": 92.003,
+  "TrackReference": "https://api.spotify.com/v1/tracks/0cOa970mzTWAxKtltpkpLc"
+},{
+  "_id": {
+    "$oid": "60f7907ea24480877399e29a"
+  },
+  "ArtistName": "24kGoldn",
+  "TrackName": "Mood (feat. iann dior)",
+  "Danceability": 0.701,
+  "Energy": 0.716,
+  "Key": 0.324,
+  "Loudness": 7,
+  "Acousticness": 0.174,
+  "Instrumentalness": 0,
+  "Liveness": 0.324,
+  "Valence": 0.732,
+  "Tempo": 91.007,
+  "TrackReference": "https://api.spotify.com/v1/tracks/4jPy3l0RUwlUI9T5XHBW2m"
+},{
+  "_id": {
+    "$oid": "60f7907ea24480877399e29b"
+  },
+  "ArtistName": "Wisin",
+  "TrackName": "Fiel - Remix",
+  "Danceability": 0.839,
+  "Energy": 0.711,
+  "Key": 0.118,
+  "Loudness": 6,
+  "Acousticness": 0.398,
+  "Instrumentalness": 0.00000202,
+  "Liveness": 0.118,
+  "Valence": 0.573,
+  "Tempo": 97.99,
+  "TrackReference": "https://api.spotify.com/v1/tracks/43qcs9NpJhDxtG91zxFkj7"
+},{
+  "_id": {
+    "$oid": "60f7907ea24480877399e29c"
+  },
+  "ArtistName": "Galantis",
+  "TrackName": "Heartbreak Anthem (with David Guetta & Little Mix)",
+  "Danceability": 0.595,
+  "Energy": 0.784,
+  "Key": 0.0608,
+  "Loudness": 1,
+  "Acousticness": 0.216,
+  "Instrumentalness": 0,
+  "Liveness": 0.0608,
+  "Valence": 0.479,
+  "Tempo": 124.111,
+  "TrackReference": "https://api.spotify.com/v1/tracks/5K6Ssv4Z3zRvxt0P6EKUAP"
+},{
+  "_id": {
+    "$oid": "60f7907ea24480877399e29d"
+  },
+  "ArtistName": "Olivia Rodrigo",
+  "TrackName": "brutal",
+  "Danceability": 0.672,
+  "Energy": 0.526,
+  "Key": 0.28,
+  "Loudness": 4,
+  "Acousticness": 0.0311,
+  "Instrumentalness": 0.00000137,
+  "Liveness": 0.28,
+  "Valence": 0.28,
+  "Tempo": 123.999,
+  "TrackReference": "https://api.spotify.com/v1/tracks/6SRsiMl7w1USE4mFqrOhHC"
+},{
+  "_id": {
+    "$oid": "60f7907ea24480877399e29e"
+  },
+  "ArtistName": "Farruko",
+  "TrackName": "Pepas",
+  "Danceability": 0.762,
+  "Energy": 0.766,
+  "Key": 0.128,
+  "Loudness": 7,
+  "Acousticness": 0.00776,
+  "Instrumentalness": 0.0000698,
+  "Liveness": 0.128,
+  "Valence": 0.442,
+  "Tempo": 130.001,
+  "TrackReference": "https://api.spotify.com/v1/tracks/5fwSHlTEWpluwOM0Sxnh5k"
+},{
+  "_id": {
+    "$oid": "60f7907fa24480877399e29f"
+  },
+  "ArtistName": "Majestic",
+  "TrackName": "Rasputin",
+  "Danceability": 0.758,
+  "Energy": 0.913,
+  "Key": 0.193,
+  "Loudness": 6,
+  "Acousticness": 0.00364,
+  "Instrumentalness": 0.0000692,
+  "Liveness": 0.193,
+  "Valence": 0.658,
+  "Tempo": 128.04,
+  "TrackReference": "https://api.spotify.com/v1/tracks/0b18g3G5spr4ZCkz7Y6Q0Q"
+},{
+  "_id": {
+    "$oid": "60f7907fa24480877399e2a0"
+  },
+  "ArtistName": "Surf Curse",
+  "TrackName": "Freaks",
+  "Danceability": 0.345,
+  "Energy": 0.941,
+  "Key": 0.0511,
+  "Loudness": 9,
+  "Acousticness": 0.0000384,
+  "Instrumentalness": 0.633,
+  "Liveness": 0.0511,
+  "Valence": 0.407,
+  "Tempo": 179.626,
+  "TrackReference": "https://api.spotify.com/v1/tracks/7EkWXAI1wn8Ii883ecd9xr"
+},{
+  "_id": {
+    "$oid": "60f7907fa24480877399e2a1"
+  },
+  "ArtistName": "Rauw Alejandro",
+  "TrackName": "2/Catorce",
+  "Danceability": 0.768,
+  "Energy": 0.56,
+  "Key": 0.115,
+  "Loudness": 3,
+  "Acousticness": 0.709,
+  "Instrumentalness": 0.000791,
+  "Liveness": 0.115,
+  "Valence": 0.372,
+  "Tempo": 112.084,
+  "TrackReference": "https://api.spotify.com/v1/tracks/0PwFN7vRvY80Hnkoew2x3f"
+},{
+  "_id": {
+    "$oid": "60f7907fa24480877399e2a2"
+  },
+  "ArtistName": "Trinidad Cardona",
+  "TrackName": "Dinero",
+  "Danceability": 0.708,
+  "Energy": 0.782,
+  "Key": 0.107,
+  "Loudness": 2,
+  "Acousticness": 0.00772,
+  "Instrumentalness": 0,
+  "Liveness": 0.107,
+  "Valence": 0.484,
+  "Tempo": 119.997,
+  "TrackReference": "https://api.spotify.com/v1/tracks/3ggtU1ZOKO8ZNiqPNyXGcm"
+},{
+  "_id": {
+    "$oid": "60f7907fa24480877399e2a3"
+  },
+  "ArtistName": "Sech",
+  "TrackName": "911 - Remix",
+  "Danceability": 0.816,
+  "Energy": 0.71,
+  "Key": 0.292,
+  "Loudness": 7,
+  "Acousticness": 0.165,
+  "Instrumentalness": 0,
+  "Liveness": 0.292,
+  "Valence": 0.784,
+  "Tempo": 93.02,
+  "TrackReference": "https://api.spotify.com/v1/tracks/27RSJHEA99Y0Vsow7nA37A"
+},{
+  "_id": {
+    "$oid": "60f79080a24480877399e2a4"
+  },
+  "ArtistName": "Giveon",
+  "TrackName": "Heartbreak Anniversary",
+  "Danceability": 0.449,
+  "Energy": 0.465,
+  "Key": 0.303,
+  "Loudness": 0,
+  "Acousticness": 0.524,
+  "Instrumentalness": 0.00000102,
+  "Liveness": 0.303,
+  "Valence": 0.543,
+  "Tempo": 89.087,
+  "TrackReference": "https://api.spotify.com/v1/tracks/3FAJ6O0NOHQV8Mc5Ri6ENp"
+},{
+  "_id": {
+    "$oid": "60f79080a24480877399e2a5"
+  },
+  "ArtistName": "ATB",
+  "TrackName": "Your Love (9PM)",
+  "Danceability": 0.669,
+  "Energy": 0.784,
+  "Key": 0.115,
+  "Loudness": 7,
+  "Acousticness": 0.194,
+  "Instrumentalness": 0.00000628,
+  "Liveness": 0.115,
+  "Valence": 0.517,
+  "Tempo": 125.993,
+  "TrackReference": "https://api.spotify.com/v1/tracks/5YaskwnGDZFDRipaqzbwQx"
+},{
+  "_id": {
+    "$oid": "60f79080a24480877399e2a6"
+  },
+  "ArtistName": "Marshmello",
+  "TrackName": "Leave Before You Love Me (with Jonas Brothers)",
+  "Danceability": 0.721,
+  "Energy": 0.738,
+  "Key": 0.118,
+  "Loudness": 7,
+  "Acousticness": 0.00226,
+  "Instrumentalness": 0.00000441,
+  "Liveness": 0.118,
+  "Valence": 0.637,
+  "Tempo": 119.976,
+  "TrackReference": "https://api.spotify.com/v1/tracks/4qu63nuBpdn0qHUHuObEj1"
+},{
+  "_id": {
+    "$oid": "60f79080a24480877399e2a7"
+  },
+  "ArtistName": "Megan Thee Stallion",
+  "TrackName": "Thot Shit",
+  "Danceability": 0.95,
+  "Energy": 0.693,
+  "Key": 0.173,
+  "Loudness": 9,
+  "Acousticness": 0.0133,
+  "Instrumentalness": 0,
+  "Liveness": 0.173,
+  "Valence": 0.891,
+  "Tempo": 130.02,
+  "TrackReference": "https://api.spotify.com/v1/tracks/5zNW5ARjYhJQJz1AChP33n"
+},{
+  "_id": {
+    "$oid": "60f79080a24480877399e2a8"
+  },
+  "ArtistName": "Maroon 5",
+  "TrackName": "Beautiful Mistakes (feat. Megan Thee Stallion)",
+  "Danceability": 0.713,
+  "Energy": 0.676,
+  "Key": 0.154,
+  "Loudness": 10,
+  "Acousticness": 0.0377,
+  "Instrumentalness": 0,
+  "Liveness": 0.154,
+  "Valence": 0.721,
+  "Tempo": 99.048,
+  "TrackReference": "https://api.spotify.com/v1/tracks/5zFglKYiknIxks8geR8rcL"
+},{
+  "_id": {
+    "$oid": "60f79081a24480877399e2a9"
+  },
+  "ArtistName": "Måneskin",
+  "TrackName": "ZITTI E BUONI",
+  "Danceability": 0.625,
+  "Energy": 0.939,
+  "Key": 0.424,
+  "Loudness": 4,
+  "Acousticness": 0.00138,
+  "Instrumentalness": 0,
+  "Liveness": 0.424,
+  "Valence": 0.644,
+  "Tempo": 102.999,
+  "TrackReference": "https://api.spotify.com/v1/tracks/776AftMmFFAWUIEAb3lHhw"
+},{
+  "_id": {
+    "$oid": "60f79081a24480877399e2aa"
+  },
+  "ArtistName": "Marc Seguí",
+  "TrackName": "Tiroteo - Remix",
+  "Danceability": 0.75,
+  "Energy": 0.522,
+  "Key": 0.0743,
+  "Loudness": 9,
+  "Acousticness": 0.282,
+  "Instrumentalness": 0,
+  "Liveness": 0.0743,
+  "Valence": 0.601,
+  "Tempo": 110.427,
+  "TrackReference": "https://api.spotify.com/v1/tracks/4OwhwvKESFtuu06dTgct7i"
+},{
+  "_id": {
+    "$oid": "60f79081a24480877399e2ab"
+  },
+  "ArtistName": "OneRepublic",
+  "TrackName": "Run",
+  "Danceability": 0.682,
+  "Energy": 0.72,
+  "Key": 0.148,
+  "Loudness": 11,
+  "Acousticness": 0.326,
+  "Instrumentalness": 0,
+  "Liveness": 0.148,
+  "Valence": 0.673,
+  "Tempo": 117.003,
+  "TrackReference": "https://api.spotify.com/v1/tracks/2UbVnbE5FH6008mAm6Mmgw"
+},{
+  "_id": {
+    "$oid": "60f79081a24480877399e2ac"
+  },
+  "ArtistName": "The Weeknd",
+  "TrackName": "Save Your Tears",
+  "Danceability": 0.68,
+  "Energy": 0.826,
+  "Key": 0.543,
+  "Loudness": 0,
+  "Acousticness": 0.0212,
+  "Instrumentalness": 0.0000124,
+  "Liveness": 0.543,
+  "Valence": 0.644,
+  "Tempo": 118.051,
+  "TrackReference": "https://api.spotify.com/v1/tracks/5QO79kh1waicV47BqGRL3g"
+},{
+  "_id": {
+    "$oid": "60f79081a24480877399e2ad"
+  },
+  "ArtistName": "Dua Lipa",
+  "TrackName": "Don't Start Now",
+  "Danceability": 0.793,
+  "Energy": 0.793,
+  "Key": 0.0951,
+  "Loudness": 11,
+  "Acousticness": 0.0123,
+  "Instrumentalness": 0,
+  "Liveness": 0.0951,
+  "Valence": 0.679,
+  "Tempo": 123.95,
+  "TrackReference": "https://api.spotify.com/v1/tracks/3PfIrDoz19wz7qK7tYeu62"
+},{
+  "_id": {
+    "$oid": "60f79081a24480877399e2ae"
+  },
+  "ArtistName": "Lewis Capaldi",
+  "TrackName": "Someone You Loved",
+  "Danceability": 0.501,
+  "Energy": 0.405,
+  "Key": 0.105,
+  "Loudness": 1,
+  "Acousticness": 0.751,
+  "Instrumentalness": 0,
+  "Liveness": 0.105,
+  "Valence": 0.446,
+  "Tempo": 109.891,
+  "TrackReference": "https://api.spotify.com/v1/tracks/7qEHsqek33rTcFNT9PFqLf"
+},{
+  "_id": {
+    "$oid": "60f79082a24480877399e2af"
+  },
+  "ArtistName": "The Neighbourhood",
+  "TrackName": "Sweater Weather",
+  "Danceability": 0.612,
+  "Energy": 0.807,
+  "Key": 0.101,
+  "Loudness": 10,
+  "Acousticness": 0.0495,
+  "Instrumentalness": 0.0177,
+  "Liveness": 0.101,
+  "Valence": 0.398,
+  "Tempo": 124.053,
+  "TrackReference": "https://api.spotify.com/v1/tracks/2QjOHCTQ1Jl3zawyYOpxh6"
+},{
+  "_id": {
+    "$oid": "60f79082a24480877399e2b0"
+  },
+  "ArtistName": "Kali Uchis",
+  "TrackName": "telepatía",
+  "Danceability": 0.653,
+  "Energy": 0.524,
+  "Key": 0.203,
+  "Loudness": 11,
+  "Acousticness": 0.112,
+  "Instrumentalness": 0,
+  "Liveness": 0.203,
+  "Valence": 0.553,
+  "Tempo": 83.97,
+  "TrackReference": "https://api.spotify.com/v1/tracks/6tDDoYIxWvMLTdKpjFkc1B"
+},{
+  "_id": {
+    "$oid": "60f79082a24480877399e2b1"
+  },
+  "ArtistName": "WILLOW",
+  "TrackName": "t r a n s p a r e n t s o u l feat. Travis Barker",
+  "Danceability": 0.374,
+  "Energy": 0.83,
+  "Key": 0.15,
+  "Loudness": 11,
+  "Acousticness": 0.00213,
+  "Instrumentalness": 0,
+  "Liveness": 0.15,
+  "Valence": 0.204,
+  "Tempo": 90.19,
+  "TrackReference": "https://api.spotify.com/v1/tracks/5JKnYZOhSP7rOK0jPYcCjV"
+},{
+  "_id": {
+    "$oid": "60f79082a24480877399e2b2"
+  },
+  "ArtistName": "Los Legendarios",
+  "TrackName": "Fiel",
+  "Danceability": 0.849,
+  "Energy": 0.701,
+  "Key": 0.112,
+  "Loudness": 6,
+  "Acousticness": 0.407,
+  "Instrumentalness": 0,
+  "Liveness": 0.112,
+  "Valence": 0.505,
+  "Tempo": 98.005,
+  "TrackReference": "https://api.spotify.com/v1/tracks/7Bk0uXKk1uPT0XuQbpFzvs"
+},{
+  "_id": {
+    "$oid": "60f79082a24480877399e2b3"
+  },
+  "ArtistName": "KAROL G",
+  "TrackName": "EL MAKINON",
+  "Danceability": 0.635,
+  "Energy": 0.706,
+  "Key": 0.108,
+  "Loudness": 5,
+  "Acousticness": 0.256,
+  "Instrumentalness": 0,
+  "Liveness": 0.108,
+  "Valence": 0.443,
+  "Tempo": 88.863,
+  "TrackReference": "https://api.spotify.com/v1/tracks/2FSGUA0gFgGeQdprjtGM2M"
+},{
+  "_id": {
+    "$oid": "60f79083a24480877399e2b4"
+  },
+  "ArtistName": "Tiago PZK",
+  "TrackName": "Entre Nosotros",
+  "Danceability": 0.729,
+  "Energy": 0.513,
+  "Key": 0.137,
+  "Loudness": 5,
+  "Acousticness": 0.494,
+  "Instrumentalness": 0.0000011,
+  "Liveness": 0.137,
+  "Valence": 0.789,
+  "Tempo": 170.064,
+  "TrackReference": "https://api.spotify.com/v1/tracks/6w8yBI2vthyN9UnwO4UBWb"
+},{
+  "_id": {
+    "$oid": "60f79083a24480877399e2b5"
+  },
+  "ArtistName": "Gera MX",
+  "TrackName": "Botella Tras Botella",
+  "Danceability": 0.727,
+  "Energy": 0.546,
+  "Key": 0.122,
+  "Loudness": 0,
+  "Acousticness": 0.656,
+  "Instrumentalness": 0,
+  "Liveness": 0.122,
+  "Valence": 0.69,
+  "Tempo": 106.891,
+  "TrackReference": "https://api.spotify.com/v1/tracks/2MnLkFqY9Rpg9s3Zv6ZJdK"
+},{
+  "_id": {
+    "$oid": "60f79083a24480877399e2b6"
+  },
+  "ArtistName": "Pop Smoke",
+  "TrackName": "Bout A Million (feat. 42 Dugg & 21 Savage)",
+  "Danceability": 0.716,
+  "Energy": 0.67,
+  "Key": 0.13,
+  "Loudness": 0,
+  "Acousticness": 0.526,
+  "Instrumentalness": 0,
+  "Liveness": 0.13,
+  "Valence": 0.411,
+  "Tempo": 145.043,
+  "TrackReference": "https://api.spotify.com/v1/tracks/4LaGu95Ui2s4vprSQYWUAZ"
+},{
+  "_id": {
+    "$oid": "60f79083a24480877399e2b7"
+  },
+  "ArtistName": "The Kid LAROI",
+  "TrackName": "WITHOUT YOU",
+  "Danceability": 0.662,
+  "Energy": 0.413,
+  "Key": 0.134,
+  "Loudness": 0,
+  "Acousticness": 0.213,
+  "Instrumentalness": 0,
+  "Liveness": 0.134,
+  "Valence": 0.467,
+  "Tempo": 93.005,
+  "TrackReference": "https://api.spotify.com/v1/tracks/27OeeYzk6klgBh83TSvGMA"
+},{
+  "_id": {
+    "$oid": "60f79083a24480877399e2b8"
+  },
+  "ArtistName": "Drake",
+  "TrackName": "Wants and Needs (feat. Lil Baby)",
+  "Danceability": 0.578,
+  "Energy": 0.449,
+  "Key": 0.119,
+  "Loudness": 1,
+  "Acousticness": 0.0618,
+  "Instrumentalness": 0.00000217,
+  "Liveness": 0.119,
+  "Valence": 0.1,
+  "Tempo": 136.006,
+  "TrackReference": "https://api.spotify.com/v1/tracks/65OVbaJR5O1RmwOQx0875b"
+},{
+  "_id": {
+    "$oid": "60f79084a24480877399e2b9"
+  },
+  "ArtistName": "Travis Scott",
+  "TrackName": "Goosebumps - Remix",
+  "Danceability": 0.841,
+  "Energy": 0.593,
+  "Key": 0.124,
+  "Loudness": 1,
+  "Acousticness": 0.418,
+  "Instrumentalness": 0,
+  "Liveness": 0.124,
+  "Valence": 0.808,
+  "Tempo": 124.917,
+  "TrackReference": "https://api.spotify.com/v1/tracks/5uEYRdEIh9Bo4fpjDd4Na9"
+},{
+  "_id": {
+    "$oid": "60f79084a24480877399e2ba"
+  },
+  "ArtistName": "Joel Corry",
+  "TrackName": "BED",
+  "Danceability": 0.671,
+  "Energy": 0.782,
+  "Key": 0.333,
+  "Loudness": 6,
+  "Acousticness": 0.0142,
+  "Instrumentalness": 0.00221,
+  "Liveness": 0.333,
+  "Valence": 0.618,
+  "Tempo": 123.989,
+  "TrackReference": "https://api.spotify.com/v1/tracks/0siYMEsGrzzzlWLXK5zJfS"
+},{
+  "_id": {
+    "$oid": "60f79084a24480877399e2bb"
+  },
+  "ArtistName": "Joel Corry",
+  "TrackName": "Head & Heart (feat. MNEK)",
+  "Danceability": 0.734,
+  "Energy": 0.874,
+  "Key": 0.0489,
+  "Loudness": 8,
+  "Acousticness": 0.168,
+  "Instrumentalness": 0.0000114,
+  "Liveness": 0.0489,
+  "Valence": 0.905,
+  "Tempo": 122.953,
+  "TrackReference": "https://api.spotify.com/v1/tracks/6cx06DFPPHchuUAcTxznu9"
+},{
+  "_id": {
+    "$oid": "60f79084a24480877399e2bc"
+  },
+  "ArtistName": "Duncan Laurence",
+  "TrackName": "Arcade",
+  "Danceability": 0.453,
+  "Energy": 0.35,
+  "Key": 0.144,
+  "Loudness": 9,
+  "Acousticness": 0.827,
+  "Instrumentalness": 0.00122,
+  "Liveness": 0.144,
+  "Valence": 0.279,
+  "Tempo": 72.017,
+  "TrackReference": "https://api.spotify.com/v1/tracks/1J14CdDAvBTE1AJYUOwl6C"
+},{
+  "_id": {
+    "$oid": "60f79084a24480877399e2bd"
+  },
+  "ArtistName": "Pop Smoke",
+  "TrackName": "Tell The Vision (feat. Kanye West & Pusha T)",
+  "Danceability": 0.662,
+  "Energy": 0.686,
+  "Key": 0.349,
+  "Loudness": 7,
+  "Acousticness": 0.251,
+  "Instrumentalness": 0.00000559,
+  "Liveness": 0.349,
+  "Valence": 0.678,
+  "Tempo": 143.971,
+  "TrackReference": "https://api.spotify.com/v1/tracks/2UwALqx6yOsXTFt7zRxnts"
+},{
+  "_id": {
+    "$oid": "60f79085a24480877399e2be"
+  },
+  "ArtistName": "Pop Smoke",
+  "TrackName": "Demeanor (feat. Dua Lipa)",
+  "Danceability": 0.675,
+  "Energy": 0.608,
+  "Key": 0.11,
+  "Loudness": 3,
+  "Acousticness": 0.336,
+  "Instrumentalness": 0,
+  "Liveness": 0.11,
+  "Valence": 0.728,
+  "Tempo": 99.865,
+  "TrackReference": "https://api.spotify.com/v1/tracks/3DMs7bahbQTnoxCjgP7qoK"
+},{
+  "_id": {
+    "$oid": "60f79085a24480877399e2bf"
+  },
+  "ArtistName": "João Gomes",
+  "TrackName": "Meu Pedaço de Pecado",
+  "Danceability": 0.668,
+  "Energy": 0.887,
+  "Key": 0.257,
+  "Loudness": 11,
+  "Acousticness": 0.369,
+  "Instrumentalness": 0.00000139,
+  "Liveness": 0.257,
+  "Valence": 0.907,
+  "Tempo": 151.92,
+  "TrackReference": "https://api.spotify.com/v1/tracks/2kJRlOyrxsy7Ot3c5TZ8Q6"
+},{
+  "_id": {
+    "$oid": "60f79085a24480877399e2c0"
+  },
+  "ArtistName": "Tones And I",
+  "TrackName": "Dance Monkey",
+  "Danceability": 0.824,
+  "Energy": 0.587,
+  "Key": 0.149,
+  "Loudness": 6,
+  "Acousticness": 0.69,
+  "Instrumentalness": 0.000105,
+  "Liveness": 0.149,
+  "Valence": 0.514,
+  "Tempo": 98.029,
+  "TrackReference": "https://api.spotify.com/v1/tracks/2N8m6CYs74qQO4mjVcXO30"
+},{
+  "_id": {
+    "$oid": "60f79085a24480877399e2c1"
+  },
+  "ArtistName": "Mora",
+  "TrackName": "512",
+  "Danceability": 0.818,
+  "Energy": 0.673,
+  "Key": 0.172,
+  "Loudness": 4,
+  "Acousticness": 0.348,
+  "Instrumentalness": 0,
+  "Liveness": 0.172,
+  "Valence": 0.695,
+  "Tempo": 87.961,
+  "TrackReference": "https://api.spotify.com/v1/tracks/5jzEwSyyymBlf1fa1o39T2"
+},{
+  "_id": {
+    "$oid": "60f79085a24480877399e2c2"
+  },
+  "ArtistName": "Justin Quiles",
+  "TrackName": "Loco",
+  "Danceability": 0.77,
+  "Energy": 0.899,
+  "Key": 0.0894,
+  "Loudness": 8,
+  "Acousticness": 0.222,
+  "Instrumentalness": 0.00000114,
+  "Liveness": 0.0894,
+  "Valence": 0.851,
+  "Tempo": 128.05,
+  "TrackReference": "https://api.spotify.com/v1/tracks/6PDlkWmrq2ZKiUuFt2aQsH"
+},{
+  "_id": {
+    "$oid": "60f79085a24480877399e2c3"
+  },
+  "ArtistName": "Ariana Grande",
+  "TrackName": "positions",
+  "Danceability": 0.737,
+  "Energy": 0.802,
+  "Key": 0.0931,
+  "Loudness": 0,
+  "Acousticness": 0.468,
+  "Instrumentalness": 0,
+  "Liveness": 0.0931,
+  "Valence": 0.682,
+  "Tempo": 144.015,
+  "TrackReference": "https://api.spotify.com/v1/tracks/35mvY5S1H3J2QZyna3TFe0"
+},{
+  "_id": {
+    "$oid": "60f79086a24480877399e2c4"
+  },
+  "ArtistName": "Post Malone",
+  "TrackName": "Circles",
+  "Danceability": 0.695,
+  "Energy": 0.762,
+  "Key": 0.0863,
+  "Loudness": 0,
+  "Acousticness": 0.192,
+  "Instrumentalness": 0.00244,
+  "Liveness": 0.0863,
+  "Valence": 0.553,
+  "Tempo": 120.042,
+  "TrackReference": "https://api.spotify.com/v1/tracks/21jGcNKet2qwijlDFuPiPb"
+},{
+  "_id": {
+    "$oid": "60f79086a24480877399e2c5"
+  },
+  "ArtistName": "Justin Wellington",
+  "TrackName": "Iko Iko (My Bestie)",
+  "Danceability": 0.862,
+  "Energy": 0.753,
+  "Key": 0.077,
+  "Loudness": 5,
+  "Acousticness": 0.131,
+  "Instrumentalness": 0.00000201,
+  "Liveness": 0.077,
+  "Valence": 0.827,
+  "Tempo": 105.039,
+  "TrackReference": "https://api.spotify.com/v1/tracks/7MC4XR9M9amdmKQr2iDF7i"
+},{
+  "_id": {
+    "$oid": "60f79086a24480877399e2c6"
+  },
+  "ArtistName": "Natti Natasha",
+  "TrackName": "Ram Pam Pam",
+  "Danceability": 0.908,
+  "Energy": 0.813,
+  "Key": 0.278,
+  "Loudness": 5,
+  "Acousticness": 0.305,
+  "Instrumentalness": 0,
+  "Liveness": 0.278,
+  "Valence": 0.924,
+  "Tempo": 97.018,
+  "TrackReference": "https://api.spotify.com/v1/tracks/4DHDIdeayp8xvlyg22wREO"
+},{
+  "_id": {
+    "$oid": "60f79086a24480877399e2c7"
+  },
+  "ArtistName": "Pop Smoke",
+  "TrackName": "Woo Baby (feat. Chris Brown)",
+  "Danceability": 0.563,
+  "Energy": 0.672,
+  "Key": 0.0972,
+  "Loudness": 9,
+  "Acousticness": 0.359,
+  "Instrumentalness": 0,
+  "Liveness": 0.0972,
+  "Valence": 0.284,
+  "Tempo": 99.772,
+  "TrackReference": "https://api.spotify.com/v1/tracks/58T4yPLn4NjBYXfRxeweyM"
+},{
+  "_id": {
+    "$oid": "60f79086a24480877399e2c8"
+  },
+  "ArtistName": "Dua Lipa",
+  "TrackName": "Love Again",
+  "Danceability": 0.659,
+  "Energy": 0.667,
+  "Key": 0.1,
+  "Loudness": 11,
+  "Acousticness": 0.00173,
+  "Instrumentalness": 0.0000285,
+  "Liveness": 0.1,
+  "Valence": 0.468,
+  "Tempo": 115.982,
+  "TrackReference": "https://api.spotify.com/v1/tracks/4rPkN1FMzQyFNP9cLUGIIB"
+},{
+  "_id": {
+    "$oid": "60f79087a24480877399e2c9"
+  },
+  "ArtistName": "Olivia Rodrigo",
+  "TrackName": "enough for you",
+  "Danceability": 0.638,
+  "Energy": 0.259,
+  "Key": 0.219,
+  "Loudness": 7,
+  "Acousticness": 0.753,
+  "Instrumentalness": 0,
+  "Liveness": 0.219,
+  "Valence": 0.269,
+  "Tempo": 88.485,
+  "TrackReference": "https://api.spotify.com/v1/tracks/2TOzTqQXNmR2zDJXihjZ2e"
+},{
+  "_id": {
+    "$oid": "60f79087a24480877399e2ca"
+  },
+  "ArtistName": "Lewis Capaldi",
+  "TrackName": "Before You Go",
+  "Danceability": 0.459,
+  "Energy": 0.575,
+  "Key": 0.0885,
+  "Loudness": 3,
+  "Acousticness": 0.604,
+  "Instrumentalness": 0,
+  "Liveness": 0.0885,
+  "Valence": 0.183,
+  "Tempo": 111.881,
+  "TrackReference": "https://api.spotify.com/v1/tracks/2gMXnyrvIjhVBUZwvLZDMP"
+},{
+  "_id": {
+    "$oid": "60f79087a24480877399e2cb"
+  },
+  "ArtistName": "Dua Lipa",
+  "TrackName": "Levitating",
+  "Danceability": 0.695,
+  "Energy": 0.884,
+  "Key": 0.213,
+  "Loudness": 6,
+  "Acousticness": 0.0561,
+  "Instrumentalness": 0,
+  "Liveness": 0.213,
+  "Valence": 0.914,
+  "Tempo": 103.014,
+  "TrackReference": "https://api.spotify.com/v1/tracks/39LLxExYz6ewLAcYrzQQyP"
+},{
+  "_id": {
+    "$oid": "60f79087a24480877399e2cc"
+  },
+  "ArtistName": "Sech",
+  "TrackName": "Sal y Perrea",
+  "Danceability": 0.786,
+  "Energy": 0.899,
+  "Key": 0.299,
+  "Loudness": 10,
+  "Acousticness": 0.192,
+  "Instrumentalness": 0.000189,
+  "Liveness": 0.299,
+  "Valence": 0.813,
+  "Tempo": 90.025,
+  "TrackReference": "https://api.spotify.com/v1/tracks/5u7twkeask1VIyDeNTElSU"
+},{
+  "_id": {
+    "$oid": "60f79087a24480877399e2cd"
+  },
+  "ArtistName": "Internet Money",
+  "TrackName": "Lemonade (feat. Gunna, Don Toliver & NAV)",
+  "Danceability": 0.8,
+  "Energy": 0.658,
+  "Key": 0.111,
+  "Loudness": 1,
+  "Acousticness": 0.25,
+  "Instrumentalness": 0,
+  "Liveness": 0.111,
+  "Valence": 0.462,
+  "Tempo": 140.042,
+  "TrackReference": "https://api.spotify.com/v1/tracks/7hxHWCCAIIxFLCzvDgnQHX"
+},{
+  "_id": {
+    "$oid": "60f79088a24480877399e2ce"
+  },
+  "ArtistName": "Bruno Mars",
+  "TrackName": "Talking to the Moon",
+  "Danceability": 0.523,
+  "Energy": 0.606,
+  "Key": 0.106,
+  "Loudness": 1,
+  "Acousticness": 0.512,
+  "Instrumentalness": 0,
+  "Liveness": 0.106,
+  "Valence": 0.065,
+  "Tempo": 145.837,
+  "TrackReference": "https://api.spotify.com/v1/tracks/161DnLWsx1i3u1JT05lzqU"
+},{
+  "_id": {
+    "$oid": "60f79088a24480877399e2cf"
+  },
+  "ArtistName": "Shouse",
+  "TrackName": "Love Tonight - Edit",
+  "Danceability": 0.727,
+  "Energy": 0.681,
+  "Key": 0.0861,
+  "Loudness": 5,
+  "Acousticness": 0.00214,
+  "Instrumentalness": 0.000307,
+  "Liveness": 0.0861,
+  "Valence": 0.448,
+  "Tempo": 123.028,
+  "TrackReference": "https://api.spotify.com/v1/tracks/6OufwUcCqo81guU2jAlDVP"
+},{
+  "_id": {
+    "$oid": "60f79088a24480877399e2d0"
+  },
+  "ArtistName": "Cardi B",
+  "TrackName": "Up",
+  "Danceability": 0.868,
+  "Energy": 0.795,
+  "Key": 0.0461,
+  "Loudness": 11,
+  "Acousticness": 0.0012,
+  "Instrumentalness": 0.0193,
+  "Liveness": 0.0461,
+  "Valence": 0.819,
+  "Tempo": 166,
+  "TrackReference": "https://api.spotify.com/v1/tracks/1M4OcYkxAtu3ErzSgDEfoi"
+},{
+  "_id": {
+    "$oid": "60f79088a24480877399e2d1"
+  },
+  "ArtistName": "Madison Beer",
+  "TrackName": "Reckless",
+  "Danceability": 0.386,
+  "Energy": 0.426,
+  "Key": 0.14,
+  "Loudness": 3,
+  "Acousticness": 0.807,
+  "Instrumentalness": 0,
+  "Liveness": 0.14,
+  "Valence": 0.261,
+  "Tempo": 180.104,
+  "TrackReference": "https://api.spotify.com/v1/tracks/5ajjAnNRh8bxFvaVHzpPjh"
+},{
+  "_id": {
+    "$oid": "60f79088a24480877399e2d2"
+  },
+  "ArtistName": "Imagine Dragons",
+  "TrackName": "Believer",
+  "Danceability": 0.776,
+  "Energy": 0.78,
+  "Key": 0.081,
+  "Loudness": 10,
+  "Acousticness": 0.0622,
+  "Instrumentalness": 0,
+  "Liveness": 0.081,
+  "Valence": 0.666,
+  "Tempo": 124.949,
+  "TrackReference": "https://api.spotify.com/v1/tracks/0pqnGHJpmpxLKifKRmU6WP"
+},{
+  "_id": {
+    "$oid": "60f79089a24480877399e2d3"
+  },
+  "ArtistName": "Justin Bieber",
+  "TrackName": "Hold On",
+  "Danceability": 0.658,
+  "Energy": 0.634,
+  "Key": 0.12,
+  "Loudness": 1,
+  "Acousticness": 0.0104,
+  "Instrumentalness": 0,
+  "Liveness": 0.12,
+  "Valence": 0.302,
+  "Tempo": 140.002,
+  "TrackReference": "https://api.spotify.com/v1/tracks/1nahzW3kfMuwReTka28tH5"
+},{
+  "_id": {
+    "$oid": "60f79089a24480877399e2d4"
+  },
+  "ArtistName": "Billie Eilish",
+  "TrackName": "lovely (with Khalid)",
+  "Danceability": 0.351,
+  "Energy": 0.296,
+  "Key": 0.095,
+  "Loudness": 4,
+  "Acousticness": 0.934,
+  "Instrumentalness": 0,
+  "Liveness": 0.095,
+  "Valence": 0.12,
+  "Tempo": 115.284,
+  "TrackReference": "https://api.spotify.com/v1/tracks/0u2P5u6lvoDfwTYjAADbn4"
+},{
+  "_id": {
+    "$oid": "60f79089a24480877399e2d5"
+  },
+  "ArtistName": "Maluma",
+  "TrackName": "Sobrio",
+  "Danceability": 0.762,
+  "Energy": 0.77,
+  "Key": 0.15,
+  "Loudness": 5,
+  "Acousticness": 0.138,
+  "Instrumentalness": 0,
+  "Liveness": 0.15,
+  "Valence": 0.631,
+  "Tempo": 177.998,
+  "TrackReference": "https://api.spotify.com/v1/tracks/4HzqWEdAbzcVFDv0pvxV4w"
+},{
+  "_id": {
+    "$oid": "60f79089a24480877399e2d6"
+  },
+  "ArtistName": "SAINt JHN",
+  "TrackName": "Roses - Imanbek Remix",
+  "Danceability": 0.769,
+  "Energy": 0.719,
+  "Key": 0.359,
+  "Loudness": 8,
+  "Acousticness": 0.0143,
+  "Instrumentalness": 0.00777,
+  "Liveness": 0.359,
+  "Valence": 0.863,
+  "Tempo": 121.955,
+  "TrackReference": "https://api.spotify.com/v1/tracks/0zLCBJZSiELJf02ucPP9wb"
+},{
+  "_id": {
+    "$oid": "60f79089a24480877399e2d7"
+  },
+  "ArtistName": "Post Malone",
+  "TrackName": "Sunflower - Spider-Man: Into the Spider-Verse",
+  "Danceability": 0.755,
+  "Energy": 0.522,
+  "Key": 0.0685,
+  "Loudness": 2,
+  "Acousticness": 0.533,
+  "Instrumentalness": 0,
+  "Liveness": 0.0685,
+  "Valence": 0.925,
+  "Tempo": 89.96,
+  "TrackReference": "https://api.spotify.com/v1/tracks/0RiRZpuVRbi7oqRdSMwhQY"
+},{
+  "_id": {
+    "$oid": "60f79089a24480877399e2d8"
+  },
+  "ArtistName": "Doja Cat",
+  "TrackName": "Streets",
+  "Danceability": 0.749,
+  "Energy": 0.463,
+  "Key": 0.337,
+  "Loudness": 11,
+  "Acousticness": 0.208,
+  "Instrumentalness": 0.0371,
+  "Liveness": 0.337,
+  "Valence": 0.19,
+  "Tempo": 90.028,
+  "TrackReference": "https://api.spotify.com/v1/tracks/60ynsPSSKe6O3sfwRnIBRf"
+},{
+  "_id": {
+    "$oid": "60f7908aa24480877399e2d9"
+  },
+  "ArtistName": "Calvin Harris",
+  "TrackName": "By Your Side (feat. Tom Grennan)",
+  "Danceability": 0.733,
+  "Energy": 0.96,
+  "Key": 0.287,
+  "Loudness": 7,
+  "Acousticness": 0.0514,
+  "Instrumentalness": 0.00199,
+  "Liveness": 0.287,
+  "Valence": 0.811,
+  "Tempo": 124.01,
+  "TrackReference": "https://api.spotify.com/v1/tracks/0vR2rIVORmgeKiGIgNT0fV"
+},{
+  "_id": {
+    "$oid": "60f7908aa24480877399e2da"
+  },
+  "ArtistName": "Tate McRae",
+  "TrackName": "you broke me first",
+  "Danceability": 0.667,
+  "Energy": 0.373,
+  "Key": 0.0906,
+  "Loudness": 4,
+  "Acousticness": 0.785,
+  "Instrumentalness": 0,
+  "Liveness": 0.0906,
+  "Valence": 0.0823,
+  "Tempo": 124.148,
+  "TrackReference": "https://api.spotify.com/v1/tracks/45bE4HXI0AwGZXfZtMp8JR"
+},{
+  "_id": {
+    "$oid": "60f7908aa24480877399e2db"
+  },
+  "ArtistName": "Vegedream",
+  "TrackName": "Ramenez la coupe à la maison",
+  "Danceability": 0.808,
+  "Energy": 0.661,
+  "Key": 0.138,
+  "Loudness": 0,
+  "Acousticness": 0.0358,
+  "Instrumentalness": 0,
+  "Liveness": 0.138,
+  "Valence": 0.804,
+  "Tempo": 107.992,
+  "TrackReference": "https://api.spotify.com/v1/tracks/1m0UFnuTktOkksvjbF9z0m"
+},{
+  "_id": {
+    "$oid": "60f7908aa24480877399e2dc"
+  },
+  "ArtistName": "Ed Sheeran",
+  "TrackName": "Shape of You",
+  "Danceability": 0.825,
+  "Energy": 0.652,
+  "Key": 0.0931,
+  "Loudness": 1,
+  "Acousticness": 0.581,
+  "Instrumentalness": 0,
+  "Liveness": 0.0931,
+  "Valence": 0.931,
+  "Tempo": 95.977,
+  "TrackReference": "https://api.spotify.com/v1/tracks/7qiZfU4dY1lWllzX7mPBI3"
+},{
+  "_id": {
+    "$oid": "60f7908aa24480877399e2dd"
+  },
+  "ArtistName": "Conan Gray",
+  "TrackName": "Heather",
+  "Danceability": 0.357,
+  "Energy": 0.425,
+  "Key": 0.322,
+  "Loudness": 5,
+  "Acousticness": 0.584,
+  "Instrumentalness": 0,
+  "Liveness": 0.322,
+  "Valence": 0.27,
+  "Tempo": 102.078,
+  "TrackReference": "https://api.spotify.com/v1/tracks/4xqrdfXkTW4T0RauPLv3WA"
+},{
+  "_id": {
+    "$oid": "60f7908ba24480877399e2de"
+  },
+  "ArtistName": "Camilo",
+  "TrackName": "KESI - Remix",
+  "Danceability": 0.871,
+  "Energy": 0.815,
+  "Key": 0.094,
+  "Loudness": 4,
+  "Acousticness": 0.127,
+  "Instrumentalness": 0.00000618,
+  "Liveness": 0.094,
+  "Valence": 0.823,
+  "Tempo": 122.959,
+  "TrackReference": "https://api.spotify.com/v1/tracks/0IqCoZ168iRc9LqfrYgpZy"
+},{
+  "_id": {
+    "$oid": "60f7908ba24480877399e2df"
+  },
+  "ArtistName": "MYA",
+  "TrackName": "2:50 Remix",
+  "Danceability": 0.818,
+  "Energy": 0.812,
+  "Key": 0.234,
+  "Loudness": 9,
+  "Acousticness": 0.112,
+  "Instrumentalness": 0,
+  "Liveness": 0.234,
+  "Valence": 0.844,
+  "Tempo": 139.966,
+  "TrackReference": "https://api.spotify.com/v1/tracks/74znaWw1hmQBusGPSOuTFy"
+},{
+  "_id": {
+    "$oid": "60f7908ba24480877399e2e0"
+  },
+  "ArtistName": "Ed Sheeran",
+  "TrackName": "Perfect",
+  "Danceability": 0.599,
+  "Energy": 0.448,
+  "Key": 0.106,
+  "Loudness": 8,
+  "Acousticness": 0.163,
+  "Instrumentalness": 0,
+  "Liveness": 0.106,
+  "Valence": 0.168,
+  "Tempo": 95.05,
+  "TrackReference": "https://api.spotify.com/v1/tracks/0tgVpDi06FyKpA1z0VMD4v"
+},{
+  "_id": {
+    "$oid": "60f7908ba24480877399e2e1"
+  },
+  "ArtistName": "Bad Bunny",
+  "TrackName": "LA NOCHE DE ANOCHE",
+  "Danceability": 0.856,
+  "Energy": 0.618,
+  "Key": 0.0866,
+  "Loudness": 7,
+  "Acousticness": 0.0303,
+  "Instrumentalness": 0,
+  "Liveness": 0.0866,
+  "Valence": 0.391,
+  "Tempo": 81.993,
+  "TrackReference": "https://api.spotify.com/v1/tracks/2XIc1pqjXV3Cr2BQUGNBck"
+},{
+  "_id": {
+    "$oid": "60f7908ba24480877399e2e2"
+  },
+  "ArtistName": "Vance Joy",
+  "TrackName": "Riptide",
+  "Danceability": 0.484,
+  "Energy": 0.731,
+  "Key": 0.151,
+  "Loudness": 1,
+  "Acousticness": 0.431,
+  "Instrumentalness": 0,
+  "Liveness": 0.151,
+  "Valence": 0.51,
+  "Tempo": 101.654,
+  "TrackReference": "https://api.spotify.com/v1/tracks/7yq4Qj7cqayVTp3FF9CWbm"
+},{
+  "_id": {
+    "$oid": "60f7908ba24480877399e2e3"
+  },
+  "ArtistName": "Sleepy Hallow",
+  "TrackName": "2055",
+  "Danceability": 0.829,
+  "Energy": 0.512,
+  "Key": 0.12,
+  "Loudness": 6,
+  "Acousticness": 0.492,
+  "Instrumentalness": 0,
+  "Liveness": 0.12,
+  "Valence": 0.638,
+  "Tempo": 80.511,
+  "TrackReference": "https://api.spotify.com/v1/tracks/4XvcHTUfIlWfyJTRG0aqlo"
+},{
+  "_id": {
+    "$oid": "60f7908ca24480877399e2e4"
+  },
+  "ArtistName": "J Balvin",
+  "TrackName": "In Da Getto",
+  "Danceability": 0.915,
+  "Energy": 0.72,
+  "Key": 0.0942,
+  "Loudness": 8,
+  "Acousticness": 0.025,
+  "Instrumentalness": 0.0000142,
+  "Liveness": 0.0942,
+  "Valence": 0.631,
+  "Tempo": 126.986,
+  "TrackReference": "https://api.spotify.com/v1/tracks/63aj87TQG6F3RVO5nbG2VQ"
+},{
+  "_id": {
+    "$oid": "60f7908ca24480877399e2e5"
+  },
+  "ArtistName": "DaBaby",
+  "TrackName": "ROCKSTAR (feat. Roddy Ricch)",
+  "Danceability": 0.746,
+  "Energy": 0.69,
+  "Key": 0.101,
+  "Loudness": 11,
+  "Acousticness": 0.247,
+  "Instrumentalness": 0,
+  "Liveness": 0.101,
+  "Valence": 0.497,
+  "Tempo": 89.977,
+  "TrackReference": "https://api.spotify.com/v1/tracks/7ytR5pFWmSjzHJIeQkgog4"
+},{
+  "_id": {
+    "$oid": "60f7908ca24480877399e2e6"
+  },
+  "ArtistName": "Normani",
+  "TrackName": "Wild Side (feat. Cardi B)",
+  "Danceability": 0.74,
+  "Energy": 0.576,
+  "Key": 0.104,
+  "Loudness": 6,
+  "Acousticness": 0.0249,
+  "Instrumentalness": 0,
+  "Liveness": 0.104,
+  "Valence": 0.315,
+  "Tempo": 110.095,
+  "TrackReference": "https://api.spotify.com/v1/tracks/4XkrlDVc8UQUvsyRsxvU0M"
+},{
+  "_id": {
+    "$oid": "60f7908ca24480877399e2e7"
+  },
+  "ArtistName": "Shawn Mendes",
+  "TrackName": "Señorita",
+  "Danceability": 0.759,
+  "Energy": 0.548,
+  "Key": 0.0828,
+  "Loudness": 9,
+  "Acousticness": 0.0392,
+  "Instrumentalness": 0,
+  "Liveness": 0.0828,
+  "Valence": 0.749,
+  "Tempo": 116.967,
+  "TrackReference": "https://api.spotify.com/v1/tracks/6v3KW9xbzN5yKLt9YKDYA2"
+},{
+  "_id": {
+    "$oid": "60f7908ca24480877399e2e8"
+  },
+  "ArtistName": "The Neighbourhood",
+  "TrackName": "Daddy Issues",
+  "Danceability": 0.588,
+  "Energy": 0.521,
+  "Key": 0.123,
+  "Loudness": 10,
+  "Acousticness": 0.0678,
+  "Instrumentalness": 0.149,
+  "Liveness": 0.123,
+  "Valence": 0.337,
+  "Tempo": 85.012,
+  "TrackReference": "https://api.spotify.com/v1/tracks/5E30LdtzQTGqRvNd7l6kG5"
+},{
+  "_id": {
+    "$oid": "60f7908da24480877399e2e9"
+  },
+  "ArtistName": "dhruv",
+  "TrackName": "double take",
+  "Danceability": 0.663,
+  "Energy": 0.434,
+  "Key": 0.249,
+  "Loudness": 8,
+  "Acousticness": 0.828,
+  "Instrumentalness": 0,
+  "Liveness": 0.249,
+  "Valence": 0.225,
+  "Tempo": 109.075,
+  "TrackReference": "https://api.spotify.com/v1/tracks/2CVChktEKBsM6v4IfdFU5k"
+},{
+  "_id": {
+    "$oid": "60f7908da24480877399e2ea"
+  },
+  "ArtistName": "Tom Grennan",
+  "TrackName": "Little Bit of Love",
+  "Danceability": 0.689,
+  "Energy": 0.706,
+  "Key": 0.105,
+  "Loudness": 1,
+  "Acousticness": 0.0833,
+  "Instrumentalness": 0,
+  "Liveness": 0.105,
+  "Valence": 0.623,
+  "Tempo": 106.52,
+  "TrackReference": "https://api.spotify.com/v1/tracks/3Iba59sFmGhQ4kbCY5L8AX"
+},{
+  "_id": {
+    "$oid": "60f7908da24480877399e2eb"
+  },
+  "ArtistName": "Trippie Redd",
+  "TrackName": "Miss The Rage (feat. Playboi Carti)",
+  "Danceability": 0.584,
+  "Energy": 0.859,
+  "Key": 0.847,
+  "Loudness": 8,
+  "Acousticness": 0.0144,
+  "Instrumentalness": 0,
+  "Liveness": 0.847,
+  "Valence": 0.369,
+  "Tempo": 77.005,
+  "TrackReference": "https://api.spotify.com/v1/tracks/2BITQ360Knh6qNAOqR7Dyq"
+},{
+  "_id": {
+    "$oid": "60f7908da24480877399e2ec"
+  },
+  "ArtistName": "Olivia Rodrigo",
+  "TrackName": "1 step forward, 3 steps back",
+  "Danceability": 0.473,
+  "Energy": 0.203,
+  "Key": 0.126,
+  "Loudness": 2,
+  "Acousticness": 0.941,
+  "Instrumentalness": 0,
+  "Liveness": 0.126,
+  "Valence": 0.419,
+  "Tempo": 168.884,
+  "TrackReference": "https://api.spotify.com/v1/tracks/4wcBRRpIfesgcyUtis7PEg"
+},{
+  "_id": {
+    "$oid": "60f7908da24480877399e2ed"
+  },
+  "ArtistName": "BANDIDO",
+  "TrackName": "No Me Conocen (Remix) [con DUKI, Rei & Tiago PZK]",
+  "Danceability": 0.769,
+  "Energy": 0.812,
+  "Key": 0.0781,
+  "Loudness": 1,
+  "Acousticness": 0.281,
+  "Instrumentalness": 0.0000263,
+  "Liveness": 0.0781,
+  "Valence": 0.926,
+  "Tempo": 180.003,
+  "TrackReference": "https://api.spotify.com/v1/tracks/7COGuXyTr12KvdaYXMqheC"
+},{
+  "_id": {
+    "$oid": "60f7908ea24480877399e2ee"
+  },
+  "ArtistName": "Trippie Redd",
+  "TrackName": "Holy Smokes",
+  "Danceability": 0.437,
+  "Energy": 0.527,
+  "Key": 0.153,
+  "Loudness": 6,
+  "Acousticness": 0.185,
+  "Instrumentalness": 0,
+  "Liveness": 0.153,
+  "Valence": 0.701,
+  "Tempo": 187.815,
+  "TrackReference": "https://api.spotify.com/v1/tracks/3EpF150nXMSNjiH0bbmXIL"
+},{
+  "_id": {
+    "$oid": "60f7908ea24480877399e2ef"
+  },
+  "ArtistName": "Bo Burnham",
+  "TrackName": "Bezos I",
+  "Danceability": 0.694,
+  "Energy": 0.948,
+  "Key": 0.139,
+  "Loudness": 2,
+  "Acousticness": 0.00936,
+  "Instrumentalness": 0.0000162,
+  "Liveness": 0.139,
+  "Valence": 0.705,
+  "Tempo": 115.044,
+  "TrackReference": "https://api.spotify.com/v1/tracks/0Kdj7nwaYQmvhxnqZaIQuW"
+},{
+  "_id": {
+    "$oid": "60f7908ea24480877399e2f0"
+  },
+  "ArtistName": "Bad Bunny",
+  "TrackName": "De Museo",
+  "Danceability": 0.592,
+  "Energy": 0.494,
+  "Key": 0.13,
+  "Loudness": 4,
+  "Acousticness": 0.237,
+  "Instrumentalness": 0,
+  "Liveness": 0.13,
+  "Valence": 0.231,
+  "Tempo": 132.037,
+  "TrackReference": "https://api.spotify.com/v1/tracks/267NGliXM8YLVZiKAD9Otm"
+},{
+  "_id": {
+    "$oid": "60f7908ea24480877399e2f1"
+  },
+  "ArtistName": "AURORA",
+  "TrackName": "Runaway",
+  "Danceability": 0.422,
+  "Energy": 0.302,
+  "Key": 0.104,
+  "Loudness": 11,
+  "Acousticness": 0.629,
+  "Instrumentalness": 0.0000783,
+  "Liveness": 0.104,
+  "Valence": 0.123,
+  "Tempo": 114.089,
+  "TrackReference": "https://api.spotify.com/v1/tracks/1v1oIWf2Xgh54kIWuKsDf6"
+},{
+  "_id": {
+    "$oid": "60f7908ea24480877399e2f2"
+  },
+  "ArtistName": "Avicii",
+  "TrackName": "The Nights",
+  "Danceability": 0.527,
+  "Energy": 0.835,
+  "Key": 0.249,
+  "Loudness": 6,
+  "Acousticness": 0.0166,
+  "Instrumentalness": 0,
+  "Liveness": 0.249,
+  "Valence": 0.654,
+  "Tempo": 125.983,
+  "TrackReference": "https://api.spotify.com/v1/tracks/0ct6r3EGTcMLPtrXHDvVjc"
+},{
+  "_id": {
+    "$oid": "60f7908fa24480877399e2f3"
+  },
+  "ArtistName": "Maroon 5",
+  "TrackName": "Memories",
+  "Danceability": 0.775,
+  "Energy": 0.327,
+  "Key": 0.0821,
+  "Loudness": 11,
+  "Acousticness": 0.841,
+  "Instrumentalness": 0,
+  "Liveness": 0.0821,
+  "Valence": 0.595,
+  "Tempo": 91.05,
+  "TrackReference": "https://api.spotify.com/v1/tracks/4cktbXiXOapiLBMprHFErI"
+},{
+  "_id": {
+    "$oid": "60f7908fa24480877399e2f4"
+  },
+  "ArtistName": "MEDUZA",
+  "TrackName": "Paradise (feat. Dermot Kennedy)",
+  "Danceability": 0.632,
+  "Energy": 0.595,
+  "Key": 0.209,
+  "Loudness": 8,
+  "Acousticness": 0.0689,
+  "Instrumentalness": 0,
+  "Liveness": 0.209,
+  "Valence": 0.435,
+  "Tempo": 124.114,
+  "TrackReference": "https://api.spotify.com/v1/tracks/6ft4hAq6yde8jPZY2i5zLr"
+},{
+  "_id": {
+    "$oid": "60f7908fa24480877399e2f5"
+  },
+  "ArtistName": "Tom Odell",
+  "TrackName": "Another Love",
+  "Danceability": 0.442,
+  "Energy": 0.538,
+  "Key": 0.09,
+  "Loudness": 4,
+  "Acousticness": 0.717,
+  "Instrumentalness": 0.0000295,
+  "Liveness": 0.09,
+  "Valence": 0.139,
+  "Tempo": 122.758,
+  "TrackReference": "https://api.spotify.com/v1/tracks/7jtQIBanIiJOMS6RyCx6jZ"
+},{
+  "_id": {
+    "$oid": "60f7908fa24480877399e2f6"
+  },
+  "ArtistName": "Nirvana",
+  "TrackName": "Smells Like Teen Spirit",
+  "Danceability": 0.502,
+  "Energy": 0.912,
+  "Key": 0.106,
+  "Loudness": 1,
+  "Acousticness": 0.0000255,
+  "Instrumentalness": 0.000173,
+  "Liveness": 0.106,
+  "Valence": 0.72,
+  "Tempo": 116.761,
+  "TrackReference": "https://api.spotify.com/v1/tracks/1f3yAtsJtY87CTmM8RLnxf"
+},{
+  "_id": {
+    "$oid": "60f7908fa24480877399e2f7"
+  },
+  "ArtistName": "Myke Towers",
+  "TrackName": "Bandido",
+  "Danceability": 0.713,
+  "Energy": 0.617,
+  "Key": 0.0962,
+  "Loudness": 8,
+  "Acousticness": 0.122,
+  "Instrumentalness": 0,
+  "Liveness": 0.0962,
+  "Valence": 0.682,
+  "Tempo": 168.021,
+  "TrackReference": "https://api.spotify.com/v1/tracks/1xK1Gg9SxG8fy2Ya373oqb"
+},{
+  "_id": {
+    "$oid": "60f79090a24480877399e2f8"
+  },
+  "ArtistName": "Hozier",
+  "TrackName": "Take Me To Church",
+  "Danceability": 0.566,
+  "Energy": 0.664,
+  "Key": 0.116,
+  "Loudness": 4,
+  "Acousticness": 0.634,
+  "Instrumentalness": 0,
+  "Liveness": 0.116,
+  "Valence": 0.437,
+  "Tempo": 128.945,
+  "TrackReference": "https://api.spotify.com/v1/tracks/3dYD57lRAUcMHufyqn9GcI"
+},{
+  "_id": {
+    "$oid": "60f79090a24480877399e2f9"
+  },
+  "ArtistName": "DaBaby",
+  "TrackName": "Red Light Green Light",
+  "Danceability": 0.933,
+  "Energy": 0.656,
+  "Key": 0.161,
+  "Loudness": 2,
+  "Acousticness": 0.129,
+  "Instrumentalness": 0,
+  "Liveness": 0.161,
+  "Valence": 0.934,
+  "Tempo": 119.987,
+  "TrackReference": "https://api.spotify.com/v1/tracks/1YDebgap5OFwXEBG18NJvy"
+},{
+  "_id": {
+    "$oid": "60f79090a24480877399e2fa"
+  },
+  "ArtistName": "Becky G",
+  "TrackName": "Fulanito",
+  "Danceability": 0.93,
+  "Energy": 0.837,
+  "Key": 0.239,
+  "Loudness": 7,
+  "Acousticness": 0.256,
+  "Instrumentalness": 0.00000237,
+  "Liveness": 0.239,
+  "Valence": 0.821,
+  "Tempo": 111.898,
+  "TrackReference": "https://api.spotify.com/v1/tracks/59L8x0xy8njj75vzVCPMqg"
+},{
+  "_id": {
+    "$oid": "60f79090a24480877399e2fb"
+  },
+  "ArtistName": "KSI",
+  "TrackName": "Holiday",
+  "Danceability": 0.356,
+  "Energy": 0.684,
+  "Key": 0.101,
+  "Loudness": 8,
+  "Acousticness": 0.152,
+  "Instrumentalness": 0,
+  "Liveness": 0.101,
+  "Valence": 0.347,
+  "Tempo": 87.188,
+  "TrackReference": "https://api.spotify.com/v1/tracks/14Bcv6siTBPw3TlP84dasC"
+},{
+  "_id": {
+    "$oid": "60f79090a24480877399e2fc"
+  },
+  "ArtistName": "Pop Smoke",
+  "TrackName": "What You Know Bout Love",
+  "Danceability": 0.709,
+  "Energy": 0.548,
+  "Key": 0.133,
+  "Loudness": 10,
+  "Acousticness": 0.65,
+  "Instrumentalness": 0.00000159,
+  "Liveness": 0.133,
+  "Valence": 0.543,
+  "Tempo": 83.995,
+  "TrackReference": "https://api.spotify.com/v1/tracks/1tkg4EHVoqnhR6iFEXb60y"
+},{
+  "_id": {
+    "$oid": "60f79091a24480877399e2fd"
+  },
+  "ArtistName": "Jamie Miller",
+  "TrackName": "Here's Your Perfect",
+  "Danceability": 0.558,
+  "Energy": 0.454,
+  "Key": 0.146,
+  "Loudness": 6,
+  "Acousticness": 0.499,
+  "Instrumentalness": 0,
+  "Liveness": 0.146,
+  "Valence": 0.424,
+  "Tempo": 113.12,
+  "TrackReference": "https://api.spotify.com/v1/tracks/2aTKrdenCq5qBOoJPFdn4P"
+},{
+  "_id": {
+    "$oid": "60f79091a24480877399e2fe"
+  },
+  "ArtistName": "Ofenbach",
+  "TrackName": "Wasted Love (feat. Lagique)",
+  "Danceability": 0.734,
+  "Energy": 0.855,
+  "Key": 0.0901,
+  "Loudness": 6,
+  "Acousticness": 0.0821,
+  "Instrumentalness": 0.00000473,
+  "Liveness": 0.0901,
+  "Valence": 0.54,
+  "Tempo": 121.955,
+  "TrackReference": "https://api.spotify.com/v1/tracks/2pPO9YecZimmuVQfIzfV6U"
+},{
+  "_id": {
+    "$oid": "60f79091a24480877399e2ff"
+  },
+  "ArtistName": "OneRepublic",
+  "TrackName": "Counting Stars",
+  "Danceability": 0.664,
+  "Energy": 0.705,
+  "Key": 0.118,
+  "Loudness": 1,
+  "Acousticness": 0.0654,
+  "Instrumentalness": 0,
+  "Liveness": 0.118,
+  "Valence": 0.477,
+  "Tempo": 122.016,
+  "TrackReference": "https://api.spotify.com/v1/tracks/2tpWsVSb9UEmDRxAl1zhX1"
+},{
+  "_id": {
+    "$oid": "60f79091a24480877399e300"
+  },
+  "ArtistName": "Lil Tjay",
+  "TrackName": "Calling My Phone",
+  "Danceability": 0.907,
+  "Energy": 0.393,
+  "Key": 0.135,
+  "Loudness": 4,
+  "Acousticness": 0.451,
+  "Instrumentalness": 0.00000135,
+  "Liveness": 0.135,
+  "Valence": 0.202,
+  "Tempo": 104.949,
+  "TrackReference": "https://api.spotify.com/v1/tracks/3J8EOeKLTLXORtWPpOU5bE"
+},{
+  "_id": {
+    "$oid": "60f79091a24480877399e301"
+  },
+  "ArtistName": "Cochise",
+  "TrackName": "Tell Em",
+  "Danceability": 0.672,
+  "Energy": 0.717,
+  "Key": 0.398,
+  "Loudness": 5,
+  "Acousticness": 0.103,
+  "Instrumentalness": 0,
+  "Liveness": 0.398,
+  "Valence": 0.473,
+  "Tempo": 157.905,
+  "TrackReference": "https://api.spotify.com/v1/tracks/7nc7mlSdWYeFom84zZ8Wr8"
+},{
+  "_id": {
+    "$oid": "60f79091a24480877399e302"
+  },
+  "ArtistName": "Maluma",
+  "TrackName": "Hawái",
+  "Danceability": 0.783,
+  "Energy": 0.727,
+  "Key": 0.0626,
+  "Loudness": 6,
+  "Acousticness": 0.185,
+  "Instrumentalness": 0.0000246,
+  "Liveness": 0.0626,
+  "Valence": 0.558,
+  "Tempo": 180.067,
+  "TrackReference": "https://api.spotify.com/v1/tracks/1yoMvmasuxZfqHEipJhRbp"
+},{
+  "_id": {
+    "$oid": "60f79092a24480877399e303"
+  },
+  "ArtistName": "Travis Scott",
+  "TrackName": "goosebumps",
+  "Danceability": 0.841,
+  "Energy": 0.728,
+  "Key": 0.149,
+  "Loudness": 7,
+  "Acousticness": 0.0847,
+  "Instrumentalness": 0,
+  "Liveness": 0.149,
+  "Valence": 0.43,
+  "Tempo": 130.049,
+  "TrackReference": "https://api.spotify.com/v1/tracks/6gBFPUFcJLzWGx4lenP6h2"
+},{
+  "_id": {
+    "$oid": "60f79092a24480877399e304"
+  },
+  "ArtistName": "Pashanim",
+  "TrackName": "Sommergewitter",
+  "Danceability": 0.787,
+  "Energy": 0.531,
+  "Key": 0.112,
+  "Loudness": 11,
+  "Acousticness": 0.132,
+  "Instrumentalness": 0.00094,
+  "Liveness": 0.112,
+  "Valence": 0.721,
+  "Tempo": 91.996,
+  "TrackReference": "https://api.spotify.com/v1/tracks/2H7jZg2HliuQhZjfBblLrZ"
+},{
+  "_id": {
+    "$oid": "60f79092a24480877399e305"
+  },
+  "ArtistName": "Tyler, The Creator",
+  "TrackName": "WUSYANAME (feat. Youngboy Never Broke Again & Ty Dolla $ign)",
+  "Danceability": 0.493,
+  "Energy": 0.653,
+  "Key": 0.511,
+  "Loudness": 0,
+  "Acousticness": 0.269,
+  "Instrumentalness": 0,
+  "Liveness": 0.511,
+  "Valence": 0.852,
+  "Tempo": 142.347,
+  "TrackReference": "https://api.spotify.com/v1/tracks/5B0kgjHULYJhAQkK5XsMoC"
+},{
+  "_id": {
+    "$oid": "60f79092a24480877399e306"
+  },
+  "ArtistName": "P!nk",
+  "TrackName": "Cover Me In Sunshine",
+  "Danceability": 0.473,
+  "Energy": 0.592,
+  "Key": 0.131,
+  "Loudness": 5,
+  "Acousticness": 0.0528,
+  "Instrumentalness": 0,
+  "Liveness": 0.131,
+  "Valence": 0.292,
+  "Tempo": 159.7,
+  "TrackReference": "https://api.spotify.com/v1/tracks/0UKUfxIkDAMZz7hMdiVX3m"
+},{
+  "_id": {
+    "$oid": "60f79093a24480877399e307"
+  },
+  "ArtistName": "James Arthur",
+  "TrackName": "Say You Won't Let Go",
+  "Danceability": 0.358,
+  "Energy": 0.557,
+  "Key": 0.0902,
+  "Loudness": 10,
+  "Acousticness": 0.695,
+  "Instrumentalness": 0,
+  "Liveness": 0.0902,
+  "Valence": 0.494,
+  "Tempo": 85.043,
+  "TrackReference": "https://api.spotify.com/v1/tracks/5uCax9HTNlzGybIStD3vDh"
+},{
+  "_id": {
+    "$oid": "60f79093a24480877399e308"
+  },
+  "ArtistName": "Avicii",
+  "TrackName": "Wake Me Up",
+  "Danceability": 0.532,
+  "Energy": 0.783,
+  "Key": 0.161,
+  "Loudness": 2,
+  "Acousticness": 0.0038,
+  "Instrumentalness": 0.0012,
+  "Liveness": 0.161,
+  "Valence": 0.643,
+  "Tempo": 124.08,
+  "TrackReference": "https://api.spotify.com/v1/tracks/0nrRP2bk19rLc0orkWPQk2"
+},{
+  "_id": {
+    "$oid": "60f79093a24480877399e309"
+  },
+  "ArtistName": "Juice WRLD",
+  "TrackName": "Lucid Dreams",
+  "Danceability": 0.511,
+  "Energy": 0.566,
+  "Key": 0.34,
+  "Loudness": 6,
+  "Acousticness": 0.349,
+  "Instrumentalness": 0,
+  "Liveness": 0.34,
+  "Valence": 0.218,
+  "Tempo": 83.903,
+  "TrackReference": "https://api.spotify.com/v1/tracks/285pBltuF7vW8TeWk8hdRR"
+},{
+  "_id": {
+    "$oid": "60f79093a24480877399e30a"
+  },
+  "ArtistName": "Ariana Grande",
+  "TrackName": "34+35",
+  "Danceability": 0.83,
+  "Energy": 0.585,
+  "Key": 0.248,
+  "Loudness": 0,
+  "Acousticness": 0.237,
+  "Instrumentalness": 0,
+  "Liveness": 0.248,
+  "Valence": 0.485,
+  "Tempo": 109.978,
+  "TrackReference": "https://api.spotify.com/v1/tracks/6Im9k8u9iIzKMrmV7BWtlF"
+},{
+  "_id": {
+    "$oid": "60f79094a24480877399e30b"
+  },
+  "ArtistName": "Pop Smoke",
+  "TrackName": "For The Night (feat. Lil Baby & DaBaby)",
+  "Danceability": 0.823,
+  "Energy": 0.586,
+  "Key": 0.193,
+  "Loudness": 6,
+  "Acousticness": 0.114,
+  "Instrumentalness": 0,
+  "Liveness": 0.193,
+  "Valence": 0.347,
+  "Tempo": 125.971,
+  "TrackReference": "https://api.spotify.com/v1/tracks/0PvFJmanyNQMseIFrU708S"
+},{
+  "_id": {
+    "$oid": "60f79094a24480877399e30c"
+  },
+  "ArtistName": "Lady Gaga",
+  "TrackName": "Shallow",
+  "Danceability": 0.572,
+  "Energy": 0.385,
+  "Key": 0.231,
+  "Loudness": 7,
+  "Acousticness": 0.371,
+  "Instrumentalness": 0,
+  "Liveness": 0.231,
+  "Valence": 0.323,
+  "Tempo": 95.799,
+  "TrackReference": "https://api.spotify.com/v1/tracks/2VxeLyX666F8uXCJ0dZF8B"
+},{
+  "_id": {
+    "$oid": "60f79094a24480877399e30d"
+  },
+  "ArtistName": "Pop Smoke",
+  "TrackName": "Coupe",
+  "Danceability": 0.912,
+  "Energy": 0.589,
+  "Key": 0.0795,
+  "Loudness": 8,
+  "Acousticness": 0.0332,
+  "Instrumentalness": 0.0162,
+  "Liveness": 0.0795,
+  "Valence": 0.486,
+  "Tempo": 135.921,
+  "TrackReference": "https://api.spotify.com/v1/tracks/4wNKxMbE3n1gRm4F6OaCP1"
+},{
+  "_id": {
+    "$oid": "60f79094a24480877399e30e"
+  },
+  "ArtistName": "Coldplay",
+  "TrackName": "Yellow",
+  "Danceability": 0.429,
+  "Energy": 0.661,
+  "Key": 0.234,
+  "Loudness": 11,
+  "Acousticness": 0.00239,
+  "Instrumentalness": 0.000121,
+  "Liveness": 0.234,
+  "Valence": 0.285,
+  "Tempo": 173.372,
+  "TrackReference": "https://api.spotify.com/v1/tracks/3AJwUDP919kvQ9QcozQPxg"
+},{
+  "_id": {
+    "$oid": "60f79094a24480877399e30f"
+  },
+  "ArtistName": "Queen",
+  "TrackName": "Bohemian Rhapsody - Remastered 2011",
+  "Danceability": 0.414,
+  "Energy": 0.404,
+  "Key": 0.3,
+  "Loudness": 0,
+  "Acousticness": 0.271,
+  "Instrumentalness": 0,
+  "Liveness": 0.3,
+  "Valence": 0.224,
+  "Tempo": 71.105,
+  "TrackReference": "https://api.spotify.com/v1/tracks/4u7EnebtmKWzUH433cf5Qv"
+},{
+  "_id": {
+    "$oid": "60f79095a24480877399e310"
+  },
+  "ArtistName": "DaBaby",
+  "TrackName": "Ball If I Want To",
+  "Danceability": 0.902,
+  "Energy": 0.669,
+  "Key": 0.0728,
+  "Loudness": 1,
+  "Acousticness": 0.161,
+  "Instrumentalness": 0,
+  "Liveness": 0.0728,
+  "Valence": 0.628,
+  "Tempo": 139.949,
+  "TrackReference": "https://api.spotify.com/v1/tracks/0cu0rhnlCnJ7JIeHRiLpj3"
+},{
+  "_id": {
+    "$oid": "60f79095a24480877399e311"
+  },
+  "ArtistName": "Roddy Ricch",
+  "TrackName": "Late At Night",
+  "Danceability": 0.643,
+  "Energy": 0.403,
+  "Key": 0.138,
+  "Loudness": 1,
+  "Acousticness": 0.343,
+  "Instrumentalness": 0,
+  "Liveness": 0.138,
+  "Valence": 0.111,
+  "Tempo": 98.54,
+  "TrackReference": "https://api.spotify.com/v1/tracks/1fxYz1s15pyZLsJT0Hdh1m"
+},{
+  "_id": {
+    "$oid": "60f79095a24480877399e312"
+  },
+  "ArtistName": "Billie Eilish",
+  "TrackName": "bad guy",
+  "Danceability": 0.701,
+  "Energy": 0.425,
+  "Key": 0.1,
+  "Loudness": 7,
+  "Acousticness": 0.328,
+  "Instrumentalness": 0.13,
+  "Liveness": 0.1,
+  "Valence": 0.562,
+  "Tempo": 135.128,
+  "TrackReference": "https://api.spotify.com/v1/tracks/2Fxmhks0bxGSBdJ92vM42m"
+},{
+  "_id": {
+    "$oid": "60f79095a24480877399e313"
+  },
+  "ArtistName": "Harry Styles",
+  "TrackName": "Adore You",
+  "Danceability": 0.676,
+  "Energy": 0.771,
+  "Key": 0.102,
+  "Loudness": 8,
+  "Acousticness": 0.0237,
+  "Instrumentalness": 0.000007,
+  "Liveness": 0.102,
+  "Valence": 0.569,
+  "Tempo": 99.048,
+  "TrackReference": "https://api.spotify.com/v1/tracks/3jjujdWJ72nww5eGnfs2E7"
+},{
+  "_id": {
+    "$oid": "60f79095a24480877399e314"
+  },
+  "ArtistName": "Powfu",
+  "TrackName": "death bed (coffee for your head)",
+  "Danceability": 0.726,
+  "Energy": 0.431,
+  "Key": 0.696,
+  "Loudness": 8,
+  "Acousticness": 0.731,
+  "Instrumentalness": 0,
+  "Liveness": 0.696,
+  "Valence": 0.348,
+  "Tempo": 144.026,
+  "TrackReference": "https://api.spotify.com/v1/tracks/7eJMfftS33KTjuF7lTsMCx"
+},{
+  "_id": {
+    "$oid": "60f79095a24480877399e315"
+  },
+  "ArtistName": "The Killers",
+  "TrackName": "Mr. Brightside",
+  "Danceability": 0.352,
+  "Energy": 0.911,
+  "Key": 0.0995,
+  "Loudness": 1,
+  "Acousticness": 0.00121,
+  "Instrumentalness": 0,
+  "Liveness": 0.0995,
+  "Valence": 0.236,
+  "Tempo": 148.033,
+  "TrackReference": "https://api.spotify.com/v1/tracks/003vvx7Niy0yvhvHt4a68B"
+},{
+  "_id": {
+    "$oid": "60f79096a24480877399e316"
+  },
+  "ArtistName": "SZA",
+  "TrackName": "Good Days",
+  "Danceability": 0.436,
+  "Energy": 0.655,
+  "Key": 0.688,
+  "Loudness": 1,
+  "Acousticness": 0.499,
+  "Instrumentalness": 0.0000081,
+  "Liveness": 0.688,
+  "Valence": 0.412,
+  "Tempo": 121.002,
+  "TrackReference": "https://api.spotify.com/v1/tracks/3YJJjQPAbDT7mGpX3WtQ9A"
+},{
+  "_id": {
+    "$oid": "60f79096a24480877399e317"
+  },
+  "ArtistName": "Cardi B",
+  "TrackName": "WAP (feat. Megan Thee Stallion)",
+  "Danceability": 0.935,
+  "Energy": 0.454,
+  "Key": 0.0824,
+  "Loudness": 1,
+  "Acousticness": 0.0194,
+  "Instrumentalness": 0,
+  "Liveness": 0.0824,
+  "Valence": 0.357,
+  "Tempo": 133.073,
+  "TrackReference": "https://api.spotify.com/v1/tracks/4Oun2ylbjFKMPTiaSbbCih"
+},{
+  "_id": {
+    "$oid": "60f79096a24480877399e318"
+  },
+  "ArtistName": "Pop Smoke",
+  "TrackName": "Dior",
+  "Danceability": 0.548,
+  "Energy": 0.805,
+  "Key": 0.408,
+  "Loudness": 7,
+  "Acousticness": 0.212,
+  "Instrumentalness": 0.000389,
+  "Liveness": 0.408,
+  "Valence": 0.648,
+  "Tempo": 142.094,
+  "TrackReference": "https://api.spotify.com/v1/tracks/79s5XnCN4TJKTVMSmOx8Ep"
+},{
+  "_id": {
+    "$oid": "60f79096a24480877399e319"
+  },
+  "ArtistName": "Tion Wayne",
+  "TrackName": "Body (Remix) [feat. ArrDee, E1 (3x3), ZT (3x3), Bugzy Malone, Buni, Fivio Foreign & Darkoo]",
+  "Danceability": 0.883,
+  "Energy": 0.674,
+  "Key": 0.0678,
+  "Loudness": 11,
+  "Acousticness": 0.21,
+  "Instrumentalness": 0,
+  "Liveness": 0.0678,
+  "Valence": 0.73,
+  "Tempo": 141.02,
+  "TrackReference": "https://api.spotify.com/v1/tracks/6uvMKqNlrSvcC4NaKnrwjZ"
+},{
+  "_id": {
+    "$oid": "60f79096a24480877399e31a"
+  },
+  "ArtistName": "The Police",
+  "TrackName": "Every Breath You Take",
+  "Danceability": 0.82,
+  "Energy": 0.452,
+  "Key": 0.0714,
+  "Loudness": 1,
+  "Acousticness": 0.543,
+  "Instrumentalness": 0.00294,
+  "Liveness": 0.0714,
+  "Valence": 0.74,
+  "Tempo": 117.401,
+  "TrackReference": "https://api.spotify.com/v1/tracks/1JSTJqkT5qHq8MDJnJbRE1"
+},{
+  "_id": {
+    "$oid": "60f79097a24480877399e31b"
+  },
+  "ArtistName": "Fleetwood Mac",
+  "TrackName": "Dreams - 2004 Remaster",
+  "Danceability": 0.828,
+  "Energy": 0.492,
+  "Key": 0.128,
+  "Loudness": 0,
+  "Acousticness": 0.0644,
+  "Instrumentalness": 0.00428,
+  "Liveness": 0.128,
+  "Valence": 0.789,
+  "Tempo": 120.151,
+  "TrackReference": "https://api.spotify.com/v1/tracks/0ofHAoxe9vBkTCp2UQIavz"
+},{
+  "_id": {
+    "$oid": "60f79097a24480877399e31c"
+  },
+  "ArtistName": "Polo G",
+  "TrackName": "Martin & Gina",
+  "Danceability": 0.832,
+  "Energy": 0.534,
+  "Key": 0.165,
+  "Loudness": 1,
+  "Acousticness": 0.345,
+  "Instrumentalness": 0,
+  "Liveness": 0.165,
+  "Valence": 0.116,
+  "Tempo": 93.924,
+  "TrackReference": "https://api.spotify.com/v1/tracks/1VLtjHwRWOVJiE5Py7JxoQ"
+},{
+  "_id": {
+    "$oid": "60f79097a24480877399e31d"
+  },
+  "ArtistName": "Billie Eilish",
+  "TrackName": "Lost Cause",
+  "Danceability": 0.671,
+  "Energy": 0.336,
+  "Key": 0.0577,
+  "Loudness": 10,
+  "Acousticness": 0.705,
+  "Instrumentalness": 0.00751,
+  "Liveness": 0.0577,
+  "Valence": 0.518,
+  "Tempo": 75.051,
+  "TrackReference": "https://api.spotify.com/v1/tracks/2xdwCJLfKCkat14mlgR26M"
+},{
+  "_id": {
+    "$oid": "60f79097a24480877399e31e"
+  },
+  "ArtistName": "Imagine Dragons",
+  "TrackName": "Wrecked",
+  "Danceability": 0.626,
+  "Energy": 0.56,
+  "Key": 0.109,
+  "Loudness": 0,
+  "Acousticness": 0.148,
+  "Instrumentalness": 0.0000151,
+  "Liveness": 0.109,
+  "Valence": 0.229,
+  "Tempo": 93.989,
+  "TrackReference": "https://api.spotify.com/v1/tracks/2d1MywHy6FwKdzxFuSJnwl"
+},{
+  "_id": {
+    "$oid": "60f79097a24480877399e31f"
+  },
+  "ArtistName": "John Legend",
+  "TrackName": "All of Me",
+  "Danceability": 0.422,
+  "Energy": 0.264,
+  "Key": 0.132,
+  "Loudness": 8,
+  "Acousticness": 0.922,
+  "Instrumentalness": 0,
+  "Liveness": 0.132,
+  "Valence": 0.331,
+  "Tempo": 119.93,
+  "TrackReference": "https://api.spotify.com/v1/tracks/3U4isOIWM3VvDubwSI3y7a"
+},{
+  "_id": {
+    "$oid": "60f79098a24480877399e320"
+  },
+  "ArtistName": "Pop Smoke",
+  "TrackName": "More Time",
+  "Danceability": 0.628,
+  "Energy": 0.581,
+  "Key": 0.152,
+  "Loudness": 2,
+  "Acousticness": 0.46,
+  "Instrumentalness": 0,
+  "Liveness": 0.152,
+  "Valence": 0.259,
+  "Tempo": 145.396,
+  "TrackReference": "https://api.spotify.com/v1/tracks/2wzionesqIt3x5Sglb4n91"
+},{
+  "_id": {
+    "$oid": "60f79098a24480877399e321"
+  },
+  "ArtistName": "BLANCO",
+  "TrackName": "MI FAI IMPAZZIRE",
+  "Danceability": 0.477,
+  "Energy": 0.844,
+  "Key": 0.137,
+  "Loudness": 11,
+  "Acousticness": 0.00273,
+  "Instrumentalness": 0,
+  "Liveness": 0.137,
+  "Valence": 0.203,
+  "Tempo": 169.941,
+  "TrackReference": "https://api.spotify.com/v1/tracks/1x3Qb8np6S1UvpSLthwEJN"
+},{
+  "_id": {
+    "$oid": "60f79098a24480877399e322"
+  },
+  "ArtistName": "Internet Money",
+  "TrackName": "His & Hers (feat. Don Toliver, Lil Uzi Vert & Gunna)",
+  "Danceability": 0.792,
+  "Energy": 0.707,
+  "Key": 0.12,
+  "Loudness": 7,
+  "Acousticness": 0.116,
+  "Instrumentalness": 0,
+  "Liveness": 0.12,
+  "Valence": 0.408,
+  "Tempo": 134.997,
+  "TrackReference": "https://api.spotify.com/v1/tracks/2IePEfMAtqWS6rLXXFZIgI"
+},{
+  "_id": {
+    "$oid": "60f79098a24480877399e323"
+  },
+  "ArtistName": "Topic",
+  "TrackName": "Breaking Me",
+  "Danceability": 0.789,
+  "Energy": 0.72,
+  "Key": 0.129,
+  "Loudness": 8,
+  "Acousticness": 0.223,
+  "Instrumentalness": 0,
+  "Liveness": 0.129,
+  "Valence": 0.664,
+  "Tempo": 122.031,
+  "TrackReference": "https://api.spotify.com/v1/tracks/3H7ihDc1dqLriiWXwsc2po"
+},{
+  "_id": {
+    "$oid": "60f79098a24480877399e324"
+  },
+  "ArtistName": "Drake",
+  "TrackName": "One Dance",
+  "Danceability": 0.792,
+  "Energy": 0.625,
+  "Key": 0.329,
+  "Loudness": 1,
+  "Acousticness": 0.00776,
+  "Instrumentalness": 0.0018,
+  "Liveness": 0.329,
+  "Valence": 0.37,
+  "Tempo": 103.967,
+  "TrackReference": "https://api.spotify.com/v1/tracks/1zi7xx7UVEFkmKfv06H8x0"
+},{
+  "_id": {
+    "$oid": "60f79099a24480877399e325"
+  },
+  "ArtistName": "Saweetie",
+  "TrackName": "Best Friend (feat. Doja Cat)",
+  "Danceability": 0.84,
+  "Energy": 0.766,
+  "Key": 0.0684,
+  "Loudness": 4,
+  "Acousticness": 0.00302,
+  "Instrumentalness": 0.00000361,
+  "Liveness": 0.0684,
+  "Valence": 0.402,
+  "Tempo": 94.018,
+  "TrackReference": "https://api.spotify.com/v1/tracks/20BOju91NaEFK5Py4VJ2pp"
+},{
+  "_id": {
+    "$oid": "60f79099a24480877399e326"
+  },
+  "ArtistName": "Olivia Rodrigo",
+  "TrackName": "hope ur ok",
+  "Danceability": 0.443,
+  "Energy": 0.298,
+  "Key": 0.103,
+  "Loudness": 0,
+  "Acousticness": 0.388,
+  "Instrumentalness": 0.00001,
+  "Liveness": 0.103,
+  "Valence": 0.172,
+  "Tempo": 77.253,
+  "TrackReference": "https://api.spotify.com/v1/tracks/1zejeOnykpCoyVSit6Bwp3"
+},{
+  "_id": {
+    "$oid": "60f79099a24480877399e327"
+  },
+  "ArtistName": "Sarah Cothran",
+  "TrackName": "As the World Caves In",
+  "Danceability": 0.372,
+  "Energy": 0.255,
+  "Key": 0.33,
+  "Loudness": 7,
+  "Acousticness": 0.436,
+  "Instrumentalness": 0,
+  "Liveness": 0.33,
+  "Valence": 0.254,
+  "Tempo": 114.402,
+  "TrackReference": "https://api.spotify.com/v1/tracks/7LAmsNJpBaNvNg7VZPXxSv"
+},{
+  "_id": {
+    "$oid": "60f79099a24480877399e328"
+  },
+  "ArtistName": "Nio Garcia",
+  "TrackName": "AM",
+  "Danceability": 0.83,
+  "Energy": 0.517,
+  "Key": 0.0916,
+  "Loudness": 6,
+  "Acousticness": 0.399,
+  "Instrumentalness": 0.0000895,
+  "Liveness": 0.0916,
+  "Valence": 0.616,
+  "Tempo": 171.959,
+  "TrackReference": "https://api.spotify.com/v1/tracks/2dNhNlpZAtV4lwAFW45LIv"
+},{
+  "_id": {
+    "$oid": "60f79099a24480877399e329"
+  },
+  "ArtistName": "Regard",
+  "TrackName": "Ride It",
+  "Danceability": 0.88,
+  "Energy": 0.751,
+  "Key": 0.106,
+  "Loudness": 7,
+  "Acousticness": 0.177,
+  "Instrumentalness": 0.0000643,
+  "Liveness": 0.106,
+  "Valence": 0.884,
+  "Tempo": 117.948,
+  "TrackReference": "https://api.spotify.com/v1/tracks/2tnVG71enUj33Ic2nFN6kZ"
+},{
+  "_id": {
+    "$oid": "60f7909aa24480877399e32a"
+  },
+  "ArtistName": "Imagine Dragons",
+  "TrackName": "Follow You",
+  "Danceability": 0.542,
+  "Energy": 0.732,
+  "Key": 0.496,
+  "Loudness": 9,
+  "Acousticness": 0.00209,
+  "Instrumentalness": 0.0000792,
+  "Liveness": 0.496,
+  "Valence": 0.489,
+  "Tempo": 124.912,
+  "TrackReference": "https://api.spotify.com/v1/tracks/7FdUvDkaE24o3FPIWTvzv2"
+},{
+  "_id": {
+    "$oid": "60f7909aa24480877399e32b"
+  },
+  "ArtistName": "Luan Santana",
+  "TrackName": "MORENA",
+  "Danceability": 0.526,
+  "Energy": 0.731,
+  "Key": 0.0891,
+  "Loudness": 11,
+  "Acousticness": 0.18,
+  "Instrumentalness": 0,
+  "Liveness": 0.0891,
+  "Valence": 0.476,
+  "Tempo": 86.959,
+  "TrackReference": "https://api.spotify.com/v1/tracks/4PQdrXMDHDPl1RczrrlADd"
+},{
+  "_id": {
+    "$oid": "60f7909aa24480877399e32c"
+  },
+  "ArtistName": "Pop Smoke",
+  "TrackName": "Genius (feat. Lil Tjay & Swae Lee)",
+  "Danceability": 0.723,
+  "Energy": 0.667,
+  "Key": 0.261,
+  "Loudness": 2,
+  "Acousticness": 0.256,
+  "Instrumentalness": 0,
+  "Liveness": 0.261,
+  "Valence": 0.396,
+  "Tempo": 143.044,
+  "TrackReference": "https://api.spotify.com/v1/tracks/0kNYrbMehFxp1eleTwUjkP"
+},{
+  "_id": {
+    "$oid": "60f7909aa24480877399e32d"
+  },
+  "ArtistName": "Ariana Grande",
+  "TrackName": "7 rings",
+  "Danceability": 0.778,
+  "Energy": 0.317,
+  "Key": 0.0881,
+  "Loudness": 1,
+  "Acousticness": 0.592,
+  "Instrumentalness": 0,
+  "Liveness": 0.0881,
+  "Valence": 0.327,
+  "Tempo": 140.048,
+  "TrackReference": "https://api.spotify.com/v1/tracks/6ocbgoVGwYJhOv1GgI9NsF"
+},{
+  "_id": {
+    "$oid": "60f7909aa24480877399e32e"
+  },
+  "ArtistName": "Doja Cat",
+  "TrackName": "Woman",
+  "Danceability": 0.824,
+  "Energy": 0.764,
+  "Key": 0.117,
+  "Loudness": 5,
+  "Acousticness": 0.0888,
+  "Instrumentalness": 0.00294,
+  "Liveness": 0.117,
+  "Valence": 0.881,
+  "Tempo": 107.998,
+  "TrackReference": "https://api.spotify.com/v1/tracks/6Uj1ctrBOjOas8xZXGqKk4"
+},{
+  "_id": {
+    "$oid": "60f7909ba24480877399e32f"
+  },
+  "ArtistName": "Mari Fernandez",
+  "TrackName": "Não, Não Vou",
+  "Danceability": 0.631,
+  "Energy": 0.861,
+  "Key": 0.215,
+  "Loudness": 11,
+  "Acousticness": 0.427,
+  "Instrumentalness": 0.000119,
+  "Liveness": 0.215,
+  "Valence": 0.822,
+  "Tempo": 149.95,
+  "TrackReference": "https://api.spotify.com/v1/tracks/0xBQvhJAm6f7J142ympKOn"
+},{
+  "_id": {
+    "$oid": "60f7909ba24480877399e330"
+  },
+  "ArtistName": "Queen",
+  "TrackName": "Another One Bites The Dust - Remastered 2011",
+  "Danceability": 0.933,
+  "Energy": 0.528,
+  "Key": 0.163,
+  "Loudness": 5,
+  "Acousticness": 0.112,
+  "Instrumentalness": 0.312,
+  "Liveness": 0.163,
+  "Valence": 0.754,
+  "Tempo": 109.967,
+  "TrackReference": "https://api.spotify.com/v1/tracks/5vdp5UmvTsnMEMESIF2Ym7"
+},{
+  "_id": {
+    "$oid": "60f7909ba24480877399e331"
+  },
+  "ArtistName": "BTS",
+  "TrackName": "Life Goes On",
+  "Danceability": 0.566,
+  "Energy": 0.716,
+  "Key": 0.37,
+  "Loudness": 1,
+  "Acousticness": 0.00691,
+  "Instrumentalness": 0,
+  "Liveness": 0.37,
+  "Valence": 0.45,
+  "Tempo": 81.068,
+  "TrackReference": "https://api.spotify.com/v1/tracks/249gnXrbfmV8NG6jTEMSwD"
+},{
+  "_id": {
+    "$oid": "60f7909ba24480877399e332"
+  },
+  "ArtistName": "Pop Smoke",
+  "TrackName": "Manslaughter (feat. Rick Ross & The-Dream)",
+  "Danceability": 0.441,
+  "Energy": 0.623,
+  "Key": 0.14,
+  "Loudness": 1,
+  "Acousticness": 0.135,
+  "Instrumentalness": 0,
+  "Liveness": 0.14,
+  "Valence": 0.285,
+  "Tempo": 78.082,
+  "TrackReference": "https://api.spotify.com/v1/tracks/5EVzgDPaM0LCM3M5exl3z8"
+},{
+  "_id": {
+    "$oid": "60f7909ba24480877399e333"
+  },
+  "ArtistName": "The Weeknd",
+  "TrackName": "The Hills",
+  "Danceability": 0.585,
+  "Energy": 0.564,
+  "Key": 0.135,
+  "Loudness": 0,
+  "Acousticness": 0.0671,
+  "Instrumentalness": 0,
+  "Liveness": 0.135,
+  "Valence": 0.137,
+  "Tempo": 113.003,
+  "TrackReference": "https://api.spotify.com/v1/tracks/7fBv7CLKzipRk6EC6TWHOB"
+},{
+  "_id": {
+    "$oid": "60f7909ca24480877399e334"
+  },
+  "ArtistName": "Anne-Marie",
+  "TrackName": "Our Song",
+  "Danceability": 0.595,
+  "Energy": 0.759,
+  "Key": 0.172,
+  "Loudness": 11,
+  "Acousticness": 0.141,
+  "Instrumentalness": 0,
+  "Liveness": 0.172,
+  "Valence": 0.515,
+  "Tempo": 80.953,
+  "TrackReference": "https://api.spotify.com/v1/tracks/5zqObw7wjBgL9TDiAymxPn"
+},{
+  "_id": {
+    "$oid": "60f7909ca24480877399e335"
+  },
+  "ArtistName": "Arctic Monkeys",
+  "TrackName": "Do I Wanna Know?",
+  "Danceability": 0.548,
+  "Energy": 0.532,
+  "Key": 0.217,
+  "Loudness": 5,
+  "Acousticness": 0.186,
+  "Instrumentalness": 0.000263,
+  "Liveness": 0.217,
+  "Valence": 0.405,
+  "Tempo": 85.03,
+  "TrackReference": "https://api.spotify.com/v1/tracks/3rq5w4bQGigXOfdN30ATJt"
+},{
+  "_id": {
+    "$oid": "60f7909ca24480877399e336"
+  },
+  "ArtistName": "Conan Gray",
+  "TrackName": "People Watching",
+  "Danceability": 0.53,
+  "Energy": 0.593,
+  "Key": 0.314,
+  "Loudness": 5,
+  "Acousticness": 0.385,
+  "Instrumentalness": 0,
+  "Liveness": 0.314,
+  "Valence": 0.538,
+  "Tempo": 125.723,
+  "TrackReference": "https://api.spotify.com/v1/tracks/4JeOesjcWWlprTAvucDSJX"
+}]

@@ -36,46 +36,54 @@
                         <label for="demo_overview">Start Date</label>
                           <input id="begin_selector" class="form-control text-white" placeholder="2018-01-01"></input>
                       </div>
+                      <hr class="mt-1">
                     </li>
-                    <hr class="mx-3 mt-1">
+                    
                     <li class="px-4">
                       <div class="form-group">
                         <label for="demo_overview">End Date</label>
                           <input id="end_selector" class="form-control text-white" placeholder="2019-06-01"></input>
                       </div>
+                      <hr class="mt-1">
                     </li>
-                    <hr class="mx-3 mt-1">
+                    
                     <li class="px-4">
                       <div class="form-group">
                         <label for="demo_overview">Country</label>
                           <select id="country_selector" class="form-control text-white">
                           </select>
                       </div>
+                      <hr class="mt-1">
                     </li>
-                    <hr class="mx-3 mt-1">
+                    
                     <li class="px-4">
                       <div class="form-group">
                         <label for="demo_overview">Artist</label>
                           <select id="artist_selector" class="form-control text-white">
                           </select>
                       </div>
+                      <hr class="mt-1">
                     </li>
-                    <hr class="mx-3 mt-1">
+                    
                     <li class="px-4">
                       <div class="form-group">
                         <label for="demo_overview">Song</label>
                           <select id="song_selector" class="form-control text-white">
                           </select>
                       </div>
-                    </li class="px-4 mt-2">                
-                      <p class="ml-3 mb-0">Now playing</p>
-                      <img id="album" src="../Resources/Album.jfif" alt="Almbum Picture" class="px-4 py-2">
+
+                    </li class="px-4 mt-2">  
+                        
+                    <li>
+                      <p class="ml-3 mb-0 text-google">Now playing</p>
+                      <img id="album" src="../Resources/Album.jfif" alt="Almbum Picture" class="px-3 py-2" style="height: 14.1rem;">
                       <div class="pl-2 m-0">
                         <h6 class="mb-0 text-success">See you in the Other Side</h6>
                         <p class="mb-1">Pyramid</p>
                       </div>
-                      
-                      <audio controls autoplay style="width: 240px; height: 35px;">
+
+                      <!-- autoplay -->
+                      <audio controls style="width: 240px; height: 35px;">
                         <source src="../Resources/Pyramid - See You In The Other Side.mp3" type="audio/mpeg">
                         Your browser does not support the audio element.                      
                       </audio>
@@ -100,10 +108,12 @@
                 <div class="card corona-gradient-card">
                   
 
-                      <div class="col-5 col-sm-7 col-xl-8 py-4">
-                        <h3 class="mb-1 mb-sm-0">More about the data</h4>
+                      <div class="col-5 col-sm-7 col-xl-12 p-4">
+                        <h3 style="font-weight: 600;">More about the data</h3>
                         <p class="mb-0 font-weight-normal d-none d-sm-block">
-                          The data feeded to this visuals refers to...
+                          This dashboard presents data from the top 200 most streamed songs on Spotify from January 2017 to June 2019, the streams count does not 
+                          represent the actual "streams" of a song but the streams it had while the track was part of the top 200 most streamed Songs. We can see that Shape of You
+                          by Ed Sheeran has more than 59 million streams while the song was on the top 200, but actually the song reached over 2.8 billion streams in total.
                         </p>
                       </div>
 
@@ -136,7 +146,7 @@
                     <div class="row">
                       <div class="col-9">
                         <div class="align-items-center align-self-start">
-                          <h1 class="mb-0">3,450</h1>
+                          <h1 class="mb-0" id=artist_count></h1>
                           <h6 class="text-muted font-weight-normal">Number of Artist</h6>
                           <!-- <p class="text-success ml-2 mb-0 font-weight-medium">+11%</p> -->
                         </div>
@@ -155,7 +165,7 @@
                     <div class="row">
                       <div class="col-9">
                         <div class="align-items-center align-self-start">
-                          <h1 class="mb-0">1,600</h1>
+                          <h1 class="mb-0" id=songs_count></h1>
                           <h6 class="text-muted font-weight-normal">Number of Tracks</h6>
                           <!-- <p class="text-danger ml-2 mb-0 font-weight-medium">-2.4%</p> -->
                         </div>
@@ -173,7 +183,7 @@
                     <div class="row">
                       <div class="col-9">
                         <div class="align-items-center align-self-start">
-                          <h1 class="mb-0">2,000,000</h1>
+                          <h1 class="mb-0" id="total_streams"></h1>
                           <h6 class="text-muted font-weight-normal">Total Streamings</h6>
                         </div>
                       </div>
@@ -250,7 +260,7 @@
               <div class="col-4 grid-margin">
                 <div class="card">
                   <div class="card-body">
-                    <h4 class="card-title">Top Artist</h4>
+                    <h4 class="card-title">Top Artists</h4>
                     <canvas id="StreamsByArtistPlot"></canvas>
                   </div>
                 </div>
@@ -260,7 +270,7 @@
               <div class="col-4 grid-margin">
                 <div class="card">
                   <div class="card-body">
-                    <h4 class="card-title">Top Tracks</h4>
+                    <h4 class="card-title">Top Songs</h4>
                     <canvas id="StreamsByTrackPlot"></canvas>
                   </div>
                 </div>
@@ -271,9 +281,57 @@
         
        
             <div class="row">
-         
+              
+            </div>
+            <div class="row">
+              <div class="col-12 grid-margin" style="margin-top: 20rem;">
+                  <div class="h1" style="font-weight: 600; font-size: 4.5em;">Songs Popularity Insights</div>
+              </div> 
+          </div>
+
+            <div class="row">
+            <div class="col-6 grid-margin">
+              <div class="card">
+                <div class="card-body">              
+                  <div id="scatter1"></div>
+                </div>
               </div>
-        
+            </div>
+            <div class="col-6 grid-margin">
+              <div class="card">
+                <div class="card-body">
+                  <div id="scatter2"></div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="row">
+            <div class="col-6 grid-margin">
+              <div class="card">
+                <div class="card-body">
+                  <div id="scatter3"></div>
+                </div>
+              </div>
+            </div>
+
+            <div class="col-6 grid-margin">
+              <div class="card">
+                <div class="card-body">
+                  <div id="scatter4"></div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="row">
+            <footer class="footer">
+            <div class="d-sm-flex justify-content-center justify-content-sm-between">
+              <span class="text-muted text-center text-sm-left d-block d-sm-inline-block"><a href="https://spotifycharts.com/regional/us/daily/latest" target="_blank">© 2021 Spotify Charts</a></span>
+              <span class="text-muted float-none float-sm-right d-block mt-1 mt-sm-0 text-center">Bootcamp Analytics Second Project <i class="mdi mdi-heart text-danger"></i></span>
+            </div>
+          </footer>    
+          </div>
+
+              </div>
     
             </div>
             
@@ -281,12 +339,7 @@
           <!-- content-wrapper ends -->
           
           
-          <footer class="footer">
-            <div class="d-sm-flex justify-content-center justify-content-sm-between">
-              <span class="text-muted text-center text-sm-left d-block d-sm-inline-block"><a href="https://spotifycharts.com/regional/us/daily/latest" target="_blank">© 2021 Spotify Charts</a></span>
-              <span class="text-muted float-none float-sm-right d-block mt-1 mt-sm-0 text-center">Bootcamp Analytics Second Project <i class="mdi mdi-heart text-danger"></i></span>
-            </div>
-          </footer>
+ 
           
         </div>
         <!-- main-panel ends -->
@@ -302,6 +355,8 @@
     
     <!-- Custom js for this page -->
     <script src="Static/js/app.js"></script>
+    <script src="Static/js/grid_music_analysis.js"></script>
+
     <!-- Moment is used to parse dates formats -->
     <script src="https://unpkg.com/moment@2.24.0/moment.js"></script>
     <script src="//cdnjs.cloudflare.com/ajax/libs/linq.js/2.2.0.2/linq.min.js"></script>

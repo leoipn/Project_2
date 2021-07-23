@@ -3,62 +3,73 @@
 //     console.log(songs);
 // });
 
+var canvasLine;
+var canvasBarArtist;
+var canvasBarTrack;
+var canvasBarCountry;
+var canvasDonut;
+
+
+
 // Function to create a bar Chart
-function barChart(group_by,country,artist,track,datefrom,dateto,xAxisTitle,id,canvas,bar_color){
+function barChart(group_by,country,artist,track,datefrom,dateto,xAxisTitle,id,bar_color){
     d3.json('http://127.0.0.1:5000/songs?Group_by='+ group_by + '&Country=' + country + '&Artist=' + artist + '&Track_Name=' + track + '&datefrom='+ datefrom + '&dateto=' + dateto).then(importedData=>{
     var data = importedData;
     var category = data.map(sample=>sample[group_by]);
     var streams = data.map(sample=>sample.Streams);
     // Chart.js ---------------------------------------------------------
-    var ctx = document.getElementById(id).getContext('2d');
-    try{if (canvas) canvas.destroy();}catch(error){
-            canvas = new Chart(ctx, {
-            type: 'bar',
-            data: {
-                labels: first(10,category),
-                datasets: [{data: streams, label: '# of Streams', backgroundColor: [bar_color], borderWidth: 2}]
-            },
-            options: {
-                scales: {
-                    y: {
-                        display: true,
-                        title: {text:"Streams", display:true, color:'white', font: {size: 16, family:"Poppins",weight:"bold"}},
-                        ticks: {color : 'white', font: {family:"Poppins"}},
-                    },
-                    x: {
-                        display: true,
-                        title: {text: xAxisTitle, display:true, color:'white', font: {size: 16, family:"Poppins",weight:"bold"}},
-                        ticks: {color : 'white', font: {family:"Poppins"}},
-                    },
-                },
-                plugins: {legend: {display:true, labels:{color:'white',font: {family:"Poppins"}}}}
-            }
-        });
+    if(group_by==="Artist"){
+        canvasBarArtist = BarChartCanvas(id,category,streams,xAxisTitle,bar_color);
+    }
+    if(group_by==="Track_Name"){
+        canvasBarTrack = BarChartCanvas(id,category,streams,xAxisTitle,bar_color);
+    }
+    if(group_by==="Country"){
+        canvasBarCountry = BarChartCanvas(id,category,streams,xAxisTitle,bar_color);
     }
 });
 }
 
+// Function that returns Canvas of Bar Chart
+function BarChartCanvas(id,category,streams,xAxisTitle,bar_color){
+    var ctx = document.getElementById(id).getContext('2d');
+    canvasBar = new Chart(ctx, {
+        type: 'bar',
+        data: {
+            labels: first(10,category),
+            datasets: [{data: streams, label: '# of Streams', backgroundColor: [bar_color], borderWidth: 2}]
+        },
+        options: {
+            scales: {
+                y: {
+                    display: true,
+                    title: {text:"Streams", display:true, color:'white', font: {size: 16, family:"Poppins",weight:"bold"}},
+                    ticks: {color : 'white', font: {family:"Poppins"}},
+                },
+                x: {
+                    display: true,
+                    title: {text: xAxisTitle, display:true, color:'white', font: {size: 16, family:"Poppins",weight:"bold"}},
+                    ticks: {color : 'white', font: {family:"Poppins"}},
+                },
+            },
+            plugins: {legend: {display:true, labels:{color:'white',font: {family:"Poppins"}}}}
+        }
+    });
+    return canvasBar
+}
+
+
 // Function to create a line Chart
-function lineChart(group_by,country,artist,track,datefrom,dateto,xAxisTitle,id,canvas) {
+function lineChart(group_by,country,artist,track,datefrom,dateto,xAxisTitle,id) {
     d3.json('http://127.0.0.1:5000/streamsbydate?Group_by='+ group_by + '&Country=' + country + '&Artist=' + artist + '&Track_Name=' + track + '&datefrom='+ datefrom + '&dateto=' + dateto).then(importedData=>{
     var data = importedData;
 
     var category = data.map(sample=>sample[group_by]);
     var streams = data.map(sample=>sample.Streams);
-
     // Chart.js ---------------------------------------------------------
     var ctx = document.getElementById(id).getContext('2d');
-        // ctx.height = 5000;
-    // console.log(canvas)
-    try{if (canvas) {
-        console.log(canvas + "Canvas is destroyed")
-        canvas.destroy();
-        }
-        else {
-        console.log(canvas + "Canvas is not destroyed")
-        }
-    }catch(error){
-        canvas = new Chart(ctx, {
+    
+        canvasLine = new Chart(ctx, {
         type: 'line',
         data: {
             labels: first(30,category),
@@ -80,21 +91,22 @@ function lineChart(group_by,country,artist,track,datefrom,dateto,xAxisTitle,id,c
             plugins: {legend: {display:true, labels:{color:'white',font: {family:"Poppins"}}}},
             maintainAspectRatio: false,
         }
-    });
-    }
+    });    
 });
+    // return canvas
 }
 
 // Function to create a donut Chart
-function donutChart(group_by,country,artist,track,datefrom,dateto,id,canvas){
+function donutChart(group_by,country,artist,track,datefrom,dateto,id){
     d3.json('http://127.0.0.1:5000/songs?Group_by='+ group_by + '&Country=' + country + '&Artist=' + artist + '&Track_Name=' + track + '&datefrom='+ datefrom + '&dateto=' + dateto).then(importedData=>{
+        // console.log(importedData)
+
         var data = importedData;
         var category = data.map(sample=>sample[group_by]);
         var streams = data.map(sample=>sample.Streams);
         // Chart.js ---------------------------------------------------------
         var ctx = document.getElementById(id).getContext('2d');
-        try{if (canvas) canvas.destroy();}catch(error){
-            canvas = new Chart(ctx, {
+            canvasDonut = new Chart(ctx, {
                 type: 'doughnut',
                 data: {
                     labels: first(3,category),
@@ -112,7 +124,6 @@ function donutChart(group_by,country,artist,track,datefrom,dateto,id,canvas){
                 }
             
             });
-        }
     });
 }
 
@@ -125,20 +136,35 @@ function first(x,data) {
 //Welcome to the Spotify Dash 
 console.log("Its working :D")
 
-var countries = ["","Mexico", "United States", "Canada", "France", "Germany"]; 
-var artists = ["","Maluma", "Bad Bunny", "Justin Bieber"]; 
-var tracks = ["","track 1", "track 2", "track 3", "track 4", "track 5"]; 
-
-countries.forEach(country=>{d3.select("#country_selector").append("option").classed("dropdown-item",true).style("value",country).text(country)})
-artists.forEach(artist=>{d3.select("#artist_selector").append("option").classed("dropdown-item",true).style("value",artist).text(artist)})
-tracks.forEach(track=>{d3.select("#song_selector").append("option").classed("dropdown-item",true).style("value",track).text(track)})
-
 // Initial Setup without Filters
 var country = ""
 var artist= ""
 var track = ""
 var datefrom = ""
 var dateto = ""
+
+d3.json('http://127.0.0.1:5000/summary?Country=' + country + '&Artist=' + artist + '&Track_Name=' + track + '&datefrom='+ datefrom + '&dateto=' + dateto).then(importedData=>{
+    // console.log(importedData)
+    var data = importedData;
+
+    var Artist_Count = data.map(sample=>sample.ArtistCount);
+    var Songs_Count = String(data.map(sample=>sample.SongsCount)).replace(/(.)(?=(\d{3})+$)/g,'$1,');
+    var Total_Streams = String(data.map(sample=>sample.TotalStreams)).replace(/(.)(?=(\d{3})+$)/g,'$1,');
+
+    d3.select("#country_selected").text("Global")
+    d3.select("#artist_count").text(Artist_Count)
+    d3.select("#songs_count").text(Songs_Count)
+    d3.select("#total_streams").text(Total_Streams)
+
+    var countries = data.map(sample=>sample.Countries);
+    var artists = data.map(sample=>sample.Artists);
+    var songs = data.map(sample=>sample.Songs);
+    
+    // Adding array elements to dropdowns
+    countries[0].forEach(country=>{d3.select("#country_selector").append("option").classed("dropdown-item",true).style("value",country).text(country)})
+    artists[0].forEach(artist=>{d3.select("#artist_selector").append("option").classed("dropdown-item",true).style("value",artist).text(artist)})
+    songs[0].forEach(track=>{d3.select("#song_selector").append("option").classed("dropdown-item",true).style("value",track).text(track)})
+});
 
 // Chart Function Parameters:
 // 1.group_by,
@@ -148,46 +174,89 @@ var dateto = ""
 // 5.Name of Canvas that occupies the chart
 // 6.Color of Bars)
 
+// Initial Charts Run
 // LineChart
-lineChart("MonthYear",country,artist,track,datefrom,dateto,"Month of the Year","StreamsByDateChart",'LineChart')
+// canvas = 'LineChart'
+lineChart("MonthYear",country,artist,track,datefrom,dateto,"Month of the Year","StreamsByDateChart")
 // ChartByGenre
-donutChart("Genre",country,artist,track,datefrom,dateto,"StreamsByGenre",'ChartByGenre')
+donutChart("Genre",country,artist,track,datefrom,dateto,"StreamsByGenre")
 // BarCharts
-barChart("Artist",country,artist,track,datefrom,dateto,"Top Artist","StreamsByArtistPlot",'ChartByArtist','rgba(30, 215, 96, 1)')
-barChart("Track_Name",country,artist,track,datefrom,dateto,"Top Songs","StreamsByTrackPlot",'ChartBySong','rgb(29, 117, 222, 1)')
-barChart("Country",country,artist,track,datefrom,dateto,"Top Countries","StreamsByCountryPlot",'ChartByCountry','rgb(29, 117, 222, 1)')
+barChart("Artist",country,artist,track,datefrom,dateto,"Top Artist","StreamsByArtistPlot",'rgba(30, 215, 96, 1)')
+barChart("Track_Name",country,artist,track,datefrom,dateto,"Top Songs","StreamsByTrackPlot",'rgb(29, 117, 222, 1)')
+barChart("Country",country,artist,track,datefrom,dateto,"Top Countries","StreamsByCountryPlot",'rgb(255, 153, 0, 1)')
 
 d3.selectAll(".form-control").on("change", updateDashboard);
 
-
-
-
-
 // ----------------------------------------------------------------------------------------------------------------------------------------
 
-function updateDashboard() {    
+function updateDashboard() {
+
     // Retrieve Selectors
-    var country = d3.select("#country_selector").property("value")
+
+    
+    // console.log(d3.select("#country_selector").property("value"))
+    if (country === ""){d3.select("#country_selected").text("Global")}else{var country = d3.select("#country_selector").property("value")}
+
     var artist= d3.select("#artist_selector").property("value")
     var track = d3.select("#song_selector").property("value")
+
     try {var datefrom = d3.select("#begin_selector").property("value")} catch(error){var datefrom = ""}
     try {var dateto = d3.select("#end_selector").property("value")} catch(error){var dateto = ""}
-
-    d3.select("#country_selected").text(country)
-
+    
     // Function that updates line chart 
-    lineChart("MonthYear",country,artist,track,datefrom,dateto,"Month of the Year","StreamsByDateChart",'LineChart')
+    canvasLine.destroy()
+    lineChart("MonthYear",country,artist,track,datefrom,dateto,"Month of the Year","StreamsByDateChart")
+    
+    canvasDonut.destroy()
+    donutChart("Genre",country,artist,track,datefrom,dateto,"StreamsByGenre")
 
-    // Function that update bar chart
-    // barChart("Artist",country,artist,track,datefrom,dateto,"Top Artist","StreamsByArtistPlot")
+    canvasBarArtist.destroy()
+    barChart("Artist",country,artist,track,datefrom,dateto,"Top Artist","StreamsByArtistPlot",'rgba(30, 215, 96, 1)')
+
+    canvasBarTrack.destroy()
+    barChart("Track_Name",country,artist,track,datefrom,dateto,"Top Songs","StreamsByTrackPlot",'rgb(29, 117, 222, 1)')
+
+    canvasBarCountry.destroy()
+    barChart("Country",country,artist,track,datefrom,dateto,"Top Countries","StreamsByCountryPlot",'rgb(255, 153, 0, 1)')
+    
+    
 
 
+    d3.json('http://127.0.0.1:5000/summary?Country=' + country + '&Artist=' + artist + '&Track_Name=' + track + '&datefrom='+ datefrom + '&dateto=' + dateto).then(importedData=>{
+        // console.log(importedData)
+        var data = importedData;
 
+        var Artist_Count = data.map(sample=>sample.ArtistCount);
+        var Songs_Count = String(data.map(sample=>sample.SongsCount)).replace(/(.)(?=(\d{3})+$)/g,'$1,');
+        var Total_Streams = String(data.map(sample=>sample.TotalStreams)).replace(/(.)(?=(\d{3})+$)/g,'$1,');
+
+        d3.select("#country_selected").text(country)
+        d3.select("#artist_count").text(Artist_Count)
+        d3.select("#songs_count").text(Songs_Count)
+        d3.select("#total_streams").text(Total_Streams)
+
+        var countries = data.map(sample=>sample.Countries);
+        var artists = data.map(sample=>sample.Artists);
+        var songs = data.map(sample=>sample.Songs);
+        
+        // Adding array elements to dropdowns
+
+        if(d3.select("#country_selector").property("value") == ""){
+            d3.select("#country_selector").html("")
+            countries[0].forEach(country=>{d3.select("#country_selector").append("option").classed("dropdown-item",true).style("value",country).text(country)})
+        } 
+        if(d3.select("#artist_selector").property("value") == ""){
+            d3.select("#artist_selector").html("")
+            artists[0].forEach(artist=>{d3.select("#artist_selector").append("option").classed("dropdown-item",true).style("value",artist).text(artist)})
+        } 
+        if(d3.select("#song_selector").property("value") == ""){
+            d3.select("#song_selector").html("")
+            songs[0].forEach(track=>{d3.select("#song_selector").append("option").classed("dropdown-item",true).style("value",track).text(track)})
+        }        
+        
+    });
 
 } // The function that updates the Dashboard ends
-
-// });
-
 
 
 
