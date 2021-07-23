@@ -33,7 +33,7 @@ var margin = {
             TopChartData.forEach( function (data) {
                 data.ArtistName = +data.ArtistName;
                 data.TrackName = +data.TrackName;
-                data.Danceability = +data.Danceability;
+                data.Liveness = +data.Liveness;
                 data.Energy = +data.Energy;
                 data.Key = +data.Key;
                 data.Loudness = +data.Loudness;
@@ -50,7 +50,7 @@ var margin = {
 
             var x_linear_scale = d3.scaleLinear()
             
-                .domain([d3.min(TopChartData, d => d.Danceability) * 0.9, d3.max(TopChartData, d => d.Danceability) * 1.1])
+                .domain([d3.min(TopChartData, d => d.Liveness) * 0.9, d3.max(TopChartData, d => d.Liveness) * 1.1])
                 .range([0,width]);
 
             var y_linear_scale = d3.scaleLinear()
@@ -76,7 +76,7 @@ var margin = {
                 .enter()
                 .append("circle")
                 .classed("circle", true)
-                .attr("cx", d => x_linear_scale(d.Danceability))
+                .attr("cx", d => x_linear_scale(d.Liveness))
                 .attr("cy", d => y_linear_scale(d.Energy))
                 .attr("r", "10")
                 .attr("fill", "blue")
@@ -87,7 +87,7 @@ var margin = {
                 .enter()
                 .append("text")
                 .classed('text', true)
-                .attr("x", d => x_linear_scale(d.Danceability))
+                .attr("x", d => x_linear_scale(d.Liveness))
                 .attr("y", d => y_linear_scale(d.Energy))
                 .text(d => d.abbr)
                 .attr("text-anchor", "middle")
@@ -104,7 +104,7 @@ var margin = {
             var xLabel = group_labels.append("text")
                 .attr("x", 0)
                 .attr("y", 20)
-                .text("Danceability")
+                .text("Liveness")
                 .style("font-weight", "bold")
 
             // Variable Y Label
@@ -122,7 +122,7 @@ var margin = {
 
             // Tooltip
 
-            var chosenXAxis = "Danceability"
+            var chosenXAxis = "Liveness"
             var chosenYAxis = "Energy"
 
             function updateToolTip(chosenXAxis, chosenYAxis, circlesGroup) {
