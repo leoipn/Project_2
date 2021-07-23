@@ -4,10 +4,44 @@
     font-family: "Poppins";
 }
 
-.h1{
-    font-size: 10em;
+/* Spotify green color */
+/* #1ed760 */
+
+
+/* width */
+::-webkit-scrollbar {
+  width: 5px;
 }
 
+/* Track */
+::-webkit-scrollbar-track {
+  box-shadow: inset 0 0 5px grey; 
+  border-radius: 10px;
+}
+ 
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background:white; 
+  border-radius: 10px;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background:gray; 
+}
+
+.mask-custom {
+  background: rgba(255, 255, 255, 0);
+  border-radius: 8px;
+  backdrop-filter: blur(20px);
+  border: 1px solid rgba(255, 255, 255, 0.027);
+  background-clip: padding-box;
+  box-shadow: inset 0 0 2000px rgba(255, 255, 255, 0.4);
+}
+
+.list-group-item{
+  background-color: rgba(0, 0, 0, 0);
+}
 
 /*-------------------------------------------------------------------
   ===== Table of Contents =====
@@ -11479,8 +11513,10 @@ input[type="button"].btn-block {
 
 .card-body {
   flex: 1 1 auto;
-  min-height: 1px;
-  padding: 1.25rem; }
+  min-height: .5px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding: .1rem; }
 
 .card-title {
   margin-bottom: 0.75rem; }
@@ -17311,8 +17347,9 @@ code {
       right: 0;
       height: 100%; }
   .card.corona-gradient-card {
-    background-image: linear-gradient(to left, #d41459, #911a6c);
-    border-radius: 6px; }
+    /* background-image: linear-gradient(to left, #d41459, #911a6c); */
+    background-image: linear-gradient(to left, #1ed760, #1db954);
+    border-radius: 5px; }
 
     .card.corona-gradient-card .gradient-corona-img {
       height: 85px; }
@@ -23237,4 +23274,3 @@ div.tagsinput {
   -webkit-flex-grow: 1;
   flex-grow: 1; }
 
-/*# sourceMappingURL=../maps/modern-vertical/style.css.map */

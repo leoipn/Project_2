@@ -1,0 +1,201 @@
+Acousticness,Artist Name,Danceability,Energy,Instrumentalness,Key,Liveness,Loudness,Tempo,Track Name,Track Reference,Valence,_id
+0.302,Rauw Alejandro,0.78,0.719,0.000196,0.0931,0.0931,3,127.962,Todo De Ti,https://api.spotify.com/v1/tracks/5RwV8BvLfX5injfqYodke9,0.336,60fa060e214825fec63ff969
+0.276,Bad Bunny,0.644,0.648,0,0.135,0.135,1,179.951,Yonaguni,https://api.spotify.com/v1/tracks/2JPLbjOn0wPCngEot2STUS,0.44,60fa060f214825fec63ff96a
+0.0261,J Balvin,0.891,0.819,0.000354,0.173,0.173,8,101.968,Qué Más Pues?,https://api.spotify.com/v1/tracks/6hf0RpxTbOprT5nnwzkk8e,0.768,60fa060f214825fec63ff96b
+0.656,Gera MX,0.727,0.546,0,0.122,0.122,0,106.891,Botella Tras Botella,https://api.spotify.com/v1/tracks/2MnLkFqY9Rpg9s3Zv6ZJdK,0.69,60fa060f214825fec63ff96c
+0.114,Nio Garcia,0.743,0.655,0,0.0764,0.0764,6,172.031,AM Remix,https://api.spotify.com/v1/tracks/05bfbizlM5AX6Mf1RRyMho,0.785,60fa0610214825fec63ff96d
+0.163,Sebastian Yatra,0.715,0.622,0,0.0948,0.0948,4,80.015,Pareja Del Año,https://api.spotify.com/v1/tracks/2rCbl9naJYhaxjLsfx88uM,0.808,60fa0610214825fec63ff96e
+0.207,Mora,0.659,0.688,0,0.113,0.113,6,153.979,Volando - Remix,https://api.spotify.com/v1/tracks/0G2zPzWqVjR68iNPmx2TBe,0.632,60fa0610214825fec63ff96f
+0.401,Bad Bunny,0.731,0.573,0.0000522,0.113,0.113,4,109.928,DÁKITI,https://api.spotify.com/v1/tracks/4MzXwWMhyBbmu6hOcLVD49,0.145,60fa0610214825fec63ff970
+0.127,Måneskin,0.714,0.8,0,0.359,0.359,11,134.002,"Beggin'",https://api.spotify.com/v1/tracks/3Wrjm47oTz2sjIgck11l5e,0.589,60fa0610214825fec63ff971
+0.282,Marc Seguí,0.75,0.522,0,0.0743,0.0743,9,110.427,Tiroteo - Remix,https://api.spotify.com/v1/tracks/4OwhwvKESFtuu06dTgct7i,0.601,60fa0611214825fec63ff972
+0.407,Los Legendarios,0.849,0.701,0,0.112,0.112,6,98.005,Fiel,https://api.spotify.com/v1/tracks/7Bk0uXKk1uPT0XuQbpFzvs,0.505,60fa0611214825fec63ff973
+0.709,Rauw Alejandro,0.768,0.56,0.000791,0.115,0.115,3,112.084,2/Catorce,https://api.spotify.com/v1/tracks/0PwFN7vRvY80Hnkoew2x3f,0.372,60fa0611214825fec63ff974
+0.054,LAGOS,0.699,0.654,0.00000708,0.095,0.095,11,100.037,Mónaco,https://api.spotify.com/v1/tracks/3HgvO4B5LLmdPOT2d8cSZd,0.319,60fa0611214825fec63ff975
+0.102,J Balvin,0.813,0.809,0.00000137,0.377,0.377,3,93.005,Poblado - Remix,https://api.spotify.com/v1/tracks/1WedZeiezCmCEOzLwhx0hV,0.646,60fa0611214825fec63ff976
+0.696,Marca MP,0.673,0.326,0.00000373,0.103,0.103,0,133.309,Ya Acabo,https://api.spotify.com/v1/tracks/4H3t8C59tXjKf1R2iKtc5M,0.672,60fa0612214825fec63ff977
+0.138,Maluma,0.762,0.77,0,0.15,0.15,5,177.998,Sobrio,https://api.spotify.com/v1/tracks/4HzqWEdAbzcVFDv0pvxV4w,0.631,60fa0612214825fec63ff978
+0.398,Wisin,0.839,0.711,0.00000202,0.118,0.118,6,97.99,Fiel - Remix,https://api.spotify.com/v1/tracks/43qcs9NpJhDxtG91zxFkj7,0.573,60fa0612214825fec63ff979
+0.256,KAROL G,0.635,0.706,0,0.108,0.108,5,88.863,EL MAKINON,https://api.spotify.com/v1/tracks/2FSGUA0gFgGeQdprjtGM2M,0.443,60fa0612214825fec63ff97a
+0.398,Natanael Cano,0.685,0.831,0,0.177,0.177,4,97.431,Porte Exuberante,https://api.spotify.com/v1/tracks/4DdnffqoFr9wDRlCACNmGf,0.486,60fa0612214825fec63ff97b
+0.185,Maluma,0.783,0.727,0.0000246,0.0626,0.0626,6,180.067,Hawái,https://api.spotify.com/v1/tracks/1yoMvmasuxZfqHEipJhRbp,0.558,60fa0612214825fec63ff97c
+0.112,Kali Uchis,0.653,0.524,0,0.203,0.203,11,83.97,telepatía,https://api.spotify.com/v1/tracks/6tDDoYIxWvMLTdKpjFkc1B,0.553,60fa0613214825fec63ff97d
+0.441,Ingratax,0.57,0.455,0.000746,0.0654,0.0654,1,167.933,París,https://api.spotify.com/v1/tracks/4bF2y8rR7GUjrd5LNEvej3,0.399,60fa0613214825fec63ff97e
+0.192,Sech,0.786,0.899,0.000189,0.299,0.299,10,90.025,Sal y Perrea,https://api.spotify.com/v1/tracks/5u7twkeask1VIyDeNTElSU,0.813,60fa0613214825fec63ff97f
+0.259,Doja Cat,0.764,0.705,0.0000892,0.12,0.12,8,110.97,Kiss Me More (feat. SZA),https://api.spotify.com/v1/tracks/3DarAbFujv6eYNliUTyqtz,0.781,60fa0613214825fec63ff980
+0.348,Mora,0.818,0.673,0,0.172,0.172,4,87.961,512,https://api.spotify.com/v1/tracks/5jzEwSyyymBlf1fa1o39T2,0.695,60fa0613214825fec63ff981
+0.122,Myke Towers,0.713,0.617,0,0.0962,0.0962,8,168.021,Bandido,https://api.spotify.com/v1/tracks/1xK1Gg9SxG8fy2Ya373oqb,0.682,60fa0613214825fec63ff982
+0.161,TINI,0.85,0.541,0.00000501,0.286,0.286,2,92.003,Miénteme,https://api.spotify.com/v1/tracks/0cOa970mzTWAxKtltpkpLc,0.916,60fa0614214825fec63ff983
+0.335,Olivia Rodrigo,0.563,0.664,0,0.0849,0.0849,9,166.928,good 4 u,https://api.spotify.com/v1/tracks/4ZtFanR9U6ndgddUvNcjcG,0.688,60fa0614214825fec63ff984
+0.0303,Bad Bunny,0.856,0.618,0,0.0866,0.0866,7,81.993,LA NOCHE DE ANOCHE,https://api.spotify.com/v1/tracks/2XIc1pqjXV3Cr2BQUGNBck,0.391,60fa0614214825fec63ff985
+0.00544,BTS,0.702,0.741,0,0.337,0.337,9,124.925,Permission to Dance,https://api.spotify.com/v1/tracks/0LThjFY2iTtNdd4wviwVV2,0.646,60fa0614214825fec63ff986
+0.407,Grupo Firme,0.626,0.503,0,0.234,0.234,10,72.985,El Tóxico,https://api.spotify.com/v1/tracks/7E9GeFGfjXw9LAI4ay6rsw,0.821,60fa0614214825fec63ff987
+0.399,Nio Garcia,0.83,0.517,0.0000895,0.0916,0.0916,6,171.959,AM,https://api.spotify.com/v1/tracks/2dNhNlpZAtV4lwAFW45LIv,0.616,60fa0615214825fec63ff988
+0.305,Natti Natasha,0.908,0.813,0,0.278,0.278,5,97.018,Ram Pam Pam,https://api.spotify.com/v1/tracks/4DHDIdeayp8xvlyg22wREO,0.924,60fa0615214825fec63ff989
+0.165,Sech,0.816,0.71,0,0.292,0.292,7,93.02,911 - Remix,https://api.spotify.com/v1/tracks/27RSJHEA99Y0Vsow7nA37A,0.784,60fa0615214825fec63ff98a
+0.237,Bad Bunny,0.592,0.494,0,0.13,0.13,4,132.037,De Museo,https://api.spotify.com/v1/tracks/267NGliXM8YLVZiKAD9Otm,0.231,60fa0615214825fec63ff98b
+0.025,J Balvin,0.915,0.72,0.0000142,0.0942,0.0942,8,126.986,In Da Getto,https://api.spotify.com/v1/tracks/63aj87TQG6F3RVO5nbG2VQ,0.631,60fa0615214825fec63ff98c
+0.00323,BTS,0.759,0.459,0,0.0906,0.0906,8,109.997,Butter,https://api.spotify.com/v1/tracks/2bgTY4UwhfBYhGT4HUYStN,0.695,60fa0615214825fec63ff98d
+0.392,Pablo Alborán,0.278,0.572,0,0.063,0.063,7,95.351,Saturno,https://api.spotify.com/v1/tracks/2f0Ft2XdvNSMSY5TUlZgEz,0.311,60fa0616214825fec63ff98e
+0.282,Christian Nodal,0.638,0.437,0,0.0894,0.0894,4,147.88,Aquí Abajo,https://api.spotify.com/v1/tracks/16ONd70tvWAaLIc6hcLzaG,0.618,60fa0616214825fec63ff98f
+0.204,KAROL G,0.864,0.658,0.000626,0.105,0.105,1,163.922,BICHOTA,https://api.spotify.com/v1/tracks/1WvrDdouh6C51In1SdATbq,0.865,60fa0616214825fec63ff990
+0.0215,The Weeknd,0.65,0.825,0.0000244,0.0936,0.0936,0,118.091,Save Your Tears (with Ariana Grande) (Remix),https://api.spotify.com/v1/tracks/37BZB0z9T8Xu7U3e65qxFy,0.593,60fa0616214825fec63ff991
+0.0913,Bizarrap,0.627,0.849,0,0.145,0.145,1,89.907,"Nicky Jam: Bzrp Music Sessions, Vol. 41",https://api.spotify.com/v1/tracks/03LfOYi0icz4souspZVVhq,0.818,60fa0616214825fec63ff992
+0.784,Lenin Ramírez,0.643,0.35,0,0.102,0.102,4,118.199,Yo Ya No Vuelvo Contigo - En Vivo,https://api.spotify.com/v1/tracks/1s59X35jDULAyOGmBuTAnd,0.541,60fa0616214825fec63ff993
+0.697,El Fantasma,0.547,0.638,0,0.074,0.074,8,176.277,Cabrón y Vago - En Vivo,https://api.spotify.com/v1/tracks/4nbWX2HzrOEnX4xxvYRCyU,0.876,60fa0617214825fec63ff994
+0.741,Santa Fe Klan,0.678,0.457,0,0.113,0.113,0,72.156,Debo Entender,https://api.spotify.com/v1/tracks/55mzJ0LftLnef8sxAjrMkU,0.563,60fa0617214825fec63ff995
+0.00883,Dua Lipa,0.702,0.825,0,0.0674,0.0674,6,102.977,Levitating (feat. DaBaby),https://api.spotify.com/v1/tracks/5nujrmhLynf4yMoMtj8AQF,0.915,60fa0617214825fec63ff996
+0.757,Rauw Alejandro,0.699,0.612,0,0.161,0.161,11,100.005,Algo Mágico,https://api.spotify.com/v1/tracks/7D93pJcwymzaZx8WgBo2zG,0.591,60fa0617214825fec63ff997
+0.946,Ed Maverick,0.83,0.159,0.0000202,0.362,0.362,1,104.95,Fuentes de Ortiz,https://api.spotify.com/v1/tracks/0akyEssGRVHstqCSWXusJL,0.189,60fa0617214825fec63ff998
+0.175,Piso 21,0.82,0.804,0.00215,0.064,0.064,9,110.982,Tan Bonita,https://api.spotify.com/v1/tracks/6mm3K0yWp6uzfOMuipM9Zh,0.844,60fa0617214825fec63ff999
+0.00146,The Weeknd,0.514,0.73,0.0000954,0.0897,0.0897,1,171.005,Blinding Lights,https://api.spotify.com/v1/tracks/0VjIjW4GlUZAMYd2vXMi3b,0.334,60fa0618214825fec63ff99a
+0.277,Banda MS de Sergio Lizárraga,0.832,0.525,0.0000177,0.142,0.142,10,112.479,La Casita,https://api.spotify.com/v1/tracks/0vtYnEw1eJwW26BrBnOAYJ,0.967,60fa0618214825fec63ff99b
+0.734,Santa Fe Klan,0.611,0.66,0,0.0636,0.0636,4,137.668,Todo Va a Estar Bien,https://api.spotify.com/v1/tracks/3XjRIN9vEt35lm1iStPcgq,0.582,60fa0618214825fec63ff99c
+0.297,Lil Nas X,0.61,0.508,0,0.384,0.384,8,178.818,MONTERO (Call Me By Your Name),https://api.spotify.com/v1/tracks/67BtfxlNbhBmCDR2L2l8qd,0.758,60fa0618214825fec63ff99d
+0.152,J Balvin,0.754,0.646,0.0000185,0.108,0.108,7,176.089,LA CANCIÓN,https://api.spotify.com/v1/tracks/0fea68AdmYNygeTGI4RC18,0.429,60fa0618214825fec63ff99e
+0.363,Junior H,0.478,0.732,0.00000334,0.0768,0.0768,4,184.819,Ella,https://api.spotify.com/v1/tracks/0tKl8ZVM6xJkhznvJAS3Nq,0.664,60fa0618214825fec63ff99f
+0.171,Grupo Firme,0.578,0.801,0,0.651,0.651,8,114.12,Gracias - En Vivo,https://api.spotify.com/v1/tracks/2XlGKZNMkRKvEJsbwQ6MCl,0.706,60fa0619214825fec63ff9a0
+0.29,Lupillo Rivera,0.813,0.875,0,0.0292,0.0292,7,90.049,Grandes Ligas,https://api.spotify.com/v1/tracks/06IceO7e9isF3nX3y7dOTe,0.74,60fa0619214825fec63ff9a1
+0.00612,Kidd Keo,0.936,0.825,0.0017,0.0703,0.0703,1,123.991,Ma Vie (feat. Yay),https://api.spotify.com/v1/tracks/6UU24wuWgGwuSBAxDH866Z,0.843,60fa0619214825fec63ff9a2
+0.182,Bruno Mars,0.586,0.616,0,0.0927,0.0927,5,148.088,Leave The Door Open,https://api.spotify.com/v1/tracks/7MAibcTli4IisCtbHKrGMh,0.719,60fa0619214825fec63ff9a3
+0.321,Justin Bieber,0.677,0.696,0,0.42,0.42,0,90.03,Peaches (feat. Daniel Caesar & Giveon),https://api.spotify.com/v1/tracks/4iJyoBOLtHqaGxP12qzhQI,0.464,60fa0619214825fec63ff9a4
+0.234,Bad Bunny,0.811,0.637,0.000572,0.118,0.118,10,92.025,TE MUDASTE,https://api.spotify.com/v1/tracks/5RubKOuDoPn5Kj5TLVxSxY,0.471,60fa0619214825fec63ff9a5
+0.0774,Mi Banda El Mexicano,0.869,0.805,0,0.0686,0.0686,8,125.235,Ramito De Violetas,https://api.spotify.com/v1/tracks/6sRaqq9SYsSTPvrWkL1sRy,0.889,60fa061a214825fec63ff9a6
+0.0469,Ed Sheeran,0.808,0.897,0.0000314,0.364,0.364,11,126.026,Bad Habits,https://api.spotify.com/v1/tracks/6PQ88X9TkUIAUIZJHW2upE,0.591,60fa061a214825fec63ff9a7
+0.579,Fuerza Regida,0.566,0.709,0,0.14,0.14,2,104.971,Que Esta Pasando,https://api.spotify.com/v1/tracks/26xQbFpVg8JCT5NKQFJXg8,0.775,60fa061a214825fec63ff9a8
+0.11,Reik,0.762,0.797,0,0.412,0.412,6,81.994,Perfecta,https://api.spotify.com/v1/tracks/6VOb0Kkrd45Bp5RHYSla2J,0.787,60fa061a214825fec63ff9a9
+0.169,Bad Bunny,0.86,0.791,0.000106,0.106,0.106,0,92.023,A Tu Merced,https://api.spotify.com/v1/tracks/4r9jkMEnArtWGH2rL2FZl0,0.887,60fa061a214825fec63ff9aa
+0.176,Rauw Alejandro,0.823,0.537,0.00000375,0.124,0.124,8,175.965,Reloj,https://api.spotify.com/v1/tracks/4loQgPwJHocL3dFwLfjb1J,0.608,60fa061a214825fec63ff9ab
+0.0231,Danny Ocean,0.744,0.804,0,0.0494,0.0494,1,104.823,Me Rehúso,https://api.spotify.com/v1/tracks/6ifUES3keWjwXgae8pXI3o,0.426,60fa061b214825fec63ff9ac
+0.148,Luis Miguel,0.78,0.877,0.00000236,0.0627,0.0627,6,133.263,Ahora Te Puedes Marchar,https://api.spotify.com/v1/tracks/1uKjQoh8JZj9ryuYRhpd7E,0.909,60fa061b214825fec63ff9ad
+0.0215,Selena Gomez,0.823,0.544,0.00315,0.0966,0.0966,5,149.903,Baila Conmigo (with Rauw Alejandro),https://api.spotify.com/v1/tracks/079Ey5uxL04AKPQgVQwx5h,0.664,60fa061b214825fec63ff9ae
+0.382,Calibre 50,0.651,0.726,0,0.0535,0.0535,8,179.99,A La Antigüita,https://api.spotify.com/v1/tracks/798ahLNEcoFER7Vywg1FMT,0.963,60fa061b214825fec63ff9af
+0.259,Piso 21,0.728,0.542,0,0.136,0.136,0,90.016,"Pa' Olvidarme De Ella",https://api.spotify.com/v1/tracks/3lR4O0vtkhCAvVEUEWUL0S,0.637,60fa061b214825fec63ff9b0
+0.389,Natanael Cano,0.662,0.759,0,0.141,0.141,9,92.438,Diamantes,https://api.spotify.com/v1/tracks/0JDrG1g5HXbfgGtRKT0ofH,0.513,60fa061b214825fec63ff9b1
+0.584,Olivia Rodrigo,0.442,0.612,0.0000057,0.37,0.37,2,180.917,deja vu,https://api.spotify.com/v1/tracks/6HU7h9RYOaPRFeh0R3UeAr,0.178,60fa061c214825fec63ff9b2
+0.353,Grupo Firme,0.546,0.438,0,0.261,0.261,5,112.136,En Tu Perra Vida,https://api.spotify.com/v1/tracks/0ldT3gl7aGNzrJyd4b1CA4,0.568,60fa061c214825fec63ff9b3
+0.672,Santa Fe Klan,0.684,0.58,0,0.135,0.135,4,89.954,Te Ire A Buscar,https://api.spotify.com/v1/tracks/3elpkpwYlmUbuvmVps08lJ,0.233,60fa061c214825fec63ff9b4
+0.376,León Larregui,0.625,0.433,0.00103,0.248,0.248,9,93.041,Brillas,https://api.spotify.com/v1/tracks/6VuUMo1TusnqBxLTnr3hOI,0.274,60fa061c214825fec63ff9b5
+0.354,Morat,0.484,0.58,0,0.374,0.374,11,160.138,Idiota,https://api.spotify.com/v1/tracks/0cS0bJ0oBylj3TFtz6x9pC,0.597,60fa061c214825fec63ff9b6
+0.388,Christian Nodal,0.504,0.503,0,0.0608,0.0608,7,195.593,De Los Besos Que Te Di,https://api.spotify.com/v1/tracks/1qfoq1qvZT7VwDVeekCJ97,0.709,60fa061c214825fec63ff9b7
+0.329,Danna Paola,0.715,0.793,0.0000571,0.256,0.256,11,95.011,MÍA,https://api.spotify.com/v1/tracks/2HWXhViZhTPJa10NgyrRRS,0.713,60fa061d214825fec63ff9b8
+0.494,Tiago PZK,0.729,0.513,0.0000011,0.137,0.137,5,170.064,Entre Nosotros,https://api.spotify.com/v1/tracks/6w8yBI2vthyN9UnwO4UBWb,0.789,60fa061d214825fec63ff9b9
+0.00536,J Balvin,0.571,0.693,0,0.173,0.173,6,168.169,UN DIA (ONE DAY) (Feat. Tainy),https://api.spotify.com/v1/tracks/0EhpEsp4L0oRGM0vmeaN5e,0.393,60fa061d214825fec63ff9ba
+0.145,Jhay Cortez,0.806,0.786,0,0.0935,0.0935,10,91.973,No Me Conoce - Remix,https://api.spotify.com/v1/tracks/4R8BJggjosTswLxtkw8V7P,0.58,60fa061d214825fec63ff9bb
+0.46,Luis Miguel,0.641,0.593,0,0.169,0.169,3,119.828,Hasta Que Me Olvides,https://api.spotify.com/v1/tracks/6vPAmoERUMRoTZaCCSWQ12,0.437,60fa061d214825fec63ff9bc
+0.332,Natanael Cano,0.535,0.714,0.00000291,0.0806,0.0806,6,100.059,Amor Tumbado,https://api.spotify.com/v1/tracks/5aJ1M43pinROpwaPnO8KRj,0.458,60fa061e214825fec63ff9bd
+0.0219,Daddy Yankee,0.83,0.623,0,0.0812,0.0812,6,101.036,SÚBELE EL VOLUMEN,https://api.spotify.com/v1/tracks/343HgC6SVFtTAgMPlGoNjn,0.614,60fa061e214825fec63ff9be
+0.322,Christian Nodal,0.839,0.667,0,0.244,0.244,11,124.889,Dime Cómo Quieres,https://api.spotify.com/v1/tracks/4jcxBTrNvyqMJdMDyyjdYV,0.878,60fa061e214825fec63ff9bf
+0.382,Carin Leon,0.669,0.476,0.00000985,0.21,0.21,9,143.826,Tú,https://api.spotify.com/v1/tracks/1nLs8r6K4YN0avBwUmmTnr,0.905,60fa061e214825fec63ff9c0
+0.768,Olivia Rodrigo,0.561,0.431,0.0000142,0.106,0.106,10,143.875,drivers license,https://api.spotify.com/v1/tracks/5wANPM4fQCJwkGd4rN57mH,0.137,60fa061e214825fec63ff9c1
+0.127,Camilo,0.871,0.815,0.00000618,0.094,0.094,4,122.959,KESI - Remix,https://api.spotify.com/v1/tracks/0IqCoZ168iRc9LqfrYgpZy,0.823,60fa061e214825fec63ff9c2
+0.538,Los Plebes del Rancho de Ariel Camacho,0.525,0.505,0,0.101,0.101,7,179.968,2 Veces,https://api.spotify.com/v1/tracks/4cV6ld7uIs906zOwNscoBM,0.79,60fa061f214825fec63ff9c3
+0.535,El Fantasma,0.575,0.374,0,0.178,0.178,8,79.124,Palabra de Hombre,https://api.spotify.com/v1/tracks/4CLkDJ4xLqkV4Vt2vPOny1,0.563,60fa061f214825fec63ff9c4
+0.985,Kevin Kaarl,0.675,0.16,0.00688,0.164,0.164,0,69.754,Vámonos a Marte,https://api.spotify.com/v1/tracks/2TzkIzgzIHhewMxyh1u4hh,0.247,60fa061f214825fec63ff9c5
+0.00165,Måneskin,0.75,0.608,0,0.178,0.178,1,132.507,I WANNA BE YOUR SLAVE,https://api.spotify.com/v1/tracks/4pt5fDVTg5GhEvEtlz9dKk,0.958,60fa061f214825fec63ff9c6
+0.335,Eslabon Armado,0.681,0.664,0,0.0418,0.0418,6,102.166,Con Tus Besos,https://api.spotify.com/v1/tracks/6WYB1odDfMPVMyp1QxFInT,0.861,60fa061f214825fec63ff9c7
+0.076,Sech,0.795,0.655,0.00000176,0.296,0.296,7,93.029,911,https://api.spotify.com/v1/tracks/2p2Q23iaaPSEa1tI6TsCVX,0.744,60fa0620214825fec63ff9c8
+0.6,Bad Bunny,0.61,0.624,0.00000212,0.243,0.243,2,176.169,Callaita,https://api.spotify.com/v1/tracks/2TH65lNHgvLxCKXM3apjxI,0.244,60fa0620214825fec63ff9c9
+0.0363,Bad Bunny,0.886,0.672,0.00000878,0.101,0.101,1,91.976,Vete,https://api.spotify.com/v1/tracks/2n7ohqg1s68ToAHh4u9mcW,0.526,60fa0620214825fec63ff9ca
+0.269,Jay Wheeler,0.845,0.677,0.000917,0.108,0.108,11,90.013,La Curiosidad,https://api.spotify.com/v1/tracks/4HYDUMY0xSpeBr0AMY9cUz,0.68,60fa0620214825fec63ff9cb
+0.0123,Dua Lipa,0.793,0.793,0,0.0951,0.0951,11,123.95,"Don't Start Now",https://api.spotify.com/v1/tracks/3PfIrDoz19wz7qK7tYeu62,0.679,60fa0620214825fec63ff9cc
+0.0626,Bad Bunny,0.672,0.594,0.0000514,0.152,0.152,1,171.854,Si Estuviésemos Juntos,https://api.spotify.com/v1/tracks/35wvL50xvKpCHEJPxLOLPI,0.158,60fa0620214825fec63ff9cd
+0.0112,BTS,0.746,0.765,0,0.0936,0.0936,6,114.044,Dynamite,https://api.spotify.com/v1/tracks/4saklk6nie3yiGePpBwUoc,0.737,60fa0621214825fec63ff9ce
+0.0803,La Factoria,0.774,0.91,0.000168,0.0908,0.0908,10,113.307,Todavia,https://api.spotify.com/v1/tracks/3D5uEBD0cAEGZGUo5j9045,0.65,60fa0621214825fec63ff9cf
+0.27,Junior H,0.576,0.604,0,0.176,0.176,5,99.746,Mente Positiva,https://api.spotify.com/v1/tracks/3WQilym5Vi4ypxb70vx0eY,0.734,60fa0621214825fec63ff9d0
+0.348,Calibre 50,0.764,0.585,0.00294,0.369,0.369,2,90.013,Si Te Pudiera Mentir,https://api.spotify.com/v1/tracks/3p6eieHX6oEOzJStPtEsLu,0.89,60fa0621214825fec63ff9d1
+0.402,Bad Bunny,0.9,0.603,0.00000481,0.134,0.134,2,129.928,Si Veo a Tu Mamá,https://api.spotify.com/v1/tracks/41wtwzCZkXwpnakmwJ239F,0.824,60fa0621214825fec63ff9d2
+0.557,Carin Leon,0.723,0.48,0,0.0705,0.0705,11,144.533,Me La Avente,https://api.spotify.com/v1/tracks/2QwMXe5zbqymDZGYsMDVqZ,0.909,60fa0622214825fec63ff9d3
+0.414,Tiësto,0.798,0.62,0.0192,0.112,0.112,8,120.031,The Business,https://api.spotify.com/v1/tracks/6f3Slt0GbA2bPZlz0aIFXN,0.235,60fa0622214825fec63ff9d4
+0.0212,The Weeknd,0.68,0.826,0.0000124,0.543,0.543,0,118.051,Save Your Tears,https://api.spotify.com/v1/tracks/5QO79kh1waicV47BqGRL3g,0.644,60fa0622214825fec63ff9d5
+0.237,Luis Miguel,0.374,0.727,0,0.134,0.134,10,155.127,La Incondicional,https://api.spotify.com/v1/tracks/6F9yAYUaNbUhdlQyt5uZ3b,0.283,60fa0622214825fec63ff9d6
+0.491,Alejandro Fernández,0.642,0.442,0.00000158,0.102,0.102,8,148.01,Me Dediqué a Perderte,https://api.spotify.com/v1/tracks/4NUt1fcnO9aQAELBgXq3Kr,0.465,60fa0622214825fec63ff9d7
+0.0326,Bad Bunny,0.744,0.868,0,0.0822,0.0822,1,93.037,La Santa,https://api.spotify.com/v1/tracks/69vlMrzHwATKzupwNcUPyK,0.586,60fa0622214825fec63ff9d8
+0.416,Los Dos Carnales,0.719,0.577,0,0.0972,0.0972,5,78.77,El Envidioso,https://api.spotify.com/v1/tracks/53PoPAD389bBE4ePYuT95g,0.861,60fa0623214825fec63ff9d9
+0.0383,The Kid LAROI,0.591,0.764,0,0.103,0.103,1,169.928,Stay (with Justin Bieber),https://api.spotify.com/v1/tracks/5HCyWlXZPP0y6Gqq8TgA20,0.478,60fa0623214825fec63ff9da
+0.73,Camilo,0.724,0.443,0,0.101,0.101,7,97.194,La Mitad,https://api.spotify.com/v1/tracks/63Zaf8Rci6eOUPqDQ4fUFx,0.763,60fa0623214825fec63ff9db
+0.39,Rochy RD,0.585,0.611,0,0.649,0.649,6,97.041,Ella No Es Tuya - Remix,https://api.spotify.com/v1/tracks/5YYW3yRktprLRr47WK219Y,0.962,60fa0623214825fec63ff9dc
+0.256,Becky G,0.93,0.837,0.00000237,0.239,0.239,7,111.898,Fulanito,https://api.spotify.com/v1/tracks/59L8x0xy8njj75vzVCPMqg,0.821,60fa0623214825fec63ff9dd
+0.329,Natanael Cano,0.73,0.702,0,0.119,0.119,10,102.304,El Drip,https://api.spotify.com/v1/tracks/5NCBP3ivrIDcHEtzHSW3k0,0.868,60fa0624214825fec63ff9de
+0.368,Christian Nodal,0.65,0.558,0,0.303,0.303,0,141.82,Se Me Olvidó,https://api.spotify.com/v1/tracks/7paFC3FEu1WtPVP4Do6VZN,0.725,60fa0624214825fec63ff9df
+0.691,Olivia Rodrigo,0.38,0.339,0,0.12,0.12,3,100.607,traitor,https://api.spotify.com/v1/tracks/5CZ40GBx1sQ9agT82CLQCT,0.0849,60fa0624214825fec63ff9e0
+0.0847,Sebastian Yatra,0.574,0.891,0,0.16,0.16,0,100.978,Chica Ideal,https://api.spotify.com/v1/tracks/21N4Buj4xsyLb218lYle61,0.707,60fa0624214825fec63ff9e1
+0.122,Harry Styles,0.548,0.816,0,0.335,0.335,0,95.39,Watermelon Sugar,https://api.spotify.com/v1/tracks/6UelLqGlWMcVH1E5c4H7lY,0.557,60fa0624214825fec63ff9e2
+0.0337,Sech,0.793,0.771,0.00000151,0.284,0.284,5,171.943,Relación - Remix,https://api.spotify.com/v1/tracks/35UUpTmrcFXNIVIN26ujXl,0.835,60fa0625214825fec63ff9e3
+0.369,Christian Nodal,0.644,0.568,0,0.151,0.151,9,81.409,No Te Contaron Mal,https://api.spotify.com/v1/tracks/7hbk4BaF66O09R1gq0bKwj,0.654,60fa0625214825fec63ff9e4
+0.139,Ozuna,0.714,0.761,0.00035,0.241,0.241,5,168.022,Una Locura,https://api.spotify.com/v1/tracks/5y7DaS3jAc9eZzcSOoUIwU,0.906,60fa0625214825fec63ff9e5
+0.517,Junior H,0.679,0.633,0,0.103,0.103,6,109.736,Disfruto Lo Malo,https://api.spotify.com/v1/tracks/46DU5gYWY2vjE79mbhX4Wv,0.709,60fa0625214825fec63ff9e6
+0.417,Grupo Firme,0.625,0.554,0,0.305,0.305,10,111.911,El Güero (Feat. Marca MP),https://api.spotify.com/v1/tracks/2MeEuwplwbbjZ7hxRI6viw,0.846,60fa0625214825fec63ff9e7
+0.433,"Luis Angel ""El Flaco""",0.573,0.424,0,0.104,0.104,8,135.154,Hasta la Miel Amarga (feat. Grupo Firme),https://api.spotify.com/v1/tracks/3D3W7rDsuJIAtjInwh6Moc,0.749,60fa0625214825fec63ff9e8
+0.396,Alex Rose,0.76,0.674,0.0000354,0.0977,0.0977,7,172.024,Me Fije,https://api.spotify.com/v1/tracks/6Et5KimMg3IXwD6lJPGmQw,0.735,60fa0626214825fec63ff9e9
+0.597,El Fantasma,0.707,0.567,0.00000128,0.0668,0.0668,10,116.794,El Bélico,https://api.spotify.com/v1/tracks/50pkO56KXHoH53sVPRSbZ3,0.964,60fa0626214825fec63ff9ea
+0.18,Camilo,0.808,0.497,0,0.0642,0.0642,6,87.987,Vida de Rico,https://api.spotify.com/v1/tracks/4nTduFjaTmGysc9WKNuCcs,0.962,60fa0626214825fec63ff9eb
+0.0994,Justin Morales,0.79,0.688,0,0.111,0.111,2,97.486,Desde Morro,https://api.spotify.com/v1/tracks/5u6lAvdS8mmHHTHQlC3TtN,0.816,60fa0626214825fec63ff9ec
+0.309,KAROL G,0.799,0.701,0.0000736,0.0514,0.0514,2,100.946,Tusa,https://api.spotify.com/v1/tracks/0dKg2vGC1hFqcK5LGTaKzX,0.607,60fa0626214825fec63ff9ed
+0.278,Banda MS de Sergio Lizárraga,0.765,0.339,0,0.131,0.131,8,123.95,El Color de Tus Ojos,https://api.spotify.com/v1/tracks/1l77YWrGUp3qX3NS1rz7lq,0.864,60fa0627214825fec63ff9ee
+0.0345,Lefty Sm,0.782,0.662,0,0.216,0.216,1,80.008,Por Mi México,https://api.spotify.com/v1/tracks/2sUknbm8xdLQgH7wb8xcTX,0.821,60fa0627214825fec63ff9ef
+0.62,Los Elegantes de Jerez,0.767,0.701,0.0295,0.166,0.166,5,115.017,Tú,https://api.spotify.com/v1/tracks/5GkeaIeCEfB0LOqk7sIVHQ,0.888,60fa0627214825fec63ff9f0
+0.222,Justin Quiles,0.77,0.899,0.00000114,0.0894,0.0894,8,128.05,Loco,https://api.spotify.com/v1/tracks/6PDlkWmrq2ZKiUuFt2aQsH,0.851,60fa0627214825fec63ff9f1
+0.0031,Hombres G,0.603,0.843,0.0337,0.445,0.445,9,172.676,Devuélveme a mi chica,https://api.spotify.com/v1/tracks/1Wrzhfa5bNlqvsnCztz190,0.503,60fa0627214825fec63ff9f2
+0.00935,Crissin,0.895,0.707,0,0.115,0.115,3,93.036,Poblado,https://api.spotify.com/v1/tracks/47gSYfwFBbV1BXHfXEq1qs,0.481,60fa0628214825fec63ff9f3
+0.217,Bella Poarch,0.855,0.463,0.0000177,0.347,0.347,3,102.931,Build a Bitch,https://api.spotify.com/v1/tracks/7BoobGhD4x5K96Me0hqC8Q,0.866,60fa0628214825fec63ff9f4
+0.176,Los Enanitos Verdes,0.714,0.735,0.000622,0.115,0.115,4,123.57,Lamento Boliviano,https://api.spotify.com/v1/tracks/6Pur3hWy6Nzc27ilmsp5HA,0.68,60fa0628214825fec63ff9f5
+0.765,Olivia Rodrigo,0.395,0.443,0.00000967,0.0839,0.0839,6,168.924,happier,https://api.spotify.com/v1/tracks/2tGvwE8GcFKwNdAXMnlbfl,0.338,60fa0628214825fec63ff9f6
+0.0406,Rauw Alejandro,0.721,0.637,0,0.0525,0.0525,9,193.922,Tattoo - Remix with Camilo,https://api.spotify.com/v1/tracks/4G3PTss3mU33Tau7t4KbwE,0.691,60fa0628214825fec63ff9f7
+0.0946,Jhay Cortez,0.807,0.606,0,0.119,0.119,3,92.988,CÓMO SE SIENTE - Remix,https://api.spotify.com/v1/tracks/2tFwfmceQa1Y6nRPhYbEtC,0.304,60fa0628214825fec63ff9f8
+0.192,Banda MS de Sergio Lizárraga,0.74,0.417,0.00000843,0.225,0.225,2,125.832,Cerrando Ciclos,https://api.spotify.com/v1/tracks/3fBJNawfhtgCmo58trRK2z,0.607,60fa0629214825fec63ff9f9
+0.0816,J Balvin,0.843,0.836,0.00138,0.0532,0.0532,11,94.018,Azul,https://api.spotify.com/v1/tracks/2lCkncy6bIB0LTMT7kvrD1,0.65,60fa0629214825fec63ff9fa
+0.228,Los Ángeles Azules,0.678,0.821,0.0000479,0.147,0.147,0,170.164,Amor A Primera Vista,https://api.spotify.com/v1/tracks/5Myb8S90Wg0yLec5kmrIGJ,0.96,60fa0629214825fec63ff9fb
+0.0103,Bad Bunny,0.607,0.829,0,0.107,0.107,2,96.172,Safaera,https://api.spotify.com/v1/tracks/2DEZmgHKAvm41k4J3R2E9Y,0.685,60fa0629214825fec63ff9fc
+0.198,Olivia Rodrigo,0.695,0.575,0,0.0614,0.0614,10,163.929,"jealousy, jealousy",https://api.spotify.com/v1/tracks/0MMyJUC3WNnFS1lit5pTjk,0.699,60fa0629214825fec63ff9fd
+0.866,Olivia Rodrigo,0.369,0.272,0,0.147,0.147,9,172.929,favorite crime,https://api.spotify.com/v1/tracks/5JCoSi02qi3jJeHdZXMmR8,0.218,60fa062a214825fec63ff9fe
+0.354,Bizarrap,0.83,0.748,0,0.0992,0.0992,1,133.028,"Snow Tha Product: Bzrp Music Sessions, Vol. 39",https://api.spotify.com/v1/tracks/3ke6it1vTmHtz2ApcIVUz5,0.523,60fa062a214825fec63ff9ff
+0.241,Rels B,0.846,0.548,0.0713,0.0419,0.0419,1,94.925,A Mí,https://api.spotify.com/v1/tracks/7MmrcXVA7A5zZ2CbDuGHNa,0.516,60fa062a214825fec63ffa00
+0.0907,Lele Pons,0.905,0.686,0,0.266,0.266,0,103.013,Se Te Nota (with Guaynaa),https://api.spotify.com/v1/tracks/11EnQRgRMJwMAesfkB5pnu,0.963,60fa062a214825fec63ffa01
+0.072,León Larregui,0.724,0.646,0.000157,0.0923,0.0923,10,112.019,Locos,https://api.spotify.com/v1/tracks/3GSMdtJphymHEsR8K9jT5Q,0.957,60fa062a214825fec63ffa02
+0.00248,Cartel De Santa,0.894,0.65,0.00869,0.057,0.057,10,87.982,Bombos y Tarolas,https://api.spotify.com/v1/tracks/5MyEACD2kRFeh231Z6FkdE,0.787,60fa062a214825fec63ffa03
+0.0361,Bobby Pulido,0.676,0.618,0,0.199,0.199,6,173.955,Desvelado,https://api.spotify.com/v1/tracks/2JJSGhPpATm8lXeYjD95fw,0.899,60fa062b214825fec63ffa04
+0.185,Los Del Limit,0.587,0.411,0,0.273,0.273,8,140.277,Amor Fugaz,https://api.spotify.com/v1/tracks/4O2bxKTnK9En7OPw8kGDDF,0.53,60fa062b214825fec63ffa05
+0.274,Polo Gonzalez,0.67,0.632,0,0.137,0.137,4,154.986,Sencillo Soy,https://api.spotify.com/v1/tracks/5XWPoQ2lS8qgaf5aeDwBmh,0.707,60fa062b214825fec63ffa06
+0.69,Tones And I,0.824,0.587,0.000105,0.149,0.149,6,98.029,Dance Monkey,https://api.spotify.com/v1/tracks/2N8m6CYs74qQO4mjVcXO30,0.514,60fa062b214825fec63ffa07
+0.869,Bad Bunny,0.584,0.411,0.0000447,0.0955,0.0955,10,169.934,HACIENDO QUE ME AMAS,https://api.spotify.com/v1/tracks/26QApq0cuO9brJigr0C0W4,0.412,60fa062b214825fec63ffa08
+0.0583,MC Davo,0.747,0.78,0,0.164,0.164,9,82.524,¿Quién Te Crees?,https://api.spotify.com/v1/tracks/2LXOSAYiSrTfIf8smheLaz,0.538,60fa062c214825fec63ffa09
+0.285,Los 2 de la S,0.624,0.427,0,0.967,0.967,10,137.091,Somos Los Que Somos - En Vivo,https://api.spotify.com/v1/tracks/1Z04XN4pH2b8JfdiaIEkl5,0.936,60fa062c214825fec63ffa0a
+0.169,Christian Nodal,0.433,0.431,0,0.307,0.307,2,177.732,Adiós Amor,https://api.spotify.com/v1/tracks/63bmZnBN1CiJ9sA4qTEe8y,0.722,60fa062c214825fec63ffa0b
+0.277,Jesse & Joy,0.531,0.834,0,0.131,0.131,2,142.026,Dueles,https://api.spotify.com/v1/tracks/1iRvhKiXRElIH2Uf4gd95P,0.526,60fa062c214825fec63ffa0c
+0.117,Intocable,0.659,0.433,0.000427,0.0829,0.0829,11,125.556,Fuerte No Soy,https://api.spotify.com/v1/tracks/7A07Yu1dRND3RKDzbhKrDs,0.455,60fa062c214825fec63ffa0d
+0.328,Rauw Alejandro,0.704,0.739,0.0000193,0.0856,0.0856,8,179.879,Sexo Virtual,https://api.spotify.com/v1/tracks/0giiXonRhODYy4J1iy4Lb3,0.425,60fa062c214825fec63ffa0e
+0.835,Chayín Rubio,0.657,0.591,0,0.248,0.248,10,132.041,Ya Me Enteré,https://api.spotify.com/v1/tracks/4ggabbjjuHrG06SsYnqvEs,0.687,60fa062d214825fec63ffa0f
+0.378,Carin Leon,0.542,0.489,0,0.123,0.123,8,125.336,El Amor De Tu Vida,https://api.spotify.com/v1/tracks/5HpXH64cSBNu26yhw3vK37,0.674,60fa062d214825fec63ffa10
+0.767,KAROL G,0.515,0.704,0,0.415,0.415,9,91.246,200 COPAS,https://api.spotify.com/v1/tracks/0aZnyTWJNgdzYoOiaW8HKG,0.885,60fa062d214825fec63ffa11
+0.807,Pepe Aguilar,0.602,0.398,0,0.703,0.703,0,126.285,Prometiste,https://api.spotify.com/v1/tracks/2UypFzxfaYgMUnQX2k4qtj,0.603,60fa062d214825fec63ffa12
+0.393,Christian Nodal,0.589,0.49,0,0.118,0.118,7,160.179,Probablemente,https://api.spotify.com/v1/tracks/4prmUBle7TtAeeUgCnsc3Z,0.604,60fa062d214825fec63ffa13
+0.25,Paulo Londra,0.855,0.649,0,0.0801,0.0801,8,161.986,Tal Vez,https://api.spotify.com/v1/tracks/5jW3rF4URMdK7tO2xjS5EI,0.741,60fa062e214825fec63ffa14
+0.289,Kevin Roldan,0.714,0.671,0,0.325,0.325,5,169.732,Hasta Abajo,https://api.spotify.com/v1/tracks/4PEfJZpVjdclfzZ9XO8uDw,0.641,60fa062e214825fec63ffa15
+0.362,Boza,0.725,0.756,0.000685,0.103,0.103,4,100.07,"Hecha Pa' Mi",https://api.spotify.com/v1/tracks/3VvA1wSxukMLsvXoXtlwWx,0.828,60fa062e214825fec63ffa16
+0.0367,Luis Miguel,0.54,0.367,0,0.0433,0.0433,0,70.276,Culpable O No - Miénteme Como Siempre,https://api.spotify.com/v1/tracks/7BwxbmYFy0l3ROHDjV2c14,0.252,60fa062e214825fec63ffa17
+0.709,T3R Elemento,0.473,0.448,0,0.104,0.104,9,189.195,Ojitos de Miel,https://api.spotify.com/v1/tracks/3V1jBnDI3zCn25ONFiqwN8,0.6,60fa062e214825fec63ffa18
+0.0194,Black Eyed Peas,0.964,0.486,0.04,0.0694,0.0694,2,124.058,GIRL LIKE ME,https://api.spotify.com/v1/tracks/2vBET2pmrQqafaS6zIaYta,0.318,60fa062f214825fec63ffa19
+0.543,The Police,0.82,0.452,0.00294,0.0714,0.0714,1,117.401,Every Breath You Take,https://api.spotify.com/v1/tracks/1JSTJqkT5qHq8MDJnJbRE1,0.74,60fa062f214825fec63ffa1a
+0.422,Maluma,0.691,0.739,0.00000395,0.11,0.11,5,83.897,Parce (feat. Justin Quiles),https://api.spotify.com/v1/tracks/4RJz8NfIe09gpKMiRUWKhJ,0.884,60fa062f214825fec63ffa1b
+0.922,Kevin Kaarl,0.544,0.216,0.311,0.112,0.112,7,75.004,Colapso,https://api.spotify.com/v1/tracks/7dT9D6117e5DbhnKxDLNW9,0.145,60fa062f214825fec63ffa1c
+0.264,Junior H,0.752,0.719,0.0000796,0.126,0.126,6,107.582,Se Amerita,https://api.spotify.com/v1/tracks/3pQYf90V5idOGrXzosm9rt,0.544,60fa062f214825fec63ffa1d
+0.655,Grupo Firme,0.358,0.465,0,0.155,0.155,10,87.706,Cada Vez Te Extraño Más,https://api.spotify.com/v1/tracks/70w1mwTod6NgCNV6e7ZlIQ,0.535,60fa062f214825fec63ffa1e
+0.476,Camilo,0.862,0.72,0,0.0543,0.0543,4,129.993,BEBÉ,https://api.spotify.com/v1/tracks/3Zf4GutWZ7Hv3wsVQsSQPs,0.967,60fa0630214825fec63ffa1f
+0.305,Junior H,0.614,0.56,0.00000499,0.106,0.106,4,155.293,Jueves 10,https://api.spotify.com/v1/tracks/7KoyXL9zghiNpXkb5iVDyj,0.538,60fa0630214825fec63ffa20
+0.182,Danna Paola,0.765,0.574,0.0000104,0.0567,0.0567,6,176.001,Mala Fama,https://api.spotify.com/v1/tracks/2D9itdl85AQVNpTfrxvUGj,0.815,60fa0630214825fec63ffa21
+0.0882,Farruko,0.659,0.701,0,0.0866,0.0866,9,91.97,La Tóxica,https://api.spotify.com/v1/tracks/15OjBeqNX3bShsGYQbteRv,0.623,60fa0630214825fec63ffa22
+0.397,Camilo,0.788,0.789,0,0.226,0.226,0,167.897,Machu Picchu,https://api.spotify.com/v1/tracks/6RV9pRLIQiXm3qTGeyQluf,0.867,60fa0630214825fec63ffa23
+0.691,Calibre 50,0.755,0.557,0,0.104,0.104,3,130.03,Simplemente Gracias,https://api.spotify.com/v1/tracks/3K6noLeoPTQJ5jUErC8jT5,0.743,60fa0631214825fec63ffa24
+0.31,Wisin,0.823,0.821,0.00000428,0.143,0.143,8,99.999,Mi Niña,https://api.spotify.com/v1/tracks/2bgcUk2A3jjKbCJ7KPquTi,0.791,60fa0631214825fec63ffa25
+0.518,Piso 21,0.605,0.8,0.000128,0.0763,0.0763,10,92.284,Más De La Una,https://api.spotify.com/v1/tracks/00szcRmgqJGtqrfIUYkM1h,0.732,60fa0631214825fec63ffa26
+0.0548,Marc Seguí,0.747,0.605,0.00000355,0.0794,0.0794,9,110.402,Tiroteo,https://api.spotify.com/v1/tracks/05HpBFLrHBjWpgV0DSPUAv,0.564,60fa0631214825fec63ffa27
+0.281,BANDIDO,0.769,0.812,0.0000263,0.0781,0.0781,1,180.003,"No Me Conocen (Remix) [con DUKI, Rei & Tiago PZK]",https://api.spotify.com/v1/tracks/7COGuXyTr12KvdaYXMqheC,0.926,60fa0631214825fec63ffa28
+0.394,Reik,0.627,0.522,0,0.108,0.108,11,86.015,Poco,https://api.spotify.com/v1/tracks/6VZMIyzOupI4vA68RaUgXb,0.8,60fa0632214825fec63ffa29
+0.021,Bad Bunny,0.86,0.758,0.0000654,0.344,0.344,11,97.014,Yo Perreo Sola,https://api.spotify.com/v1/tracks/0SqqAgdovOE24BzxIClpjw,0.453,60fa0632214825fec63ffa2a
+0.0518,Cali Y El Dandee,0.684,0.808,0.0000102,0.0858,0.0858,0,173.905,Nada,https://api.spotify.com/v1/tracks/4K8cyoCDovlc4FvtUr2Hfx,0.712,60fa0632214825fec63ffa2b
+0.172,Fuego,0.792,0.676,0.0000193,0.0654,0.0654,1,117.011,Una Vaina Loca,https://api.spotify.com/v1/tracks/337cEDExdFKmLrQMKjffxr,0.712,60fa0632214825fec63ffa2c
+0.0861,Bad Bunny,0.685,0.848,0.00000714,0.0783,0.0783,8,179.87,La Difícil,https://api.spotify.com/v1/tracks/6NfrH0ANGmgBXyxgV2PeXt,0.761,60fa0632214825fec63ffa2d
+0.168,Inspector,0.607,0.666,0,0.201,0.201,2,139.542,Amargo Adiós,https://api.spotify.com/v1/tracks/0zCOT028cU3DeCqN1G18wE,0.79,60fa0632214825fec63ffa2e
+0.0622,Imagine Dragons,0.776,0.78,0,0.081,0.081,10,124.949,Believer,https://api.spotify.com/v1/tracks/0pqnGHJpmpxLKifKRmU6WP,0.666,60fa0633214825fec63ffa2f
+0.062,Aleman,0.803,0.788,0,0.362,0.362,4,106.013,Mi Tío Snoop,https://api.spotify.com/v1/tracks/48XgkAh1fkcZqA2EZWCDX6,0.778,60fa0633214825fec63ffa30
