@@ -27,28 +27,35 @@ var margin = {
         .attr("transform", `translate(${margin.left}, ${margin.top})`);
 
         // Import data from CSV
-        d3.json("assets/data/data.csv").then(function (censusData) {
+        d3.json("../Resources/JSON/TopGlobal.json").then(function (TopChartData) {
 
             // Parse the data to convert to numercial values
-            censusData.forEach( function (data) {
-                data.poverty = +data.poverty;
-                data.age = +data.age;
-                data.income = +data.income;
-                data.healthcare = +data.healthcare;
-                data.obesity = +data.obesity;
-                data.smokes = +data.smokes;
+            TopChartData.forEach( function (data) {
+                data.ArtistName = +data.ArtistName;
+                data.TrackName = +data.TrackName;
+                data.Danceability = +data.Danceability;
+                data.Energy = +data.Energy;
+                data.Key = +data.Key;
+                data.Loudness = +data.Loudness;
+                data.Acousticness = +data.Acousticness;
+                data.Instrumentalness = +data.Instrumentalness;
+                data.Liveness = +data.Liveness;
+                data.Valence = +data.Valence;
+                data.Tempo = +data.Tempo;
+                data.TrackReference = +data.TrackReference;
+
             });
 
             // Create Scale Functions
 
             var xLinearScale = d3.scaleLinear()
                 // .domain([8, d3.max(censusData, d => d.poverty+2)])
-                .domain([d3.min(censusData, d => d.poverty) * 0.9, d3.max(censusData, d => d.poverty) * 1.1])
+                .domain([d3.min(TopChartData, d => d.Danceability) * 0.9, d3.max(TopChartData, d => d.Danceability) * 1.1])
                 .range([0,width]);
 
             var yLinearScale = d3.scaleLinear()
                 // .domain([4, d3.max(censusData, d => d.healthcare+2)])
-                .domain([d3.min(censusData, d => d.healthcare) * 0.8, d3.max(censusData, d => d.healthcare) * 1.1])
+                .domain([d3.min(TopChartData, d => d.Energy) * 0.8, d3.max(TopChartData, d => d.Energy) * 1.1])
                 .range([height, 0]);
 
             // Create Axis Function
@@ -65,23 +72,23 @@ var margin = {
 
             // Create Circles
             var circlesGroup = chartGroup.selectAll("circle")
-                .data(censusData)
+                .data(TopChartData)
                 .enter()
                 .append("circle")
                 .classed("circle", true)
-                .attr("cx", d => xLinearScale(d.poverty))
-                .attr("cy", d => yLinearScale(d.healthcare))
+                .attr("cx", d => xLinearScale(d.Danceability))
+                .attr("cy", d => yLinearScale(d.Energy))
                 .attr("r", "10")
                 .attr("fill", "blue")
                 .attr("opacity", ".6");
 
             var text = chartGroup.append("g").selectAll("text")
-                .data(censusData)
+                .data(TopChartData)
                 .enter()
                 .append("text")
                 .classed('text', true)
-                .attr("x", d => xLinearScale(d.poverty))
-                .attr("y", d => yLinearScale(d.healthcare))
+                .attr("x", d => xLinearScale(d.Danceability))
+                .attr("y", d => yLinearScale(d.Energy))
                 // .attr("dy", "50%")
                 .text(d => d.abbr)
                 .attr("text-anchor", "middle")

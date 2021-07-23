@@ -2,8 +2,8 @@
   "_id": {
     "$oid": "60f79074a24480877399e26f"
   },
-  "Artist Name": "Måneskin",
-  "Track Name": "Beggin'",
+  "ArtistName": "Måneskin",
+  "TrackName": "Beggin'",
   "Danceability": 0.714,
   "Energy": 0.8,
   "Key": 0.359,
@@ -13,13 +13,13 @@
   "Liveness": 0.359,
   "Valence": 0.589,
   "Tempo": 134.002,
-  "Track Reference": "https://api.spotify.com/v1/tracks/3Wrjm47oTz2sjIgck11l5e"
+  "TrackReference": "https://api.spotify.com/v1/tracks/3Wrjm47oTz2sjIgck11l5e"
 },{
   "_id": {
     "$oid": "60f79076a24480877399e270"
   },
-  "Artist Name": "The Kid LAROI",
-  "Track Name": "Stay (with Justin Bieber)",
+  "ArtistName": "The Kid LAROI",
+  "TrackName": "Stay (with Justin Bieber)",
   "Danceability": 0.591,
   "Energy": 0.764,
   "Key": 0.103,
@@ -29,13 +29,13 @@
   "Liveness": 0.103,
   "Valence": 0.478,
   "Tempo": 169.928,
-  "Track Reference": "https://api.spotify.com/v1/tracks/5HCyWlXZPP0y6Gqq8TgA20"
+  "TrackReference": "https://api.spotify.com/v1/tracks/5HCyWlXZPP0y6Gqq8TgA20"
 },{
   "_id": {
     "$oid": "60f79076a24480877399e271"
   },
-  "Artist Name": "Olivia Rodrigo",
-  "Track Name": "good 4 u",
+  "ArtistName": "Olivia Rodrigo",
+  "TrackName": "good 4 u",
   "Danceability": 0.563,
   "Energy": 0.664,
   "Key": 0.0849,
@@ -45,13 +45,13 @@
   "Liveness": 0.0849,
   "Valence": 0.688,
   "Tempo": 166.928,
-  "Track Reference": "https://api.spotify.com/v1/tracks/4ZtFanR9U6ndgddUvNcjcG"
+  "TrackReference": "https://api.spotify.com/v1/tracks/4ZtFanR9U6ndgddUvNcjcG"
 },{
   "_id": {
     "$oid": "60f79076a24480877399e272"
   },
-  "Artist Name": "Ed Sheeran",
-  "Track Name": "Bad Habits",
+  "ArtistName": "Ed Sheeran",
+  "TrackName": "Bad Habits",
   "Danceability": 0.808,
   "Energy": 0.897,
   "Key": 0.364,
@@ -61,13 +61,13 @@
   "Liveness": 0.364,
   "Valence": 0.591,
   "Tempo": 126.026,
-  "Track Reference": "https://api.spotify.com/v1/tracks/6PQ88X9TkUIAUIZJHW2upE"
+  "TrackReference": "https://api.spotify.com/v1/tracks/6PQ88X9TkUIAUIZJHW2upE"
 },{
   "_id": {
     "$oid": "60f79076a24480877399e273"
   },
-  "Artist Name": "Doja Cat",
-  "Track Name": "Kiss Me More (feat. SZA)",
+  "ArtistName": "Doja Cat",
+  "TrackName": "Kiss Me More (feat. SZA)",
   "Danceability": 0.764,
   "Energy": 0.705,
   "Key": 0.12,
@@ -77,13 +77,13 @@
   "Liveness": 0.12,
   "Valence": 0.781,
   "Tempo": 110.97,
-  "Track Reference": "https://api.spotify.com/v1/tracks/3DarAbFujv6eYNliUTyqtz"
+  "TrackReference": "https://api.spotify.com/v1/tracks/3DarAbFujv6eYNliUTyqtz"
 },{
   "_id": {
     "$oid": "60f79076a24480877399e274"
   },
-  "Artist Name": "Lil Nas X",
-  "Track Name": "MONTERO (Call Me By Your Name)",
+  "ArtistName": "Lil Nas X",
+  "TrackName": "MONTERO (Call Me By Your Name)",
   "Danceability": 0.61,
   "Energy": 0.508,
   "Key": 0.384,
@@ -93,13 +93,13 @@
   "Liveness": 0.384,
   "Valence": 0.758,
   "Tempo": 178.818,
-  "Track Reference": "https://api.spotify.com/v1/tracks/67BtfxlNbhBmCDR2L2l8qd"
+  "TrackReference": "https://api.spotify.com/v1/tracks/67BtfxlNbhBmCDR2L2l8qd"
 },{
   "_id": {
     "$oid": "60f79077a24480877399e275"
   },
-  "Artist Name": "Rauw Alejandro",
-  "Track Name": "Todo De Ti",
+  "ArtistName": "Rauw Alejandro",
+  "TrackName": "Todo De Ti",
   "Danceability": 0.78,
   "Energy": 0.719,
   "Key": 0.0931,
@@ -109,13 +109,13 @@
   "Liveness": 0.0931,
   "Valence": 0.336,
   "Tempo": 127.962,
-  "Track Reference": "https://api.spotify.com/v1/tracks/5RwV8BvLfX5injfqYodke9"
+  "TrackReference": "https://api.spotify.com/v1/tracks/5RwV8BvLfX5injfqYodke9"
 },{
   "_id": {
     "$oid": "60f79077a24480877399e276"
   },
-  "Artist Name": "Måneskin",
-  "Track Name": "I WANNA BE YOUR SLAVE",
+  "ArtistName": "Måneskin",
+  "TrackName": "I WANNA BE YOUR SLAVE",
   "Danceability": 0.75,
   "Energy": 0.608,
   "Key": 0.178,
@@ -125,13 +125,13 @@
   "Liveness": 0.178,
   "Valence": 0.958,
   "Tempo": 132.507,
-  "Track Reference": "https://api.spotify.com/v1/tracks/4pt5fDVTg5GhEvEtlz9dKk"
+  "TrackReference": "https://api.spotify.com/v1/tracks/4pt5fDVTg5GhEvEtlz9dKk"
 },{
   "_id": {
     "$oid": "60f79077a24480877399e277"
   },
-  "Artist Name": "BTS",
-  "Track Name": "Permission to Dance",
+  "ArtistName": "BTS",
+  "TrackName": "Permission to Dance",
   "Danceability": 0.702,
   "Energy": 0.741,
   "Key": 0.337,
@@ -141,13 +141,13 @@
   "Liveness": 0.337,
   "Valence": 0.646,
   "Tempo": 124.925,
-  "Track Reference": "https://api.spotify.com/v1/tracks/0LThjFY2iTtNdd4wviwVV2"
+  "TrackReference": "https://api.spotify.com/v1/tracks/0LThjFY2iTtNdd4wviwVV2"
 },{
   "_id": {
     "$oid": "60f79077a24480877399e278"
   },
-  "Artist Name": "Bad Bunny",
-  "Track Name": "Yonaguni",
+  "ArtistName": "Bad Bunny",
+  "TrackName": "Yonaguni",
   "Danceability": 0.644,
   "Energy": 0.648,
   "Key": 0.135,
@@ -157,13 +157,13 @@
   "Liveness": 0.135,
   "Valence": 0.44,
   "Tempo": 179.951,
-  "Track Reference": "https://api.spotify.com/v1/tracks/2JPLbjOn0wPCngEot2STUS"
+  "TrackReference": "https://api.spotify.com/v1/tracks/2JPLbjOn0wPCngEot2STUS"
 },{
   "_id": {
     "$oid": "60f79077a24480877399e279"
   },
-  "Artist Name": "Dua Lipa",
-  "Track Name": "Levitating (feat. DaBaby)",
+  "ArtistName": "Dua Lipa",
+  "TrackName": "Levitating (feat. DaBaby)",
   "Danceability": 0.702,
   "Energy": 0.825,
   "Key": 0.0674,
@@ -173,13 +173,13 @@
   "Liveness": 0.0674,
   "Valence": 0.915,
   "Tempo": 102.977,
-  "Track Reference": "https://api.spotify.com/v1/tracks/5nujrmhLynf4yMoMtj8AQF"
+  "TrackReference": "https://api.spotify.com/v1/tracks/5nujrmhLynf4yMoMtj8AQF"
 },{
   "_id": {
     "$oid": "60f79078a24480877399e27a"
   },
-  "Artist Name": "J Balvin",
-  "Track Name": "Qué Más Pues?",
+  "ArtistName": "J Balvin",
+  "TrackName": "Qué Más Pues?",
   "Danceability": 0.891,
   "Energy": 0.819,
   "Key": 0.173,
@@ -189,13 +189,13 @@
   "Liveness": 0.173,
   "Valence": 0.768,
   "Tempo": 101.968,
-  "Track Reference": "https://api.spotify.com/v1/tracks/6hf0RpxTbOprT5nnwzkk8e"
+  "TrackReference": "https://api.spotify.com/v1/tracks/6hf0RpxTbOprT5nnwzkk8e"
 },{
   "_id": {
     "$oid": "60f79078a24480877399e27b"
   },
-  "Artist Name": "BTS",
-  "Track Name": "Butter",
+  "ArtistName": "BTS",
+  "TrackName": "Butter",
   "Danceability": 0.759,
   "Energy": 0.459,
   "Key": 0.0906,
@@ -205,13 +205,13 @@
   "Liveness": 0.0906,
   "Valence": 0.695,
   "Tempo": 109.997,
-  "Track Reference": "https://api.spotify.com/v1/tracks/2bgTY4UwhfBYhGT4HUYStN"
+  "TrackReference": "https://api.spotify.com/v1/tracks/2bgTY4UwhfBYhGT4HUYStN"
 },{
   "_id": {
     "$oid": "60f79078a24480877399e27c"
   },
-  "Artist Name": "Justin Bieber",
-  "Track Name": "Peaches (feat. Daniel Caesar & Giveon)",
+  "ArtistName": "Justin Bieber",
+  "TrackName": "Peaches (feat. Daniel Caesar & Giveon)",
   "Danceability": 0.677,
   "Energy": 0.696,
   "Key": 0.42,
@@ -221,13 +221,13 @@
   "Liveness": 0.42,
   "Valence": 0.464,
   "Tempo": 90.03,
-  "Track Reference": "https://api.spotify.com/v1/tracks/4iJyoBOLtHqaGxP12qzhQI"
+  "TrackReference": "https://api.spotify.com/v1/tracks/4iJyoBOLtHqaGxP12qzhQI"
 },{
   "_id": {
     "$oid": "60f79078a24480877399e27d"
   },
-  "Artist Name": "Olivia Rodrigo",
-  "Track Name": "traitor",
+  "ArtistName": "Olivia Rodrigo",
+  "TrackName": "traitor",
   "Danceability": 0.38,
   "Energy": 0.339,
   "Key": 0.12,
@@ -237,13 +237,13 @@
   "Liveness": 0.12,
   "Valence": 0.0849,
   "Tempo": 100.607,
-  "Track Reference": "https://api.spotify.com/v1/tracks/5CZ40GBx1sQ9agT82CLQCT"
+  "TrackReference": "https://api.spotify.com/v1/tracks/5CZ40GBx1sQ9agT82CLQCT"
 },{
   "_id": {
     "$oid": "60f79078a24480877399e27e"
   },
-  "Artist Name": "Olivia Rodrigo",
-  "Track Name": "deja vu",
+  "ArtistName": "Olivia Rodrigo",
+  "TrackName": "deja vu",
   "Danceability": 0.442,
   "Energy": 0.612,
   "Key": 0.37,
@@ -253,13 +253,13 @@
   "Liveness": 0.37,
   "Valence": 0.178,
   "Tempo": 180.917,
-  "Track Reference": "https://api.spotify.com/v1/tracks/6HU7h9RYOaPRFeh0R3UeAr"
+  "TrackReference": "https://api.spotify.com/v1/tracks/6HU7h9RYOaPRFeh0R3UeAr"
 },{
   "_id": {
     "$oid": "60f79078a24480877399e27f"
   },
-  "Artist Name": "Nio Garcia",
-  "Track Name": "AM Remix",
+  "ArtistName": "Nio Garcia",
+  "TrackName": "AM Remix",
   "Danceability": 0.743,
   "Energy": 0.655,
   "Key": 0.0764,
@@ -269,13 +269,13 @@
   "Liveness": 0.0764,
   "Valence": 0.785,
   "Tempo": 172.031,
-  "Track Reference": "https://api.spotify.com/v1/tracks/05bfbizlM5AX6Mf1RRyMho"
+  "TrackReference": "https://api.spotify.com/v1/tracks/05bfbizlM5AX6Mf1RRyMho"
 },{
   "_id": {
     "$oid": "60f79079a24480877399e280"
   },
-  "Artist Name": "The Weeknd",
-  "Track Name": "Save Your Tears (with Ariana Grande) (Remix)",
+  "ArtistName": "The Weeknd",
+  "TrackName": "Save Your Tears (with Ariana Grande) (Remix)",
   "Danceability": 0.65,
   "Energy": 0.825,
   "Key": 0.0936,
@@ -285,13 +285,13 @@
   "Liveness": 0.0936,
   "Valence": 0.593,
   "Tempo": 118.091,
-  "Track Reference": "https://api.spotify.com/v1/tracks/37BZB0z9T8Xu7U3e65qxFy"
+  "TrackReference": "https://api.spotify.com/v1/tracks/37BZB0z9T8Xu7U3e65qxFy"
 },{
   "_id": {
     "$oid": "60f79079a24480877399e281"
   },
-  "Artist Name": "Mora",
-  "Track Name": "Volando - Remix",
+  "ArtistName": "Mora",
+  "TrackName": "Volando - Remix",
   "Danceability": 0.659,
   "Energy": 0.688,
   "Key": 0.113,
@@ -301,13 +301,13 @@
   "Liveness": 0.113,
   "Valence": 0.632,
   "Tempo": 153.979,
-  "Track Reference": "https://api.spotify.com/v1/tracks/0G2zPzWqVjR68iNPmx2TBe"
+  "TrackReference": "https://api.spotify.com/v1/tracks/0G2zPzWqVjR68iNPmx2TBe"
 },{
   "_id": {
     "$oid": "60f79079a24480877399e282"
   },
-  "Artist Name": "Post Malone",
-  "Track Name": "Motley Crew",
+  "ArtistName": "Post Malone",
+  "TrackName": "Motley Crew",
   "Danceability": 0.797,
   "Energy": 0.631,
   "Key": 0.0998,
@@ -317,13 +317,13 @@
   "Liveness": 0.0998,
   "Valence": 0.288,
   "Tempo": 129.915,
-  "Track Reference": "https://api.spotify.com/v1/tracks/40uMIn2zJLAQhNXghRjBed"
+  "TrackReference": "https://api.spotify.com/v1/tracks/40uMIn2zJLAQhNXghRjBed"
 },{
   "_id": {
     "$oid": "60f79079a24480877399e283"
   },
-  "Artist Name": "Olivia Rodrigo",
-  "Track Name": "drivers license",
+  "ArtistName": "Olivia Rodrigo",
+  "TrackName": "drivers license",
   "Danceability": 0.561,
   "Energy": 0.431,
   "Key": 0.106,
@@ -333,13 +333,13 @@
   "Liveness": 0.106,
   "Valence": 0.137,
   "Tempo": 143.875,
-  "Track Reference": "https://api.spotify.com/v1/tracks/5wANPM4fQCJwkGd4rN57mH"
+  "TrackReference": "https://api.spotify.com/v1/tracks/5wANPM4fQCJwkGd4rN57mH"
 },{
   "_id": {
     "$oid": "60f79079a24480877399e284"
   },
-  "Artist Name": "Olivia Rodrigo",
-  "Track Name": "happier",
+  "ArtistName": "Olivia Rodrigo",
+  "TrackName": "happier",
   "Danceability": 0.395,
   "Energy": 0.443,
   "Key": 0.0839,
@@ -349,13 +349,13 @@
   "Liveness": 0.0839,
   "Valence": 0.338,
   "Tempo": 168.924,
-  "Track Reference": "https://api.spotify.com/v1/tracks/2tGvwE8GcFKwNdAXMnlbfl"
+  "TrackReference": "https://api.spotify.com/v1/tracks/2tGvwE8GcFKwNdAXMnlbfl"
 },{
   "_id": {
     "$oid": "60f7907aa24480877399e285"
   },
-  "Artist Name": "Doja Cat",
-  "Track Name": "Ain't Shit",
+  "ArtistName": "Doja Cat",
+  "TrackName": "Ain't Shit",
   "Danceability": 0.855,
   "Energy": 0.488,
   "Key": 0.347,
@@ -365,13 +365,13 @@
   "Liveness": 0.347,
   "Valence": 0.619,
   "Tempo": 124.097,
-  "Track Reference": "https://api.spotify.com/v1/tracks/5lAnYvAIkSDNXqfo7DyFUm"
+  "TrackReference": "https://api.spotify.com/v1/tracks/5lAnYvAIkSDNXqfo7DyFUm"
 },{
   "_id": {
     "$oid": "60f7907aa24480877399e286"
   },
-  "Artist Name": "The Weeknd",
-  "Track Name": "Blinding Lights",
+  "ArtistName": "The Weeknd",
+  "TrackName": "Blinding Lights",
   "Danceability": 0.514,
   "Energy": 0.73,
   "Key": 0.0897,
@@ -381,13 +381,13 @@
   "Liveness": 0.0897,
   "Valence": 0.334,
   "Tempo": 171.005,
-  "Track Reference": "https://api.spotify.com/v1/tracks/0VjIjW4GlUZAMYd2vXMi3b"
+  "TrackReference": "https://api.spotify.com/v1/tracks/0VjIjW4GlUZAMYd2vXMi3b"
 },{
   "_id": {
     "$oid": "60f7907aa24480877399e287"
   },
-  "Artist Name": "Masked Wolf",
-  "Track Name": "Astronaut In The Ocean",
+  "ArtistName": "Masked Wolf",
+  "TrackName": "Astronaut In The Ocean",
   "Danceability": 0.778,
   "Energy": 0.695,
   "Key": 0.15,
@@ -397,13 +397,13 @@
   "Liveness": 0.15,
   "Valence": 0.472,
   "Tempo": 149.996,
-  "Track Reference": "https://api.spotify.com/v1/tracks/0BGwAKW4u8kWOhWFflZxfl"
+  "TrackReference": "https://api.spotify.com/v1/tracks/0BGwAKW4u8kWOhWFflZxfl"
 },{
   "_id": {
     "$oid": "60f7907aa24480877399e288"
   },
-  "Artist Name": "Olivia Rodrigo",
-  "Track Name": "favorite crime",
+  "ArtistName": "Olivia Rodrigo",
+  "TrackName": "favorite crime",
   "Danceability": 0.369,
   "Energy": 0.272,
   "Key": 0.147,
@@ -413,13 +413,13 @@
   "Liveness": 0.147,
   "Valence": 0.218,
   "Tempo": 172.929,
-  "Track Reference": "https://api.spotify.com/v1/tracks/5JCoSi02qi3jJeHdZXMmR8"
+  "TrackReference": "https://api.spotify.com/v1/tracks/5JCoSi02qi3jJeHdZXMmR8"
 },{
   "_id": {
     "$oid": "60f7907aa24480877399e289"
   },
-  "Artist Name": "Bruno Mars",
-  "Track Name": "Leave The Door Open",
+  "ArtistName": "Bruno Mars",
+  "TrackName": "Leave The Door Open",
   "Danceability": 0.586,
   "Energy": 0.616,
   "Key": 0.0927,
@@ -429,13 +429,13 @@
   "Liveness": 0.0927,
   "Valence": 0.719,
   "Tempo": 148.088,
-  "Track Reference": "https://api.spotify.com/v1/tracks/7MAibcTli4IisCtbHKrGMh"
+  "TrackReference": "https://api.spotify.com/v1/tracks/7MAibcTli4IisCtbHKrGMh"
 },{
   "_id": {
     "$oid": "60f7907ba24480877399e28a"
   },
-  "Artist Name": "Riton",
-  "Track Name": "Friday (feat. Mufasa & Hypeman) - Dopamine Re-Edit",
+  "ArtistName": "Riton",
+  "TrackName": "Friday (feat. Mufasa & Hypeman) - Dopamine Re-Edit",
   "Danceability": 0.824,
   "Energy": 0.862,
   "Key": 0.303,
@@ -445,13 +445,13 @@
   "Liveness": 0.303,
   "Valence": 0.801,
   "Tempo": 122.98,
-  "Track Reference": "https://api.spotify.com/v1/tracks/4cG7HUWYHBV6R6tHn1gxrl"
+  "TrackReference": "https://api.spotify.com/v1/tracks/4cG7HUWYHBV6R6tHn1gxrl"
 },{
   "_id": {
     "$oid": "60f7907ba24480877399e28b"
   },
-  "Artist Name": "Glass Animals",
-  "Track Name": "Heat Waves",
+  "ArtistName": "Glass Animals",
+  "TrackName": "Heat Waves",
   "Danceability": 0.761,
   "Energy": 0.525,
   "Key": 0.0921,
@@ -461,13 +461,13 @@
   "Liveness": 0.0921,
   "Valence": 0.531,
   "Tempo": 80.87,
-  "Track Reference": "https://api.spotify.com/v1/tracks/02MWAaffLxlfxAUY7c5dvx"
+  "TrackReference": "https://api.spotify.com/v1/tracks/02MWAaffLxlfxAUY7c5dvx"
 },{
   "_id": {
     "$oid": "60f7907ba24480877399e28c"
   },
-  "Artist Name": "Doja Cat",
-  "Track Name": "Need To Know",
+  "ArtistName": "Doja Cat",
+  "TrackName": "Need To Know",
   "Danceability": 0.664,
   "Energy": 0.609,
   "Key": 0.0926,
@@ -477,13 +477,13 @@
   "Liveness": 0.0926,
   "Valence": 0.194,
   "Tempo": 130.041,
-  "Track Reference": "https://api.spotify.com/v1/tracks/3Vi5XqYrmQgOYBajMWSvCi"
+  "TrackReference": "https://api.spotify.com/v1/tracks/3Vi5XqYrmQgOYBajMWSvCi"
 },{
   "_id": {
     "$oid": "60f7907ba24480877399e28d"
   },
-  "Artist Name": "Doja Cat",
-  "Track Name": "You Right",
+  "ArtistName": "Doja Cat",
+  "TrackName": "You Right",
   "Danceability": 0.828,
   "Energy": 0.621,
   "Key": 0.0845,
@@ -493,13 +493,13 @@
   "Liveness": 0.0845,
   "Valence": 0.436,
   "Tempo": 128.986,
-  "Track Reference": "https://api.spotify.com/v1/tracks/0k4d5YPDr1r7FX77VdqWez"
+  "TrackReference": "https://api.spotify.com/v1/tracks/0k4d5YPDr1r7FX77VdqWez"
 },{
   "_id": {
     "$oid": "60f7907ba24480877399e28e"
   },
-  "Artist Name": "BTS",
-  "Track Name": "Dynamite",
+  "ArtistName": "BTS",
+  "TrackName": "Dynamite",
   "Danceability": 0.746,
   "Energy": 0.765,
   "Key": 0.0936,
@@ -509,13 +509,13 @@
   "Liveness": 0.0936,
   "Valence": 0.737,
   "Tempo": 114.044,
-  "Track Reference": "https://api.spotify.com/v1/tracks/4saklk6nie3yiGePpBwUoc"
+  "TrackReference": "https://api.spotify.com/v1/tracks/4saklk6nie3yiGePpBwUoc"
 },{
   "_id": {
     "$oid": "60f7907ca24480877399e28f"
   },
-  "Artist Name": "Sebastian Yatra",
-  "Track Name": "Pareja Del Año",
+  "ArtistName": "Sebastian Yatra",
+  "TrackName": "Pareja Del Año",
   "Danceability": 0.715,
   "Energy": 0.622,
   "Key": 0.0948,
@@ -525,13 +525,13 @@
   "Liveness": 0.0948,
   "Valence": 0.808,
   "Tempo": 80.015,
-  "Track Reference": "https://api.spotify.com/v1/tracks/2rCbl9naJYhaxjLsfx88uM"
+  "TrackReference": "https://api.spotify.com/v1/tracks/2rCbl9naJYhaxjLsfx88uM"
 },{
   "_id": {
     "$oid": "60f7907ca24480877399e290"
   },
-  "Artist Name": "Olivia Rodrigo",
-  "Track Name": "jealousy, jealousy",
+  "ArtistName": "Olivia Rodrigo",
+  "TrackName": "jealousy, jealousy",
   "Danceability": 0.695,
   "Energy": 0.575,
   "Key": 0.0614,
@@ -541,13 +541,13 @@
   "Liveness": 0.0614,
   "Valence": 0.699,
   "Tempo": 163.929,
-  "Track Reference": "https://api.spotify.com/v1/tracks/0MMyJUC3WNnFS1lit5pTjk"
+  "TrackReference": "https://api.spotify.com/v1/tracks/0MMyJUC3WNnFS1lit5pTjk"
 },{
   "_id": {
     "$oid": "60f7907ca24480877399e291"
   },
-  "Artist Name": "Harry Styles",
-  "Track Name": "Watermelon Sugar",
+  "ArtistName": "Harry Styles",
+  "TrackName": "Watermelon Sugar",
   "Danceability": 0.548,
   "Energy": 0.816,
   "Key": 0.335,
@@ -557,13 +557,13 @@
   "Liveness": 0.335,
   "Valence": 0.557,
   "Tempo": 95.39,
-  "Track Reference": "https://api.spotify.com/v1/tracks/6UelLqGlWMcVH1E5c4H7lY"
+  "TrackReference": "https://api.spotify.com/v1/tracks/6UelLqGlWMcVH1E5c4H7lY"
 },{
   "_id": {
     "$oid": "60f7907ca24480877399e292"
   },
-  "Artist Name": "Polo G",
-  "Track Name": "RAPSTAR",
+  "ArtistName": "Polo G",
+  "TrackName": "RAPSTAR",
   "Danceability": 0.789,
   "Energy": 0.536,
   "Key": 0.129,
@@ -573,13 +573,13 @@
   "Liveness": 0.129,
   "Valence": 0.437,
   "Tempo": 81.039,
-  "Track Reference": "https://api.spotify.com/v1/tracks/18vXApRmJSgQ6wG2ll9AOg"
+  "TrackReference": "https://api.spotify.com/v1/tracks/18vXApRmJSgQ6wG2ll9AOg"
 },{
   "_id": {
     "$oid": "60f7907ca24480877399e293"
   },
-  "Artist Name": "Billie Eilish",
-  "Track Name": "NDA",
+  "ArtistName": "Billie Eilish",
+  "TrackName": "NDA",
   "Danceability": 0.765,
   "Energy": 0.373,
   "Key": 0.112,
@@ -589,13 +589,13 @@
   "Liveness": 0.112,
   "Valence": 0.59,
   "Tempo": 85.015,
-  "Track Reference": "https://api.spotify.com/v1/tracks/6uqyE384HDSsuwpoF4mjrL"
+  "TrackReference": "https://api.spotify.com/v1/tracks/6uqyE384HDSsuwpoF4mjrL"
 },{
   "_id": {
     "$oid": "60f7907da24480877399e294"
   },
-  "Artist Name": "Bad Bunny",
-  "Track Name": "DÁKITI",
+  "ArtistName": "Bad Bunny",
+  "TrackName": "DÁKITI",
   "Danceability": 0.731,
   "Energy": 0.573,
   "Key": 0.113,
@@ -605,13 +605,13 @@
   "Liveness": 0.113,
   "Valence": 0.145,
   "Tempo": 109.928,
-  "Track Reference": "https://api.spotify.com/v1/tracks/4MzXwWMhyBbmu6hOcLVD49"
+  "TrackReference": "https://api.spotify.com/v1/tracks/4MzXwWMhyBbmu6hOcLVD49"
 },{
   "_id": {
     "$oid": "60f7907da24480877399e295"
   },
-  "Artist Name": "Bizarrap",
-  "Track Name": "Nicky Jam: Bzrp Music Sessions, Vol. 41",
+  "ArtistName": "Bizarrap",
+  "TrackName": "Nicky Jam: Bzrp Music Sessions, Vol. 41",
   "Danceability": 0.627,
   "Energy": 0.849,
   "Key": 0.145,
@@ -621,13 +621,13 @@
   "Liveness": 0.145,
   "Valence": 0.818,
   "Tempo": 89.907,
-  "Track Reference": "https://api.spotify.com/v1/tracks/03LfOYi0icz4souspZVVhq"
+  "TrackReference": "https://api.spotify.com/v1/tracks/03LfOYi0icz4souspZVVhq"
 },{
   "_id": {
     "$oid": "60f7907da24480877399e296"
   },
-  "Artist Name": "J Balvin",
-  "Track Name": "Poblado - Remix",
+  "ArtistName": "J Balvin",
+  "TrackName": "Poblado - Remix",
   "Danceability": 0.813,
   "Energy": 0.809,
   "Key": 0.377,
@@ -637,13 +637,13 @@
   "Liveness": 0.377,
   "Valence": 0.646,
   "Tempo": 93.005,
-  "Track Reference": "https://api.spotify.com/v1/tracks/1WedZeiezCmCEOzLwhx0hV"
+  "TrackReference": "https://api.spotify.com/v1/tracks/1WedZeiezCmCEOzLwhx0hV"
 },{
   "_id": {
     "$oid": "60f7907da24480877399e297"
   },
-  "Artist Name": "Tiësto",
-  "Track Name": "The Business",
+  "ArtistName": "Tiësto",
+  "TrackName": "The Business",
   "Danceability": 0.798,
   "Energy": 0.62,
   "Key": 0.112,
@@ -653,13 +653,13 @@
   "Liveness": 0.112,
   "Valence": 0.235,
   "Tempo": 120.031,
-  "Track Reference": "https://api.spotify.com/v1/tracks/6f3Slt0GbA2bPZlz0aIFXN"
+  "TrackReference": "https://api.spotify.com/v1/tracks/6f3Slt0GbA2bPZlz0aIFXN"
 },{
   "_id": {
     "$oid": "60f7907da24480877399e298"
   },
-  "Artist Name": "Bella Poarch",
-  "Track Name": "Build a Bitch",
+  "ArtistName": "Bella Poarch",
+  "TrackName": "Build a Bitch",
   "Danceability": 0.855,
   "Energy": 0.463,
   "Key": 0.347,
@@ -669,13 +669,13 @@
   "Liveness": 0.347,
   "Valence": 0.866,
   "Tempo": 102.931,
-  "Track Reference": "https://api.spotify.com/v1/tracks/7BoobGhD4x5K96Me0hqC8Q"
+  "TrackReference": "https://api.spotify.com/v1/tracks/7BoobGhD4x5K96Me0hqC8Q"
 },{
   "_id": {
     "$oid": "60f7907da24480877399e299"
   },
-  "Artist Name": "TINI",
-  "Track Name": "Miénteme",
+  "ArtistName": "TINI",
+  "TrackName": "Miénteme",
   "Danceability": 0.85,
   "Energy": 0.541,
   "Key": 0.286,
@@ -685,13 +685,13 @@
   "Liveness": 0.286,
   "Valence": 0.916,
   "Tempo": 92.003,
-  "Track Reference": "https://api.spotify.com/v1/tracks/0cOa970mzTWAxKtltpkpLc"
+  "TrackReference": "https://api.spotify.com/v1/tracks/0cOa970mzTWAxKtltpkpLc"
 },{
   "_id": {
     "$oid": "60f7907ea24480877399e29a"
   },
-  "Artist Name": "24kGoldn",
-  "Track Name": "Mood (feat. iann dior)",
+  "ArtistName": "24kGoldn",
+  "TrackName": "Mood (feat. iann dior)",
   "Danceability": 0.701,
   "Energy": 0.716,
   "Key": 0.324,
@@ -701,13 +701,13 @@
   "Liveness": 0.324,
   "Valence": 0.732,
   "Tempo": 91.007,
-  "Track Reference": "https://api.spotify.com/v1/tracks/4jPy3l0RUwlUI9T5XHBW2m"
+  "TrackReference": "https://api.spotify.com/v1/tracks/4jPy3l0RUwlUI9T5XHBW2m"
 },{
   "_id": {
     "$oid": "60f7907ea24480877399e29b"
   },
-  "Artist Name": "Wisin",
-  "Track Name": "Fiel - Remix",
+  "ArtistName": "Wisin",
+  "TrackName": "Fiel - Remix",
   "Danceability": 0.839,
   "Energy": 0.711,
   "Key": 0.118,
@@ -717,13 +717,13 @@
   "Liveness": 0.118,
   "Valence": 0.573,
   "Tempo": 97.99,
-  "Track Reference": "https://api.spotify.com/v1/tracks/43qcs9NpJhDxtG91zxFkj7"
+  "TrackReference": "https://api.spotify.com/v1/tracks/43qcs9NpJhDxtG91zxFkj7"
 },{
   "_id": {
     "$oid": "60f7907ea24480877399e29c"
   },
-  "Artist Name": "Galantis",
-  "Track Name": "Heartbreak Anthem (with David Guetta & Little Mix)",
+  "ArtistName": "Galantis",
+  "TrackName": "Heartbreak Anthem (with David Guetta & Little Mix)",
   "Danceability": 0.595,
   "Energy": 0.784,
   "Key": 0.0608,
@@ -733,13 +733,13 @@
   "Liveness": 0.0608,
   "Valence": 0.479,
   "Tempo": 124.111,
-  "Track Reference": "https://api.spotify.com/v1/tracks/5K6Ssv4Z3zRvxt0P6EKUAP"
+  "TrackReference": "https://api.spotify.com/v1/tracks/5K6Ssv4Z3zRvxt0P6EKUAP"
 },{
   "_id": {
     "$oid": "60f7907ea24480877399e29d"
   },
-  "Artist Name": "Olivia Rodrigo",
-  "Track Name": "brutal",
+  "ArtistName": "Olivia Rodrigo",
+  "TrackName": "brutal",
   "Danceability": 0.672,
   "Energy": 0.526,
   "Key": 0.28,
@@ -749,13 +749,13 @@
   "Liveness": 0.28,
   "Valence": 0.28,
   "Tempo": 123.999,
-  "Track Reference": "https://api.spotify.com/v1/tracks/6SRsiMl7w1USE4mFqrOhHC"
+  "TrackReference": "https://api.spotify.com/v1/tracks/6SRsiMl7w1USE4mFqrOhHC"
 },{
   "_id": {
     "$oid": "60f7907ea24480877399e29e"
   },
-  "Artist Name": "Farruko",
-  "Track Name": "Pepas",
+  "ArtistName": "Farruko",
+  "TrackName": "Pepas",
   "Danceability": 0.762,
   "Energy": 0.766,
   "Key": 0.128,
@@ -765,13 +765,13 @@
   "Liveness": 0.128,
   "Valence": 0.442,
   "Tempo": 130.001,
-  "Track Reference": "https://api.spotify.com/v1/tracks/5fwSHlTEWpluwOM0Sxnh5k"
+  "TrackReference": "https://api.spotify.com/v1/tracks/5fwSHlTEWpluwOM0Sxnh5k"
 },{
   "_id": {
     "$oid": "60f7907fa24480877399e29f"
   },
-  "Artist Name": "Majestic",
-  "Track Name": "Rasputin",
+  "ArtistName": "Majestic",
+  "TrackName": "Rasputin",
   "Danceability": 0.758,
   "Energy": 0.913,
   "Key": 0.193,
@@ -781,13 +781,13 @@
   "Liveness": 0.193,
   "Valence": 0.658,
   "Tempo": 128.04,
-  "Track Reference": "https://api.spotify.com/v1/tracks/0b18g3G5spr4ZCkz7Y6Q0Q"
+  "TrackReference": "https://api.spotify.com/v1/tracks/0b18g3G5spr4ZCkz7Y6Q0Q"
 },{
   "_id": {
     "$oid": "60f7907fa24480877399e2a0"
   },
-  "Artist Name": "Surf Curse",
-  "Track Name": "Freaks",
+  "ArtistName": "Surf Curse",
+  "TrackName": "Freaks",
   "Danceability": 0.345,
   "Energy": 0.941,
   "Key": 0.0511,
@@ -797,13 +797,13 @@
   "Liveness": 0.0511,
   "Valence": 0.407,
   "Tempo": 179.626,
-  "Track Reference": "https://api.spotify.com/v1/tracks/7EkWXAI1wn8Ii883ecd9xr"
+  "TrackReference": "https://api.spotify.com/v1/tracks/7EkWXAI1wn8Ii883ecd9xr"
 },{
   "_id": {
     "$oid": "60f7907fa24480877399e2a1"
   },
-  "Artist Name": "Rauw Alejandro",
-  "Track Name": "2/Catorce",
+  "ArtistName": "Rauw Alejandro",
+  "TrackName": "2/Catorce",
   "Danceability": 0.768,
   "Energy": 0.56,
   "Key": 0.115,
@@ -813,13 +813,13 @@
   "Liveness": 0.115,
   "Valence": 0.372,
   "Tempo": 112.084,
-  "Track Reference": "https://api.spotify.com/v1/tracks/0PwFN7vRvY80Hnkoew2x3f"
+  "TrackReference": "https://api.spotify.com/v1/tracks/0PwFN7vRvY80Hnkoew2x3f"
 },{
   "_id": {
     "$oid": "60f7907fa24480877399e2a2"
   },
-  "Artist Name": "Trinidad Cardona",
-  "Track Name": "Dinero",
+  "ArtistName": "Trinidad Cardona",
+  "TrackName": "Dinero",
   "Danceability": 0.708,
   "Energy": 0.782,
   "Key": 0.107,
@@ -829,13 +829,13 @@
   "Liveness": 0.107,
   "Valence": 0.484,
   "Tempo": 119.997,
-  "Track Reference": "https://api.spotify.com/v1/tracks/3ggtU1ZOKO8ZNiqPNyXGcm"
+  "TrackReference": "https://api.spotify.com/v1/tracks/3ggtU1ZOKO8ZNiqPNyXGcm"
 },{
   "_id": {
     "$oid": "60f7907fa24480877399e2a3"
   },
-  "Artist Name": "Sech",
-  "Track Name": "911 - Remix",
+  "ArtistName": "Sech",
+  "TrackName": "911 - Remix",
   "Danceability": 0.816,
   "Energy": 0.71,
   "Key": 0.292,
@@ -845,13 +845,13 @@
   "Liveness": 0.292,
   "Valence": 0.784,
   "Tempo": 93.02,
-  "Track Reference": "https://api.spotify.com/v1/tracks/27RSJHEA99Y0Vsow7nA37A"
+  "TrackReference": "https://api.spotify.com/v1/tracks/27RSJHEA99Y0Vsow7nA37A"
 },{
   "_id": {
     "$oid": "60f79080a24480877399e2a4"
   },
-  "Artist Name": "Giveon",
-  "Track Name": "Heartbreak Anniversary",
+  "ArtistName": "Giveon",
+  "TrackName": "Heartbreak Anniversary",
   "Danceability": 0.449,
   "Energy": 0.465,
   "Key": 0.303,
@@ -861,13 +861,13 @@
   "Liveness": 0.303,
   "Valence": 0.543,
   "Tempo": 89.087,
-  "Track Reference": "https://api.spotify.com/v1/tracks/3FAJ6O0NOHQV8Mc5Ri6ENp"
+  "TrackReference": "https://api.spotify.com/v1/tracks/3FAJ6O0NOHQV8Mc5Ri6ENp"
 },{
   "_id": {
     "$oid": "60f79080a24480877399e2a5"
   },
-  "Artist Name": "ATB",
-  "Track Name": "Your Love (9PM)",
+  "ArtistName": "ATB",
+  "TrackName": "Your Love (9PM)",
   "Danceability": 0.669,
   "Energy": 0.784,
   "Key": 0.115,
@@ -877,13 +877,13 @@
   "Liveness": 0.115,
   "Valence": 0.517,
   "Tempo": 125.993,
-  "Track Reference": "https://api.spotify.com/v1/tracks/5YaskwnGDZFDRipaqzbwQx"
+  "TrackReference": "https://api.spotify.com/v1/tracks/5YaskwnGDZFDRipaqzbwQx"
 },{
   "_id": {
     "$oid": "60f79080a24480877399e2a6"
   },
-  "Artist Name": "Marshmello",
-  "Track Name": "Leave Before You Love Me (with Jonas Brothers)",
+  "ArtistName": "Marshmello",
+  "TrackName": "Leave Before You Love Me (with Jonas Brothers)",
   "Danceability": 0.721,
   "Energy": 0.738,
   "Key": 0.118,
@@ -893,13 +893,13 @@
   "Liveness": 0.118,
   "Valence": 0.637,
   "Tempo": 119.976,
-  "Track Reference": "https://api.spotify.com/v1/tracks/4qu63nuBpdn0qHUHuObEj1"
+  "TrackReference": "https://api.spotify.com/v1/tracks/4qu63nuBpdn0qHUHuObEj1"
 },{
   "_id": {
     "$oid": "60f79080a24480877399e2a7"
   },
-  "Artist Name": "Megan Thee Stallion",
-  "Track Name": "Thot Shit",
+  "ArtistName": "Megan Thee Stallion",
+  "TrackName": "Thot Shit",
   "Danceability": 0.95,
   "Energy": 0.693,
   "Key": 0.173,
@@ -909,13 +909,13 @@
   "Liveness": 0.173,
   "Valence": 0.891,
   "Tempo": 130.02,
-  "Track Reference": "https://api.spotify.com/v1/tracks/5zNW5ARjYhJQJz1AChP33n"
+  "TrackReference": "https://api.spotify.com/v1/tracks/5zNW5ARjYhJQJz1AChP33n"
 },{
   "_id": {
     "$oid": "60f79080a24480877399e2a8"
   },
-  "Artist Name": "Maroon 5",
-  "Track Name": "Beautiful Mistakes (feat. Megan Thee Stallion)",
+  "ArtistName": "Maroon 5",
+  "TrackName": "Beautiful Mistakes (feat. Megan Thee Stallion)",
   "Danceability": 0.713,
   "Energy": 0.676,
   "Key": 0.154,
@@ -925,13 +925,13 @@
   "Liveness": 0.154,
   "Valence": 0.721,
   "Tempo": 99.048,
-  "Track Reference": "https://api.spotify.com/v1/tracks/5zFglKYiknIxks8geR8rcL"
+  "TrackReference": "https://api.spotify.com/v1/tracks/5zFglKYiknIxks8geR8rcL"
 },{
   "_id": {
     "$oid": "60f79081a24480877399e2a9"
   },
-  "Artist Name": "Måneskin",
-  "Track Name": "ZITTI E BUONI",
+  "ArtistName": "Måneskin",
+  "TrackName": "ZITTI E BUONI",
   "Danceability": 0.625,
   "Energy": 0.939,
   "Key": 0.424,
@@ -941,13 +941,13 @@
   "Liveness": 0.424,
   "Valence": 0.644,
   "Tempo": 102.999,
-  "Track Reference": "https://api.spotify.com/v1/tracks/776AftMmFFAWUIEAb3lHhw"
+  "TrackReference": "https://api.spotify.com/v1/tracks/776AftMmFFAWUIEAb3lHhw"
 },{
   "_id": {
     "$oid": "60f79081a24480877399e2aa"
   },
-  "Artist Name": "Marc Seguí",
-  "Track Name": "Tiroteo - Remix",
+  "ArtistName": "Marc Seguí",
+  "TrackName": "Tiroteo - Remix",
   "Danceability": 0.75,
   "Energy": 0.522,
   "Key": 0.0743,
@@ -957,13 +957,13 @@
   "Liveness": 0.0743,
   "Valence": 0.601,
   "Tempo": 110.427,
-  "Track Reference": "https://api.spotify.com/v1/tracks/4OwhwvKESFtuu06dTgct7i"
+  "TrackReference": "https://api.spotify.com/v1/tracks/4OwhwvKESFtuu06dTgct7i"
 },{
   "_id": {
     "$oid": "60f79081a24480877399e2ab"
   },
-  "Artist Name": "OneRepublic",
-  "Track Name": "Run",
+  "ArtistName": "OneRepublic",
+  "TrackName": "Run",
   "Danceability": 0.682,
   "Energy": 0.72,
   "Key": 0.148,
@@ -973,13 +973,13 @@
   "Liveness": 0.148,
   "Valence": 0.673,
   "Tempo": 117.003,
-  "Track Reference": "https://api.spotify.com/v1/tracks/2UbVnbE5FH6008mAm6Mmgw"
+  "TrackReference": "https://api.spotify.com/v1/tracks/2UbVnbE5FH6008mAm6Mmgw"
 },{
   "_id": {
     "$oid": "60f79081a24480877399e2ac"
   },
-  "Artist Name": "The Weeknd",
-  "Track Name": "Save Your Tears",
+  "ArtistName": "The Weeknd",
+  "TrackName": "Save Your Tears",
   "Danceability": 0.68,
   "Energy": 0.826,
   "Key": 0.543,
@@ -989,13 +989,13 @@
   "Liveness": 0.543,
   "Valence": 0.644,
   "Tempo": 118.051,
-  "Track Reference": "https://api.spotify.com/v1/tracks/5QO79kh1waicV47BqGRL3g"
+  "TrackReference": "https://api.spotify.com/v1/tracks/5QO79kh1waicV47BqGRL3g"
 },{
   "_id": {
     "$oid": "60f79081a24480877399e2ad"
   },
-  "Artist Name": "Dua Lipa",
-  "Track Name": "Don't Start Now",
+  "ArtistName": "Dua Lipa",
+  "TrackName": "Don't Start Now",
   "Danceability": 0.793,
   "Energy": 0.793,
   "Key": 0.0951,
@@ -1005,13 +1005,13 @@
   "Liveness": 0.0951,
   "Valence": 0.679,
   "Tempo": 123.95,
-  "Track Reference": "https://api.spotify.com/v1/tracks/3PfIrDoz19wz7qK7tYeu62"
+  "TrackReference": "https://api.spotify.com/v1/tracks/3PfIrDoz19wz7qK7tYeu62"
 },{
   "_id": {
     "$oid": "60f79081a24480877399e2ae"
   },
-  "Artist Name": "Lewis Capaldi",
-  "Track Name": "Someone You Loved",
+  "ArtistName": "Lewis Capaldi",
+  "TrackName": "Someone You Loved",
   "Danceability": 0.501,
   "Energy": 0.405,
   "Key": 0.105,
@@ -1021,13 +1021,13 @@
   "Liveness": 0.105,
   "Valence": 0.446,
   "Tempo": 109.891,
-  "Track Reference": "https://api.spotify.com/v1/tracks/7qEHsqek33rTcFNT9PFqLf"
+  "TrackReference": "https://api.spotify.com/v1/tracks/7qEHsqek33rTcFNT9PFqLf"
 },{
   "_id": {
     "$oid": "60f79082a24480877399e2af"
   },
-  "Artist Name": "The Neighbourhood",
-  "Track Name": "Sweater Weather",
+  "ArtistName": "The Neighbourhood",
+  "TrackName": "Sweater Weather",
   "Danceability": 0.612,
   "Energy": 0.807,
   "Key": 0.101,
@@ -1037,13 +1037,13 @@
   "Liveness": 0.101,
   "Valence": 0.398,
   "Tempo": 124.053,
-  "Track Reference": "https://api.spotify.com/v1/tracks/2QjOHCTQ1Jl3zawyYOpxh6"
+  "TrackReference": "https://api.spotify.com/v1/tracks/2QjOHCTQ1Jl3zawyYOpxh6"
 },{
   "_id": {
     "$oid": "60f79082a24480877399e2b0"
   },
-  "Artist Name": "Kali Uchis",
-  "Track Name": "telepatía",
+  "ArtistName": "Kali Uchis",
+  "TrackName": "telepatía",
   "Danceability": 0.653,
   "Energy": 0.524,
   "Key": 0.203,
@@ -1053,13 +1053,13 @@
   "Liveness": 0.203,
   "Valence": 0.553,
   "Tempo": 83.97,
-  "Track Reference": "https://api.spotify.com/v1/tracks/6tDDoYIxWvMLTdKpjFkc1B"
+  "TrackReference": "https://api.spotify.com/v1/tracks/6tDDoYIxWvMLTdKpjFkc1B"
 },{
   "_id": {
     "$oid": "60f79082a24480877399e2b1"
   },
-  "Artist Name": "WILLOW",
-  "Track Name": "t r a n s p a r e n t s o u l feat. Travis Barker",
+  "ArtistName": "WILLOW",
+  "TrackName": "t r a n s p a r e n t s o u l feat. Travis Barker",
   "Danceability": 0.374,
   "Energy": 0.83,
   "Key": 0.15,
@@ -1069,13 +1069,13 @@
   "Liveness": 0.15,
   "Valence": 0.204,
   "Tempo": 90.19,
-  "Track Reference": "https://api.spotify.com/v1/tracks/5JKnYZOhSP7rOK0jPYcCjV"
+  "TrackReference": "https://api.spotify.com/v1/tracks/5JKnYZOhSP7rOK0jPYcCjV"
 },{
   "_id": {
     "$oid": "60f79082a24480877399e2b2"
   },
-  "Artist Name": "Los Legendarios",
-  "Track Name": "Fiel",
+  "ArtistName": "Los Legendarios",
+  "TrackName": "Fiel",
   "Danceability": 0.849,
   "Energy": 0.701,
   "Key": 0.112,
@@ -1085,13 +1085,13 @@
   "Liveness": 0.112,
   "Valence": 0.505,
   "Tempo": 98.005,
-  "Track Reference": "https://api.spotify.com/v1/tracks/7Bk0uXKk1uPT0XuQbpFzvs"
+  "TrackReference": "https://api.spotify.com/v1/tracks/7Bk0uXKk1uPT0XuQbpFzvs"
 },{
   "_id": {
     "$oid": "60f79082a24480877399e2b3"
   },
-  "Artist Name": "KAROL G",
-  "Track Name": "EL MAKINON",
+  "ArtistName": "KAROL G",
+  "TrackName": "EL MAKINON",
   "Danceability": 0.635,
   "Energy": 0.706,
   "Key": 0.108,
@@ -1101,13 +1101,13 @@
   "Liveness": 0.108,
   "Valence": 0.443,
   "Tempo": 88.863,
-  "Track Reference": "https://api.spotify.com/v1/tracks/2FSGUA0gFgGeQdprjtGM2M"
+  "TrackReference": "https://api.spotify.com/v1/tracks/2FSGUA0gFgGeQdprjtGM2M"
 },{
   "_id": {
     "$oid": "60f79083a24480877399e2b4"
   },
-  "Artist Name": "Tiago PZK",
-  "Track Name": "Entre Nosotros",
+  "ArtistName": "Tiago PZK",
+  "TrackName": "Entre Nosotros",
   "Danceability": 0.729,
   "Energy": 0.513,
   "Key": 0.137,
@@ -1117,13 +1117,13 @@
   "Liveness": 0.137,
   "Valence": 0.789,
   "Tempo": 170.064,
-  "Track Reference": "https://api.spotify.com/v1/tracks/6w8yBI2vthyN9UnwO4UBWb"
+  "TrackReference": "https://api.spotify.com/v1/tracks/6w8yBI2vthyN9UnwO4UBWb"
 },{
   "_id": {
     "$oid": "60f79083a24480877399e2b5"
   },
-  "Artist Name": "Gera MX",
-  "Track Name": "Botella Tras Botella",
+  "ArtistName": "Gera MX",
+  "TrackName": "Botella Tras Botella",
   "Danceability": 0.727,
   "Energy": 0.546,
   "Key": 0.122,
@@ -1133,13 +1133,13 @@
   "Liveness": 0.122,
   "Valence": 0.69,
   "Tempo": 106.891,
-  "Track Reference": "https://api.spotify.com/v1/tracks/2MnLkFqY9Rpg9s3Zv6ZJdK"
+  "TrackReference": "https://api.spotify.com/v1/tracks/2MnLkFqY9Rpg9s3Zv6ZJdK"
 },{
   "_id": {
     "$oid": "60f79083a24480877399e2b6"
   },
-  "Artist Name": "Pop Smoke",
-  "Track Name": "Bout A Million (feat. 42 Dugg & 21 Savage)",
+  "ArtistName": "Pop Smoke",
+  "TrackName": "Bout A Million (feat. 42 Dugg & 21 Savage)",
   "Danceability": 0.716,
   "Energy": 0.67,
   "Key": 0.13,
@@ -1149,13 +1149,13 @@
   "Liveness": 0.13,
   "Valence": 0.411,
   "Tempo": 145.043,
-  "Track Reference": "https://api.spotify.com/v1/tracks/4LaGu95Ui2s4vprSQYWUAZ"
+  "TrackReference": "https://api.spotify.com/v1/tracks/4LaGu95Ui2s4vprSQYWUAZ"
 },{
   "_id": {
     "$oid": "60f79083a24480877399e2b7"
   },
-  "Artist Name": "The Kid LAROI",
-  "Track Name": "WITHOUT YOU",
+  "ArtistName": "The Kid LAROI",
+  "TrackName": "WITHOUT YOU",
   "Danceability": 0.662,
   "Energy": 0.413,
   "Key": 0.134,
@@ -1165,13 +1165,13 @@
   "Liveness": 0.134,
   "Valence": 0.467,
   "Tempo": 93.005,
-  "Track Reference": "https://api.spotify.com/v1/tracks/27OeeYzk6klgBh83TSvGMA"
+  "TrackReference": "https://api.spotify.com/v1/tracks/27OeeYzk6klgBh83TSvGMA"
 },{
   "_id": {
     "$oid": "60f79083a24480877399e2b8"
   },
-  "Artist Name": "Drake",
-  "Track Name": "Wants and Needs (feat. Lil Baby)",
+  "ArtistName": "Drake",
+  "TrackName": "Wants and Needs (feat. Lil Baby)",
   "Danceability": 0.578,
   "Energy": 0.449,
   "Key": 0.119,
@@ -1181,13 +1181,13 @@
   "Liveness": 0.119,
   "Valence": 0.1,
   "Tempo": 136.006,
-  "Track Reference": "https://api.spotify.com/v1/tracks/65OVbaJR5O1RmwOQx0875b"
+  "TrackReference": "https://api.spotify.com/v1/tracks/65OVbaJR5O1RmwOQx0875b"
 },{
   "_id": {
     "$oid": "60f79084a24480877399e2b9"
   },
-  "Artist Name": "Travis Scott",
-  "Track Name": "Goosebumps - Remix",
+  "ArtistName": "Travis Scott",
+  "TrackName": "Goosebumps - Remix",
   "Danceability": 0.841,
   "Energy": 0.593,
   "Key": 0.124,
@@ -1197,13 +1197,13 @@
   "Liveness": 0.124,
   "Valence": 0.808,
   "Tempo": 124.917,
-  "Track Reference": "https://api.spotify.com/v1/tracks/5uEYRdEIh9Bo4fpjDd4Na9"
+  "TrackReference": "https://api.spotify.com/v1/tracks/5uEYRdEIh9Bo4fpjDd4Na9"
 },{
   "_id": {
     "$oid": "60f79084a24480877399e2ba"
   },
-  "Artist Name": "Joel Corry",
-  "Track Name": "BED",
+  "ArtistName": "Joel Corry",
+  "TrackName": "BED",
   "Danceability": 0.671,
   "Energy": 0.782,
   "Key": 0.333,
@@ -1213,13 +1213,13 @@
   "Liveness": 0.333,
   "Valence": 0.618,
   "Tempo": 123.989,
-  "Track Reference": "https://api.spotify.com/v1/tracks/0siYMEsGrzzzlWLXK5zJfS"
+  "TrackReference": "https://api.spotify.com/v1/tracks/0siYMEsGrzzzlWLXK5zJfS"
 },{
   "_id": {
     "$oid": "60f79084a24480877399e2bb"
   },
-  "Artist Name": "Joel Corry",
-  "Track Name": "Head & Heart (feat. MNEK)",
+  "ArtistName": "Joel Corry",
+  "TrackName": "Head & Heart (feat. MNEK)",
   "Danceability": 0.734,
   "Energy": 0.874,
   "Key": 0.0489,
@@ -1229,13 +1229,13 @@
   "Liveness": 0.0489,
   "Valence": 0.905,
   "Tempo": 122.953,
-  "Track Reference": "https://api.spotify.com/v1/tracks/6cx06DFPPHchuUAcTxznu9"
+  "TrackReference": "https://api.spotify.com/v1/tracks/6cx06DFPPHchuUAcTxznu9"
 },{
   "_id": {
     "$oid": "60f79084a24480877399e2bc"
   },
-  "Artist Name": "Duncan Laurence",
-  "Track Name": "Arcade",
+  "ArtistName": "Duncan Laurence",
+  "TrackName": "Arcade",
   "Danceability": 0.453,
   "Energy": 0.35,
   "Key": 0.144,
@@ -1245,13 +1245,13 @@
   "Liveness": 0.144,
   "Valence": 0.279,
   "Tempo": 72.017,
-  "Track Reference": "https://api.spotify.com/v1/tracks/1J14CdDAvBTE1AJYUOwl6C"
+  "TrackReference": "https://api.spotify.com/v1/tracks/1J14CdDAvBTE1AJYUOwl6C"
 },{
   "_id": {
     "$oid": "60f79084a24480877399e2bd"
   },
-  "Artist Name": "Pop Smoke",
-  "Track Name": "Tell The Vision (feat. Kanye West & Pusha T)",
+  "ArtistName": "Pop Smoke",
+  "TrackName": "Tell The Vision (feat. Kanye West & Pusha T)",
   "Danceability": 0.662,
   "Energy": 0.686,
   "Key": 0.349,
@@ -1261,13 +1261,13 @@
   "Liveness": 0.349,
   "Valence": 0.678,
   "Tempo": 143.971,
-  "Track Reference": "https://api.spotify.com/v1/tracks/2UwALqx6yOsXTFt7zRxnts"
+  "TrackReference": "https://api.spotify.com/v1/tracks/2UwALqx6yOsXTFt7zRxnts"
 },{
   "_id": {
     "$oid": "60f79085a24480877399e2be"
   },
-  "Artist Name": "Pop Smoke",
-  "Track Name": "Demeanor (feat. Dua Lipa)",
+  "ArtistName": "Pop Smoke",
+  "TrackName": "Demeanor (feat. Dua Lipa)",
   "Danceability": 0.675,
   "Energy": 0.608,
   "Key": 0.11,
@@ -1277,13 +1277,13 @@
   "Liveness": 0.11,
   "Valence": 0.728,
   "Tempo": 99.865,
-  "Track Reference": "https://api.spotify.com/v1/tracks/3DMs7bahbQTnoxCjgP7qoK"
+  "TrackReference": "https://api.spotify.com/v1/tracks/3DMs7bahbQTnoxCjgP7qoK"
 },{
   "_id": {
     "$oid": "60f79085a24480877399e2bf"
   },
-  "Artist Name": "João Gomes",
-  "Track Name": "Meu Pedaço de Pecado",
+  "ArtistName": "João Gomes",
+  "TrackName": "Meu Pedaço de Pecado",
   "Danceability": 0.668,
   "Energy": 0.887,
   "Key": 0.257,
@@ -1293,13 +1293,13 @@
   "Liveness": 0.257,
   "Valence": 0.907,
   "Tempo": 151.92,
-  "Track Reference": "https://api.spotify.com/v1/tracks/2kJRlOyrxsy7Ot3c5TZ8Q6"
+  "TrackReference": "https://api.spotify.com/v1/tracks/2kJRlOyrxsy7Ot3c5TZ8Q6"
 },{
   "_id": {
     "$oid": "60f79085a24480877399e2c0"
   },
-  "Artist Name": "Tones And I",
-  "Track Name": "Dance Monkey",
+  "ArtistName": "Tones And I",
+  "TrackName": "Dance Monkey",
   "Danceability": 0.824,
   "Energy": 0.587,
   "Key": 0.149,
@@ -1309,13 +1309,13 @@
   "Liveness": 0.149,
   "Valence": 0.514,
   "Tempo": 98.029,
-  "Track Reference": "https://api.spotify.com/v1/tracks/2N8m6CYs74qQO4mjVcXO30"
+  "TrackReference": "https://api.spotify.com/v1/tracks/2N8m6CYs74qQO4mjVcXO30"
 },{
   "_id": {
     "$oid": "60f79085a24480877399e2c1"
   },
-  "Artist Name": "Mora",
-  "Track Name": "512",
+  "ArtistName": "Mora",
+  "TrackName": "512",
   "Danceability": 0.818,
   "Energy": 0.673,
   "Key": 0.172,
@@ -1325,13 +1325,13 @@
   "Liveness": 0.172,
   "Valence": 0.695,
   "Tempo": 87.961,
-  "Track Reference": "https://api.spotify.com/v1/tracks/5jzEwSyyymBlf1fa1o39T2"
+  "TrackReference": "https://api.spotify.com/v1/tracks/5jzEwSyyymBlf1fa1o39T2"
 },{
   "_id": {
     "$oid": "60f79085a24480877399e2c2"
   },
-  "Artist Name": "Justin Quiles",
-  "Track Name": "Loco",
+  "ArtistName": "Justin Quiles",
+  "TrackName": "Loco",
   "Danceability": 0.77,
   "Energy": 0.899,
   "Key": 0.0894,
@@ -1341,13 +1341,13 @@
   "Liveness": 0.0894,
   "Valence": 0.851,
   "Tempo": 128.05,
-  "Track Reference": "https://api.spotify.com/v1/tracks/6PDlkWmrq2ZKiUuFt2aQsH"
+  "TrackReference": "https://api.spotify.com/v1/tracks/6PDlkWmrq2ZKiUuFt2aQsH"
 },{
   "_id": {
     "$oid": "60f79085a24480877399e2c3"
   },
-  "Artist Name": "Ariana Grande",
-  "Track Name": "positions",
+  "ArtistName": "Ariana Grande",
+  "TrackName": "positions",
   "Danceability": 0.737,
   "Energy": 0.802,
   "Key": 0.0931,
@@ -1357,13 +1357,13 @@
   "Liveness": 0.0931,
   "Valence": 0.682,
   "Tempo": 144.015,
-  "Track Reference": "https://api.spotify.com/v1/tracks/35mvY5S1H3J2QZyna3TFe0"
+  "TrackReference": "https://api.spotify.com/v1/tracks/35mvY5S1H3J2QZyna3TFe0"
 },{
   "_id": {
     "$oid": "60f79086a24480877399e2c4"
   },
-  "Artist Name": "Post Malone",
-  "Track Name": "Circles",
+  "ArtistName": "Post Malone",
+  "TrackName": "Circles",
   "Danceability": 0.695,
   "Energy": 0.762,
   "Key": 0.0863,
@@ -1373,13 +1373,13 @@
   "Liveness": 0.0863,
   "Valence": 0.553,
   "Tempo": 120.042,
-  "Track Reference": "https://api.spotify.com/v1/tracks/21jGcNKet2qwijlDFuPiPb"
+  "TrackReference": "https://api.spotify.com/v1/tracks/21jGcNKet2qwijlDFuPiPb"
 },{
   "_id": {
     "$oid": "60f79086a24480877399e2c5"
   },
-  "Artist Name": "Justin Wellington",
-  "Track Name": "Iko Iko (My Bestie)",
+  "ArtistName": "Justin Wellington",
+  "TrackName": "Iko Iko (My Bestie)",
   "Danceability": 0.862,
   "Energy": 0.753,
   "Key": 0.077,
@@ -1389,13 +1389,13 @@
   "Liveness": 0.077,
   "Valence": 0.827,
   "Tempo": 105.039,
-  "Track Reference": "https://api.spotify.com/v1/tracks/7MC4XR9M9amdmKQr2iDF7i"
+  "TrackReference": "https://api.spotify.com/v1/tracks/7MC4XR9M9amdmKQr2iDF7i"
 },{
   "_id": {
     "$oid": "60f79086a24480877399e2c6"
   },
-  "Artist Name": "Natti Natasha",
-  "Track Name": "Ram Pam Pam",
+  "ArtistName": "Natti Natasha",
+  "TrackName": "Ram Pam Pam",
   "Danceability": 0.908,
   "Energy": 0.813,
   "Key": 0.278,
@@ -1405,13 +1405,13 @@
   "Liveness": 0.278,
   "Valence": 0.924,
   "Tempo": 97.018,
-  "Track Reference": "https://api.spotify.com/v1/tracks/4DHDIdeayp8xvlyg22wREO"
+  "TrackReference": "https://api.spotify.com/v1/tracks/4DHDIdeayp8xvlyg22wREO"
 },{
   "_id": {
     "$oid": "60f79086a24480877399e2c7"
   },
-  "Artist Name": "Pop Smoke",
-  "Track Name": "Woo Baby (feat. Chris Brown)",
+  "ArtistName": "Pop Smoke",
+  "TrackName": "Woo Baby (feat. Chris Brown)",
   "Danceability": 0.563,
   "Energy": 0.672,
   "Key": 0.0972,
@@ -1421,13 +1421,13 @@
   "Liveness": 0.0972,
   "Valence": 0.284,
   "Tempo": 99.772,
-  "Track Reference": "https://api.spotify.com/v1/tracks/58T4yPLn4NjBYXfRxeweyM"
+  "TrackReference": "https://api.spotify.com/v1/tracks/58T4yPLn4NjBYXfRxeweyM"
 },{
   "_id": {
     "$oid": "60f79086a24480877399e2c8"
   },
-  "Artist Name": "Dua Lipa",
-  "Track Name": "Love Again",
+  "ArtistName": "Dua Lipa",
+  "TrackName": "Love Again",
   "Danceability": 0.659,
   "Energy": 0.667,
   "Key": 0.1,
@@ -1437,13 +1437,13 @@
   "Liveness": 0.1,
   "Valence": 0.468,
   "Tempo": 115.982,
-  "Track Reference": "https://api.spotify.com/v1/tracks/4rPkN1FMzQyFNP9cLUGIIB"
+  "TrackReference": "https://api.spotify.com/v1/tracks/4rPkN1FMzQyFNP9cLUGIIB"
 },{
   "_id": {
     "$oid": "60f79087a24480877399e2c9"
   },
-  "Artist Name": "Olivia Rodrigo",
-  "Track Name": "enough for you",
+  "ArtistName": "Olivia Rodrigo",
+  "TrackName": "enough for you",
   "Danceability": 0.638,
   "Energy": 0.259,
   "Key": 0.219,
@@ -1453,13 +1453,13 @@
   "Liveness": 0.219,
   "Valence": 0.269,
   "Tempo": 88.485,
-  "Track Reference": "https://api.spotify.com/v1/tracks/2TOzTqQXNmR2zDJXihjZ2e"
+  "TrackReference": "https://api.spotify.com/v1/tracks/2TOzTqQXNmR2zDJXihjZ2e"
 },{
   "_id": {
     "$oid": "60f79087a24480877399e2ca"
   },
-  "Artist Name": "Lewis Capaldi",
-  "Track Name": "Before You Go",
+  "ArtistName": "Lewis Capaldi",
+  "TrackName": "Before You Go",
   "Danceability": 0.459,
   "Energy": 0.575,
   "Key": 0.0885,
@@ -1469,13 +1469,13 @@
   "Liveness": 0.0885,
   "Valence": 0.183,
   "Tempo": 111.881,
-  "Track Reference": "https://api.spotify.com/v1/tracks/2gMXnyrvIjhVBUZwvLZDMP"
+  "TrackReference": "https://api.spotify.com/v1/tracks/2gMXnyrvIjhVBUZwvLZDMP"
 },{
   "_id": {
     "$oid": "60f79087a24480877399e2cb"
   },
-  "Artist Name": "Dua Lipa",
-  "Track Name": "Levitating",
+  "ArtistName": "Dua Lipa",
+  "TrackName": "Levitating",
   "Danceability": 0.695,
   "Energy": 0.884,
   "Key": 0.213,
@@ -1485,13 +1485,13 @@
   "Liveness": 0.213,
   "Valence": 0.914,
   "Tempo": 103.014,
-  "Track Reference": "https://api.spotify.com/v1/tracks/39LLxExYz6ewLAcYrzQQyP"
+  "TrackReference": "https://api.spotify.com/v1/tracks/39LLxExYz6ewLAcYrzQQyP"
 },{
   "_id": {
     "$oid": "60f79087a24480877399e2cc"
   },
-  "Artist Name": "Sech",
-  "Track Name": "Sal y Perrea",
+  "ArtistName": "Sech",
+  "TrackName": "Sal y Perrea",
   "Danceability": 0.786,
   "Energy": 0.899,
   "Key": 0.299,
@@ -1501,13 +1501,13 @@
   "Liveness": 0.299,
   "Valence": 0.813,
   "Tempo": 90.025,
-  "Track Reference": "https://api.spotify.com/v1/tracks/5u7twkeask1VIyDeNTElSU"
+  "TrackReference": "https://api.spotify.com/v1/tracks/5u7twkeask1VIyDeNTElSU"
 },{
   "_id": {
     "$oid": "60f79087a24480877399e2cd"
   },
-  "Artist Name": "Internet Money",
-  "Track Name": "Lemonade (feat. Gunna, Don Toliver & NAV)",
+  "ArtistName": "Internet Money",
+  "TrackName": "Lemonade (feat. Gunna, Don Toliver & NAV)",
   "Danceability": 0.8,
   "Energy": 0.658,
   "Key": 0.111,
@@ -1517,13 +1517,13 @@
   "Liveness": 0.111,
   "Valence": 0.462,
   "Tempo": 140.042,
-  "Track Reference": "https://api.spotify.com/v1/tracks/7hxHWCCAIIxFLCzvDgnQHX"
+  "TrackReference": "https://api.spotify.com/v1/tracks/7hxHWCCAIIxFLCzvDgnQHX"
 },{
   "_id": {
     "$oid": "60f79088a24480877399e2ce"
   },
-  "Artist Name": "Bruno Mars",
-  "Track Name": "Talking to the Moon",
+  "ArtistName": "Bruno Mars",
+  "TrackName": "Talking to the Moon",
   "Danceability": 0.523,
   "Energy": 0.606,
   "Key": 0.106,
@@ -1533,13 +1533,13 @@
   "Liveness": 0.106,
   "Valence": 0.065,
   "Tempo": 145.837,
-  "Track Reference": "https://api.spotify.com/v1/tracks/161DnLWsx1i3u1JT05lzqU"
+  "TrackReference": "https://api.spotify.com/v1/tracks/161DnLWsx1i3u1JT05lzqU"
 },{
   "_id": {
     "$oid": "60f79088a24480877399e2cf"
   },
-  "Artist Name": "Shouse",
-  "Track Name": "Love Tonight - Edit",
+  "ArtistName": "Shouse",
+  "TrackName": "Love Tonight - Edit",
   "Danceability": 0.727,
   "Energy": 0.681,
   "Key": 0.0861,
@@ -1549,13 +1549,13 @@
   "Liveness": 0.0861,
   "Valence": 0.448,
   "Tempo": 123.028,
-  "Track Reference": "https://api.spotify.com/v1/tracks/6OufwUcCqo81guU2jAlDVP"
+  "TrackReference": "https://api.spotify.com/v1/tracks/6OufwUcCqo81guU2jAlDVP"
 },{
   "_id": {
     "$oid": "60f79088a24480877399e2d0"
   },
-  "Artist Name": "Cardi B",
-  "Track Name": "Up",
+  "ArtistName": "Cardi B",
+  "TrackName": "Up",
   "Danceability": 0.868,
   "Energy": 0.795,
   "Key": 0.0461,
@@ -1565,13 +1565,13 @@
   "Liveness": 0.0461,
   "Valence": 0.819,
   "Tempo": 166,
-  "Track Reference": "https://api.spotify.com/v1/tracks/1M4OcYkxAtu3ErzSgDEfoi"
+  "TrackReference": "https://api.spotify.com/v1/tracks/1M4OcYkxAtu3ErzSgDEfoi"
 },{
   "_id": {
     "$oid": "60f79088a24480877399e2d1"
   },
-  "Artist Name": "Madison Beer",
-  "Track Name": "Reckless",
+  "ArtistName": "Madison Beer",
+  "TrackName": "Reckless",
   "Danceability": 0.386,
   "Energy": 0.426,
   "Key": 0.14,
@@ -1581,13 +1581,13 @@
   "Liveness": 0.14,
   "Valence": 0.261,
   "Tempo": 180.104,
-  "Track Reference": "https://api.spotify.com/v1/tracks/5ajjAnNRh8bxFvaVHzpPjh"
+  "TrackReference": "https://api.spotify.com/v1/tracks/5ajjAnNRh8bxFvaVHzpPjh"
 },{
   "_id": {
     "$oid": "60f79088a24480877399e2d2"
   },
-  "Artist Name": "Imagine Dragons",
-  "Track Name": "Believer",
+  "ArtistName": "Imagine Dragons",
+  "TrackName": "Believer",
   "Danceability": 0.776,
   "Energy": 0.78,
   "Key": 0.081,
@@ -1597,13 +1597,13 @@
   "Liveness": 0.081,
   "Valence": 0.666,
   "Tempo": 124.949,
-  "Track Reference": "https://api.spotify.com/v1/tracks/0pqnGHJpmpxLKifKRmU6WP"
+  "TrackReference": "https://api.spotify.com/v1/tracks/0pqnGHJpmpxLKifKRmU6WP"
 },{
   "_id": {
     "$oid": "60f79089a24480877399e2d3"
   },
-  "Artist Name": "Justin Bieber",
-  "Track Name": "Hold On",
+  "ArtistName": "Justin Bieber",
+  "TrackName": "Hold On",
   "Danceability": 0.658,
   "Energy": 0.634,
   "Key": 0.12,
@@ -1613,13 +1613,13 @@
   "Liveness": 0.12,
   "Valence": 0.302,
   "Tempo": 140.002,
-  "Track Reference": "https://api.spotify.com/v1/tracks/1nahzW3kfMuwReTka28tH5"
+  "TrackReference": "https://api.spotify.com/v1/tracks/1nahzW3kfMuwReTka28tH5"
 },{
   "_id": {
     "$oid": "60f79089a24480877399e2d4"
   },
-  "Artist Name": "Billie Eilish",
-  "Track Name": "lovely (with Khalid)",
+  "ArtistName": "Billie Eilish",
+  "TrackName": "lovely (with Khalid)",
   "Danceability": 0.351,
   "Energy": 0.296,
   "Key": 0.095,
@@ -1629,13 +1629,13 @@
   "Liveness": 0.095,
   "Valence": 0.12,
   "Tempo": 115.284,
-  "Track Reference": "https://api.spotify.com/v1/tracks/0u2P5u6lvoDfwTYjAADbn4"
+  "TrackReference": "https://api.spotify.com/v1/tracks/0u2P5u6lvoDfwTYjAADbn4"
 },{
   "_id": {
     "$oid": "60f79089a24480877399e2d5"
   },
-  "Artist Name": "Maluma",
-  "Track Name": "Sobrio",
+  "ArtistName": "Maluma",
+  "TrackName": "Sobrio",
   "Danceability": 0.762,
   "Energy": 0.77,
   "Key": 0.15,
@@ -1645,13 +1645,13 @@
   "Liveness": 0.15,
   "Valence": 0.631,
   "Tempo": 177.998,
-  "Track Reference": "https://api.spotify.com/v1/tracks/4HzqWEdAbzcVFDv0pvxV4w"
+  "TrackReference": "https://api.spotify.com/v1/tracks/4HzqWEdAbzcVFDv0pvxV4w"
 },{
   "_id": {
     "$oid": "60f79089a24480877399e2d6"
   },
-  "Artist Name": "SAINt JHN",
-  "Track Name": "Roses - Imanbek Remix",
+  "ArtistName": "SAINt JHN",
+  "TrackName": "Roses - Imanbek Remix",
   "Danceability": 0.769,
   "Energy": 0.719,
   "Key": 0.359,
@@ -1661,13 +1661,13 @@
   "Liveness": 0.359,
   "Valence": 0.863,
   "Tempo": 121.955,
-  "Track Reference": "https://api.spotify.com/v1/tracks/0zLCBJZSiELJf02ucPP9wb"
+  "TrackReference": "https://api.spotify.com/v1/tracks/0zLCBJZSiELJf02ucPP9wb"
 },{
   "_id": {
     "$oid": "60f79089a24480877399e2d7"
   },
-  "Artist Name": "Post Malone",
-  "Track Name": "Sunflower - Spider-Man: Into the Spider-Verse",
+  "ArtistName": "Post Malone",
+  "TrackName": "Sunflower - Spider-Man: Into the Spider-Verse",
   "Danceability": 0.755,
   "Energy": 0.522,
   "Key": 0.0685,
@@ -1677,13 +1677,13 @@
   "Liveness": 0.0685,
   "Valence": 0.925,
   "Tempo": 89.96,
-  "Track Reference": "https://api.spotify.com/v1/tracks/0RiRZpuVRbi7oqRdSMwhQY"
+  "TrackReference": "https://api.spotify.com/v1/tracks/0RiRZpuVRbi7oqRdSMwhQY"
 },{
   "_id": {
     "$oid": "60f79089a24480877399e2d8"
   },
-  "Artist Name": "Doja Cat",
-  "Track Name": "Streets",
+  "ArtistName": "Doja Cat",
+  "TrackName": "Streets",
   "Danceability": 0.749,
   "Energy": 0.463,
   "Key": 0.337,
@@ -1693,13 +1693,13 @@
   "Liveness": 0.337,
   "Valence": 0.19,
   "Tempo": 90.028,
-  "Track Reference": "https://api.spotify.com/v1/tracks/60ynsPSSKe6O3sfwRnIBRf"
+  "TrackReference": "https://api.spotify.com/v1/tracks/60ynsPSSKe6O3sfwRnIBRf"
 },{
   "_id": {
     "$oid": "60f7908aa24480877399e2d9"
   },
-  "Artist Name": "Calvin Harris",
-  "Track Name": "By Your Side (feat. Tom Grennan)",
+  "ArtistName": "Calvin Harris",
+  "TrackName": "By Your Side (feat. Tom Grennan)",
   "Danceability": 0.733,
   "Energy": 0.96,
   "Key": 0.287,
@@ -1709,13 +1709,13 @@
   "Liveness": 0.287,
   "Valence": 0.811,
   "Tempo": 124.01,
-  "Track Reference": "https://api.spotify.com/v1/tracks/0vR2rIVORmgeKiGIgNT0fV"
+  "TrackReference": "https://api.spotify.com/v1/tracks/0vR2rIVORmgeKiGIgNT0fV"
 },{
   "_id": {
     "$oid": "60f7908aa24480877399e2da"
   },
-  "Artist Name": "Tate McRae",
-  "Track Name": "you broke me first",
+  "ArtistName": "Tate McRae",
+  "TrackName": "you broke me first",
   "Danceability": 0.667,
   "Energy": 0.373,
   "Key": 0.0906,
@@ -1725,13 +1725,13 @@
   "Liveness": 0.0906,
   "Valence": 0.0823,
   "Tempo": 124.148,
-  "Track Reference": "https://api.spotify.com/v1/tracks/45bE4HXI0AwGZXfZtMp8JR"
+  "TrackReference": "https://api.spotify.com/v1/tracks/45bE4HXI0AwGZXfZtMp8JR"
 },{
   "_id": {
     "$oid": "60f7908aa24480877399e2db"
   },
-  "Artist Name": "Vegedream",
-  "Track Name": "Ramenez la coupe à la maison",
+  "ArtistName": "Vegedream",
+  "TrackName": "Ramenez la coupe à la maison",
   "Danceability": 0.808,
   "Energy": 0.661,
   "Key": 0.138,
@@ -1741,13 +1741,13 @@
   "Liveness": 0.138,
   "Valence": 0.804,
   "Tempo": 107.992,
-  "Track Reference": "https://api.spotify.com/v1/tracks/1m0UFnuTktOkksvjbF9z0m"
+  "TrackReference": "https://api.spotify.com/v1/tracks/1m0UFnuTktOkksvjbF9z0m"
 },{
   "_id": {
     "$oid": "60f7908aa24480877399e2dc"
   },
-  "Artist Name": "Ed Sheeran",
-  "Track Name": "Shape of You",
+  "ArtistName": "Ed Sheeran",
+  "TrackName": "Shape of You",
   "Danceability": 0.825,
   "Energy": 0.652,
   "Key": 0.0931,
@@ -1757,13 +1757,13 @@
   "Liveness": 0.0931,
   "Valence": 0.931,
   "Tempo": 95.977,
-  "Track Reference": "https://api.spotify.com/v1/tracks/7qiZfU4dY1lWllzX7mPBI3"
+  "TrackReference": "https://api.spotify.com/v1/tracks/7qiZfU4dY1lWllzX7mPBI3"
 },{
   "_id": {
     "$oid": "60f7908aa24480877399e2dd"
   },
-  "Artist Name": "Conan Gray",
-  "Track Name": "Heather",
+  "ArtistName": "Conan Gray",
+  "TrackName": "Heather",
   "Danceability": 0.357,
   "Energy": 0.425,
   "Key": 0.322,
@@ -1773,13 +1773,13 @@
   "Liveness": 0.322,
   "Valence": 0.27,
   "Tempo": 102.078,
-  "Track Reference": "https://api.spotify.com/v1/tracks/4xqrdfXkTW4T0RauPLv3WA"
+  "TrackReference": "https://api.spotify.com/v1/tracks/4xqrdfXkTW4T0RauPLv3WA"
 },{
   "_id": {
     "$oid": "60f7908ba24480877399e2de"
   },
-  "Artist Name": "Camilo",
-  "Track Name": "KESI - Remix",
+  "ArtistName": "Camilo",
+  "TrackName": "KESI - Remix",
   "Danceability": 0.871,
   "Energy": 0.815,
   "Key": 0.094,
@@ -1789,13 +1789,13 @@
   "Liveness": 0.094,
   "Valence": 0.823,
   "Tempo": 122.959,
-  "Track Reference": "https://api.spotify.com/v1/tracks/0IqCoZ168iRc9LqfrYgpZy"
+  "TrackReference": "https://api.spotify.com/v1/tracks/0IqCoZ168iRc9LqfrYgpZy"
 },{
   "_id": {
     "$oid": "60f7908ba24480877399e2df"
   },
-  "Artist Name": "MYA",
-  "Track Name": "2:50 Remix",
+  "ArtistName": "MYA",
+  "TrackName": "2:50 Remix",
   "Danceability": 0.818,
   "Energy": 0.812,
   "Key": 0.234,
@@ -1805,13 +1805,13 @@
   "Liveness": 0.234,
   "Valence": 0.844,
   "Tempo": 139.966,
-  "Track Reference": "https://api.spotify.com/v1/tracks/74znaWw1hmQBusGPSOuTFy"
+  "TrackReference": "https://api.spotify.com/v1/tracks/74znaWw1hmQBusGPSOuTFy"
 },{
   "_id": {
     "$oid": "60f7908ba24480877399e2e0"
   },
-  "Artist Name": "Ed Sheeran",
-  "Track Name": "Perfect",
+  "ArtistName": "Ed Sheeran",
+  "TrackName": "Perfect",
   "Danceability": 0.599,
   "Energy": 0.448,
   "Key": 0.106,
@@ -1821,13 +1821,13 @@
   "Liveness": 0.106,
   "Valence": 0.168,
   "Tempo": 95.05,
-  "Track Reference": "https://api.spotify.com/v1/tracks/0tgVpDi06FyKpA1z0VMD4v"
+  "TrackReference": "https://api.spotify.com/v1/tracks/0tgVpDi06FyKpA1z0VMD4v"
 },{
   "_id": {
     "$oid": "60f7908ba24480877399e2e1"
   },
-  "Artist Name": "Bad Bunny",
-  "Track Name": "LA NOCHE DE ANOCHE",
+  "ArtistName": "Bad Bunny",
+  "TrackName": "LA NOCHE DE ANOCHE",
   "Danceability": 0.856,
   "Energy": 0.618,
   "Key": 0.0866,
@@ -1837,13 +1837,13 @@
   "Liveness": 0.0866,
   "Valence": 0.391,
   "Tempo": 81.993,
-  "Track Reference": "https://api.spotify.com/v1/tracks/2XIc1pqjXV3Cr2BQUGNBck"
+  "TrackReference": "https://api.spotify.com/v1/tracks/2XIc1pqjXV3Cr2BQUGNBck"
 },{
   "_id": {
     "$oid": "60f7908ba24480877399e2e2"
   },
-  "Artist Name": "Vance Joy",
-  "Track Name": "Riptide",
+  "ArtistName": "Vance Joy",
+  "TrackName": "Riptide",
   "Danceability": 0.484,
   "Energy": 0.731,
   "Key": 0.151,
@@ -1853,13 +1853,13 @@
   "Liveness": 0.151,
   "Valence": 0.51,
   "Tempo": 101.654,
-  "Track Reference": "https://api.spotify.com/v1/tracks/7yq4Qj7cqayVTp3FF9CWbm"
+  "TrackReference": "https://api.spotify.com/v1/tracks/7yq4Qj7cqayVTp3FF9CWbm"
 },{
   "_id": {
     "$oid": "60f7908ba24480877399e2e3"
   },
-  "Artist Name": "Sleepy Hallow",
-  "Track Name": "2055",
+  "ArtistName": "Sleepy Hallow",
+  "TrackName": "2055",
   "Danceability": 0.829,
   "Energy": 0.512,
   "Key": 0.12,
@@ -1869,13 +1869,13 @@
   "Liveness": 0.12,
   "Valence": 0.638,
   "Tempo": 80.511,
-  "Track Reference": "https://api.spotify.com/v1/tracks/4XvcHTUfIlWfyJTRG0aqlo"
+  "TrackReference": "https://api.spotify.com/v1/tracks/4XvcHTUfIlWfyJTRG0aqlo"
 },{
   "_id": {
     "$oid": "60f7908ca24480877399e2e4"
   },
-  "Artist Name": "J Balvin",
-  "Track Name": "In Da Getto",
+  "ArtistName": "J Balvin",
+  "TrackName": "In Da Getto",
   "Danceability": 0.915,
   "Energy": 0.72,
   "Key": 0.0942,
@@ -1885,13 +1885,13 @@
   "Liveness": 0.0942,
   "Valence": 0.631,
   "Tempo": 126.986,
-  "Track Reference": "https://api.spotify.com/v1/tracks/63aj87TQG6F3RVO5nbG2VQ"
+  "TrackReference": "https://api.spotify.com/v1/tracks/63aj87TQG6F3RVO5nbG2VQ"
 },{
   "_id": {
     "$oid": "60f7908ca24480877399e2e5"
   },
-  "Artist Name": "DaBaby",
-  "Track Name": "ROCKSTAR (feat. Roddy Ricch)",
+  "ArtistName": "DaBaby",
+  "TrackName": "ROCKSTAR (feat. Roddy Ricch)",
   "Danceability": 0.746,
   "Energy": 0.69,
   "Key": 0.101,
@@ -1901,13 +1901,13 @@
   "Liveness": 0.101,
   "Valence": 0.497,
   "Tempo": 89.977,
-  "Track Reference": "https://api.spotify.com/v1/tracks/7ytR5pFWmSjzHJIeQkgog4"
+  "TrackReference": "https://api.spotify.com/v1/tracks/7ytR5pFWmSjzHJIeQkgog4"
 },{
   "_id": {
     "$oid": "60f7908ca24480877399e2e6"
   },
-  "Artist Name": "Normani",
-  "Track Name": "Wild Side (feat. Cardi B)",
+  "ArtistName": "Normani",
+  "TrackName": "Wild Side (feat. Cardi B)",
   "Danceability": 0.74,
   "Energy": 0.576,
   "Key": 0.104,
@@ -1917,13 +1917,13 @@
   "Liveness": 0.104,
   "Valence": 0.315,
   "Tempo": 110.095,
-  "Track Reference": "https://api.spotify.com/v1/tracks/4XkrlDVc8UQUvsyRsxvU0M"
+  "TrackReference": "https://api.spotify.com/v1/tracks/4XkrlDVc8UQUvsyRsxvU0M"
 },{
   "_id": {
     "$oid": "60f7908ca24480877399e2e7"
   },
-  "Artist Name": "Shawn Mendes",
-  "Track Name": "Señorita",
+  "ArtistName": "Shawn Mendes",
+  "TrackName": "Señorita",
   "Danceability": 0.759,
   "Energy": 0.548,
   "Key": 0.0828,
@@ -1933,13 +1933,13 @@
   "Liveness": 0.0828,
   "Valence": 0.749,
   "Tempo": 116.967,
-  "Track Reference": "https://api.spotify.com/v1/tracks/6v3KW9xbzN5yKLt9YKDYA2"
+  "TrackReference": "https://api.spotify.com/v1/tracks/6v3KW9xbzN5yKLt9YKDYA2"
 },{
   "_id": {
     "$oid": "60f7908ca24480877399e2e8"
   },
-  "Artist Name": "The Neighbourhood",
-  "Track Name": "Daddy Issues",
+  "ArtistName": "The Neighbourhood",
+  "TrackName": "Daddy Issues",
   "Danceability": 0.588,
   "Energy": 0.521,
   "Key": 0.123,
@@ -1949,13 +1949,13 @@
   "Liveness": 0.123,
   "Valence": 0.337,
   "Tempo": 85.012,
-  "Track Reference": "https://api.spotify.com/v1/tracks/5E30LdtzQTGqRvNd7l6kG5"
+  "TrackReference": "https://api.spotify.com/v1/tracks/5E30LdtzQTGqRvNd7l6kG5"
 },{
   "_id": {
     "$oid": "60f7908da24480877399e2e9"
   },
-  "Artist Name": "dhruv",
-  "Track Name": "double take",
+  "ArtistName": "dhruv",
+  "TrackName": "double take",
   "Danceability": 0.663,
   "Energy": 0.434,
   "Key": 0.249,
@@ -1965,13 +1965,13 @@
   "Liveness": 0.249,
   "Valence": 0.225,
   "Tempo": 109.075,
-  "Track Reference": "https://api.spotify.com/v1/tracks/2CVChktEKBsM6v4IfdFU5k"
+  "TrackReference": "https://api.spotify.com/v1/tracks/2CVChktEKBsM6v4IfdFU5k"
 },{
   "_id": {
     "$oid": "60f7908da24480877399e2ea"
   },
-  "Artist Name": "Tom Grennan",
-  "Track Name": "Little Bit of Love",
+  "ArtistName": "Tom Grennan",
+  "TrackName": "Little Bit of Love",
   "Danceability": 0.689,
   "Energy": 0.706,
   "Key": 0.105,
@@ -1981,13 +1981,13 @@
   "Liveness": 0.105,
   "Valence": 0.623,
   "Tempo": 106.52,
-  "Track Reference": "https://api.spotify.com/v1/tracks/3Iba59sFmGhQ4kbCY5L8AX"
+  "TrackReference": "https://api.spotify.com/v1/tracks/3Iba59sFmGhQ4kbCY5L8AX"
 },{
   "_id": {
     "$oid": "60f7908da24480877399e2eb"
   },
-  "Artist Name": "Trippie Redd",
-  "Track Name": "Miss The Rage (feat. Playboi Carti)",
+  "ArtistName": "Trippie Redd",
+  "TrackName": "Miss The Rage (feat. Playboi Carti)",
   "Danceability": 0.584,
   "Energy": 0.859,
   "Key": 0.847,
@@ -1997,13 +1997,13 @@
   "Liveness": 0.847,
   "Valence": 0.369,
   "Tempo": 77.005,
-  "Track Reference": "https://api.spotify.com/v1/tracks/2BITQ360Knh6qNAOqR7Dyq"
+  "TrackReference": "https://api.spotify.com/v1/tracks/2BITQ360Knh6qNAOqR7Dyq"
 },{
   "_id": {
     "$oid": "60f7908da24480877399e2ec"
   },
-  "Artist Name": "Olivia Rodrigo",
-  "Track Name": "1 step forward, 3 steps back",
+  "ArtistName": "Olivia Rodrigo",
+  "TrackName": "1 step forward, 3 steps back",
   "Danceability": 0.473,
   "Energy": 0.203,
   "Key": 0.126,
@@ -2013,13 +2013,13 @@
   "Liveness": 0.126,
   "Valence": 0.419,
   "Tempo": 168.884,
-  "Track Reference": "https://api.spotify.com/v1/tracks/4wcBRRpIfesgcyUtis7PEg"
+  "TrackReference": "https://api.spotify.com/v1/tracks/4wcBRRpIfesgcyUtis7PEg"
 },{
   "_id": {
     "$oid": "60f7908da24480877399e2ed"
   },
-  "Artist Name": "BANDIDO",
-  "Track Name": "No Me Conocen (Remix) [con DUKI, Rei & Tiago PZK]",
+  "ArtistName": "BANDIDO",
+  "TrackName": "No Me Conocen (Remix) [con DUKI, Rei & Tiago PZK]",
   "Danceability": 0.769,
   "Energy": 0.812,
   "Key": 0.0781,
@@ -2029,13 +2029,13 @@
   "Liveness": 0.0781,
   "Valence": 0.926,
   "Tempo": 180.003,
-  "Track Reference": "https://api.spotify.com/v1/tracks/7COGuXyTr12KvdaYXMqheC"
+  "TrackReference": "https://api.spotify.com/v1/tracks/7COGuXyTr12KvdaYXMqheC"
 },{
   "_id": {
     "$oid": "60f7908ea24480877399e2ee"
   },
-  "Artist Name": "Trippie Redd",
-  "Track Name": "Holy Smokes",
+  "ArtistName": "Trippie Redd",
+  "TrackName": "Holy Smokes",
   "Danceability": 0.437,
   "Energy": 0.527,
   "Key": 0.153,
@@ -2045,13 +2045,13 @@
   "Liveness": 0.153,
   "Valence": 0.701,
   "Tempo": 187.815,
-  "Track Reference": "https://api.spotify.com/v1/tracks/3EpF150nXMSNjiH0bbmXIL"
+  "TrackReference": "https://api.spotify.com/v1/tracks/3EpF150nXMSNjiH0bbmXIL"
 },{
   "_id": {
     "$oid": "60f7908ea24480877399e2ef"
   },
-  "Artist Name": "Bo Burnham",
-  "Track Name": "Bezos I",
+  "ArtistName": "Bo Burnham",
+  "TrackName": "Bezos I",
   "Danceability": 0.694,
   "Energy": 0.948,
   "Key": 0.139,
@@ -2061,13 +2061,13 @@
   "Liveness": 0.139,
   "Valence": 0.705,
   "Tempo": 115.044,
-  "Track Reference": "https://api.spotify.com/v1/tracks/0Kdj7nwaYQmvhxnqZaIQuW"
+  "TrackReference": "https://api.spotify.com/v1/tracks/0Kdj7nwaYQmvhxnqZaIQuW"
 },{
   "_id": {
     "$oid": "60f7908ea24480877399e2f0"
   },
-  "Artist Name": "Bad Bunny",
-  "Track Name": "De Museo",
+  "ArtistName": "Bad Bunny",
+  "TrackName": "De Museo",
   "Danceability": 0.592,
   "Energy": 0.494,
   "Key": 0.13,
@@ -2077,13 +2077,13 @@
   "Liveness": 0.13,
   "Valence": 0.231,
   "Tempo": 132.037,
-  "Track Reference": "https://api.spotify.com/v1/tracks/267NGliXM8YLVZiKAD9Otm"
+  "TrackReference": "https://api.spotify.com/v1/tracks/267NGliXM8YLVZiKAD9Otm"
 },{
   "_id": {
     "$oid": "60f7908ea24480877399e2f1"
   },
-  "Artist Name": "AURORA",
-  "Track Name": "Runaway",
+  "ArtistName": "AURORA",
+  "TrackName": "Runaway",
   "Danceability": 0.422,
   "Energy": 0.302,
   "Key": 0.104,
@@ -2093,13 +2093,13 @@
   "Liveness": 0.104,
   "Valence": 0.123,
   "Tempo": 114.089,
-  "Track Reference": "https://api.spotify.com/v1/tracks/1v1oIWf2Xgh54kIWuKsDf6"
+  "TrackReference": "https://api.spotify.com/v1/tracks/1v1oIWf2Xgh54kIWuKsDf6"
 },{
   "_id": {
     "$oid": "60f7908ea24480877399e2f2"
   },
-  "Artist Name": "Avicii",
-  "Track Name": "The Nights",
+  "ArtistName": "Avicii",
+  "TrackName": "The Nights",
   "Danceability": 0.527,
   "Energy": 0.835,
   "Key": 0.249,
@@ -2109,13 +2109,13 @@
   "Liveness": 0.249,
   "Valence": 0.654,
   "Tempo": 125.983,
-  "Track Reference": "https://api.spotify.com/v1/tracks/0ct6r3EGTcMLPtrXHDvVjc"
+  "TrackReference": "https://api.spotify.com/v1/tracks/0ct6r3EGTcMLPtrXHDvVjc"
 },{
   "_id": {
     "$oid": "60f7908fa24480877399e2f3"
   },
-  "Artist Name": "Maroon 5",
-  "Track Name": "Memories",
+  "ArtistName": "Maroon 5",
+  "TrackName": "Memories",
   "Danceability": 0.775,
   "Energy": 0.327,
   "Key": 0.0821,
@@ -2125,13 +2125,13 @@
   "Liveness": 0.0821,
   "Valence": 0.595,
   "Tempo": 91.05,
-  "Track Reference": "https://api.spotify.com/v1/tracks/4cktbXiXOapiLBMprHFErI"
+  "TrackReference": "https://api.spotify.com/v1/tracks/4cktbXiXOapiLBMprHFErI"
 },{
   "_id": {
     "$oid": "60f7908fa24480877399e2f4"
   },
-  "Artist Name": "MEDUZA",
-  "Track Name": "Paradise (feat. Dermot Kennedy)",
+  "ArtistName": "MEDUZA",
+  "TrackName": "Paradise (feat. Dermot Kennedy)",
   "Danceability": 0.632,
   "Energy": 0.595,
   "Key": 0.209,
@@ -2141,13 +2141,13 @@
   "Liveness": 0.209,
   "Valence": 0.435,
   "Tempo": 124.114,
-  "Track Reference": "https://api.spotify.com/v1/tracks/6ft4hAq6yde8jPZY2i5zLr"
+  "TrackReference": "https://api.spotify.com/v1/tracks/6ft4hAq6yde8jPZY2i5zLr"
 },{
   "_id": {
     "$oid": "60f7908fa24480877399e2f5"
   },
-  "Artist Name": "Tom Odell",
-  "Track Name": "Another Love",
+  "ArtistName": "Tom Odell",
+  "TrackName": "Another Love",
   "Danceability": 0.442,
   "Energy": 0.538,
   "Key": 0.09,
@@ -2157,13 +2157,13 @@
   "Liveness": 0.09,
   "Valence": 0.139,
   "Tempo": 122.758,
-  "Track Reference": "https://api.spotify.com/v1/tracks/7jtQIBanIiJOMS6RyCx6jZ"
+  "TrackReference": "https://api.spotify.com/v1/tracks/7jtQIBanIiJOMS6RyCx6jZ"
 },{
   "_id": {
     "$oid": "60f7908fa24480877399e2f6"
   },
-  "Artist Name": "Nirvana",
-  "Track Name": "Smells Like Teen Spirit",
+  "ArtistName": "Nirvana",
+  "TrackName": "Smells Like Teen Spirit",
   "Danceability": 0.502,
   "Energy": 0.912,
   "Key": 0.106,
@@ -2173,13 +2173,13 @@
   "Liveness": 0.106,
   "Valence": 0.72,
   "Tempo": 116.761,
-  "Track Reference": "https://api.spotify.com/v1/tracks/1f3yAtsJtY87CTmM8RLnxf"
+  "TrackReference": "https://api.spotify.com/v1/tracks/1f3yAtsJtY87CTmM8RLnxf"
 },{
   "_id": {
     "$oid": "60f7908fa24480877399e2f7"
   },
-  "Artist Name": "Myke Towers",
-  "Track Name": "Bandido",
+  "ArtistName": "Myke Towers",
+  "TrackName": "Bandido",
   "Danceability": 0.713,
   "Energy": 0.617,
   "Key": 0.0962,
@@ -2189,13 +2189,13 @@
   "Liveness": 0.0962,
   "Valence": 0.682,
   "Tempo": 168.021,
-  "Track Reference": "https://api.spotify.com/v1/tracks/1xK1Gg9SxG8fy2Ya373oqb"
+  "TrackReference": "https://api.spotify.com/v1/tracks/1xK1Gg9SxG8fy2Ya373oqb"
 },{
   "_id": {
     "$oid": "60f79090a24480877399e2f8"
   },
-  "Artist Name": "Hozier",
-  "Track Name": "Take Me To Church",
+  "ArtistName": "Hozier",
+  "TrackName": "Take Me To Church",
   "Danceability": 0.566,
   "Energy": 0.664,
   "Key": 0.116,
@@ -2205,13 +2205,13 @@
   "Liveness": 0.116,
   "Valence": 0.437,
   "Tempo": 128.945,
-  "Track Reference": "https://api.spotify.com/v1/tracks/3dYD57lRAUcMHufyqn9GcI"
+  "TrackReference": "https://api.spotify.com/v1/tracks/3dYD57lRAUcMHufyqn9GcI"
 },{
   "_id": {
     "$oid": "60f79090a24480877399e2f9"
   },
-  "Artist Name": "DaBaby",
-  "Track Name": "Red Light Green Light",
+  "ArtistName": "DaBaby",
+  "TrackName": "Red Light Green Light",
   "Danceability": 0.933,
   "Energy": 0.656,
   "Key": 0.161,
@@ -2221,13 +2221,13 @@
   "Liveness": 0.161,
   "Valence": 0.934,
   "Tempo": 119.987,
-  "Track Reference": "https://api.spotify.com/v1/tracks/1YDebgap5OFwXEBG18NJvy"
+  "TrackReference": "https://api.spotify.com/v1/tracks/1YDebgap5OFwXEBG18NJvy"
 },{
   "_id": {
     "$oid": "60f79090a24480877399e2fa"
   },
-  "Artist Name": "Becky G",
-  "Track Name": "Fulanito",
+  "ArtistName": "Becky G",
+  "TrackName": "Fulanito",
   "Danceability": 0.93,
   "Energy": 0.837,
   "Key": 0.239,
@@ -2237,13 +2237,13 @@
   "Liveness": 0.239,
   "Valence": 0.821,
   "Tempo": 111.898,
-  "Track Reference": "https://api.spotify.com/v1/tracks/59L8x0xy8njj75vzVCPMqg"
+  "TrackReference": "https://api.spotify.com/v1/tracks/59L8x0xy8njj75vzVCPMqg"
 },{
   "_id": {
     "$oid": "60f79090a24480877399e2fb"
   },
-  "Artist Name": "KSI",
-  "Track Name": "Holiday",
+  "ArtistName": "KSI",
+  "TrackName": "Holiday",
   "Danceability": 0.356,
   "Energy": 0.684,
   "Key": 0.101,
@@ -2253,13 +2253,13 @@
   "Liveness": 0.101,
   "Valence": 0.347,
   "Tempo": 87.188,
-  "Track Reference": "https://api.spotify.com/v1/tracks/14Bcv6siTBPw3TlP84dasC"
+  "TrackReference": "https://api.spotify.com/v1/tracks/14Bcv6siTBPw3TlP84dasC"
 },{
   "_id": {
     "$oid": "60f79090a24480877399e2fc"
   },
-  "Artist Name": "Pop Smoke",
-  "Track Name": "What You Know Bout Love",
+  "ArtistName": "Pop Smoke",
+  "TrackName": "What You Know Bout Love",
   "Danceability": 0.709,
   "Energy": 0.548,
   "Key": 0.133,
@@ -2269,13 +2269,13 @@
   "Liveness": 0.133,
   "Valence": 0.543,
   "Tempo": 83.995,
-  "Track Reference": "https://api.spotify.com/v1/tracks/1tkg4EHVoqnhR6iFEXb60y"
+  "TrackReference": "https://api.spotify.com/v1/tracks/1tkg4EHVoqnhR6iFEXb60y"
 },{
   "_id": {
     "$oid": "60f79091a24480877399e2fd"
   },
-  "Artist Name": "Jamie Miller",
-  "Track Name": "Here's Your Perfect",
+  "ArtistName": "Jamie Miller",
+  "TrackName": "Here's Your Perfect",
   "Danceability": 0.558,
   "Energy": 0.454,
   "Key": 0.146,
@@ -2285,13 +2285,13 @@
   "Liveness": 0.146,
   "Valence": 0.424,
   "Tempo": 113.12,
-  "Track Reference": "https://api.spotify.com/v1/tracks/2aTKrdenCq5qBOoJPFdn4P"
+  "TrackReference": "https://api.spotify.com/v1/tracks/2aTKrdenCq5qBOoJPFdn4P"
 },{
   "_id": {
     "$oid": "60f79091a24480877399e2fe"
   },
-  "Artist Name": "Ofenbach",
-  "Track Name": "Wasted Love (feat. Lagique)",
+  "ArtistName": "Ofenbach",
+  "TrackName": "Wasted Love (feat. Lagique)",
   "Danceability": 0.734,
   "Energy": 0.855,
   "Key": 0.0901,
@@ -2301,13 +2301,13 @@
   "Liveness": 0.0901,
   "Valence": 0.54,
   "Tempo": 121.955,
-  "Track Reference": "https://api.spotify.com/v1/tracks/2pPO9YecZimmuVQfIzfV6U"
+  "TrackReference": "https://api.spotify.com/v1/tracks/2pPO9YecZimmuVQfIzfV6U"
 },{
   "_id": {
     "$oid": "60f79091a24480877399e2ff"
   },
-  "Artist Name": "OneRepublic",
-  "Track Name": "Counting Stars",
+  "ArtistName": "OneRepublic",
+  "TrackName": "Counting Stars",
   "Danceability": 0.664,
   "Energy": 0.705,
   "Key": 0.118,
@@ -2317,13 +2317,13 @@
   "Liveness": 0.118,
   "Valence": 0.477,
   "Tempo": 122.016,
-  "Track Reference": "https://api.spotify.com/v1/tracks/2tpWsVSb9UEmDRxAl1zhX1"
+  "TrackReference": "https://api.spotify.com/v1/tracks/2tpWsVSb9UEmDRxAl1zhX1"
 },{
   "_id": {
     "$oid": "60f79091a24480877399e300"
   },
-  "Artist Name": "Lil Tjay",
-  "Track Name": "Calling My Phone",
+  "ArtistName": "Lil Tjay",
+  "TrackName": "Calling My Phone",
   "Danceability": 0.907,
   "Energy": 0.393,
   "Key": 0.135,
@@ -2333,13 +2333,13 @@
   "Liveness": 0.135,
   "Valence": 0.202,
   "Tempo": 104.949,
-  "Track Reference": "https://api.spotify.com/v1/tracks/3J8EOeKLTLXORtWPpOU5bE"
+  "TrackReference": "https://api.spotify.com/v1/tracks/3J8EOeKLTLXORtWPpOU5bE"
 },{
   "_id": {
     "$oid": "60f79091a24480877399e301"
   },
-  "Artist Name": "Cochise",
-  "Track Name": "Tell Em",
+  "ArtistName": "Cochise",
+  "TrackName": "Tell Em",
   "Danceability": 0.672,
   "Energy": 0.717,
   "Key": 0.398,
@@ -2349,13 +2349,13 @@
   "Liveness": 0.398,
   "Valence": 0.473,
   "Tempo": 157.905,
-  "Track Reference": "https://api.spotify.com/v1/tracks/7nc7mlSdWYeFom84zZ8Wr8"
+  "TrackReference": "https://api.spotify.com/v1/tracks/7nc7mlSdWYeFom84zZ8Wr8"
 },{
   "_id": {
     "$oid": "60f79091a24480877399e302"
   },
-  "Artist Name": "Maluma",
-  "Track Name": "Hawái",
+  "ArtistName": "Maluma",
+  "TrackName": "Hawái",
   "Danceability": 0.783,
   "Energy": 0.727,
   "Key": 0.0626,
@@ -2365,13 +2365,13 @@
   "Liveness": 0.0626,
   "Valence": 0.558,
   "Tempo": 180.067,
-  "Track Reference": "https://api.spotify.com/v1/tracks/1yoMvmasuxZfqHEipJhRbp"
+  "TrackReference": "https://api.spotify.com/v1/tracks/1yoMvmasuxZfqHEipJhRbp"
 },{
   "_id": {
     "$oid": "60f79092a24480877399e303"
   },
-  "Artist Name": "Travis Scott",
-  "Track Name": "goosebumps",
+  "ArtistName": "Travis Scott",
+  "TrackName": "goosebumps",
   "Danceability": 0.841,
   "Energy": 0.728,
   "Key": 0.149,
@@ -2381,13 +2381,13 @@
   "Liveness": 0.149,
   "Valence": 0.43,
   "Tempo": 130.049,
-  "Track Reference": "https://api.spotify.com/v1/tracks/6gBFPUFcJLzWGx4lenP6h2"
+  "TrackReference": "https://api.spotify.com/v1/tracks/6gBFPUFcJLzWGx4lenP6h2"
 },{
   "_id": {
     "$oid": "60f79092a24480877399e304"
   },
-  "Artist Name": "Pashanim",
-  "Track Name": "Sommergewitter",
+  "ArtistName": "Pashanim",
+  "TrackName": "Sommergewitter",
   "Danceability": 0.787,
   "Energy": 0.531,
   "Key": 0.112,
@@ -2397,13 +2397,13 @@
   "Liveness": 0.112,
   "Valence": 0.721,
   "Tempo": 91.996,
-  "Track Reference": "https://api.spotify.com/v1/tracks/2H7jZg2HliuQhZjfBblLrZ"
+  "TrackReference": "https://api.spotify.com/v1/tracks/2H7jZg2HliuQhZjfBblLrZ"
 },{
   "_id": {
     "$oid": "60f79092a24480877399e305"
   },
-  "Artist Name": "Tyler, The Creator",
-  "Track Name": "WUSYANAME (feat. Youngboy Never Broke Again & Ty Dolla $ign)",
+  "ArtistName": "Tyler, The Creator",
+  "TrackName": "WUSYANAME (feat. Youngboy Never Broke Again & Ty Dolla $ign)",
   "Danceability": 0.493,
   "Energy": 0.653,
   "Key": 0.511,
@@ -2413,13 +2413,13 @@
   "Liveness": 0.511,
   "Valence": 0.852,
   "Tempo": 142.347,
-  "Track Reference": "https://api.spotify.com/v1/tracks/5B0kgjHULYJhAQkK5XsMoC"
+  "TrackReference": "https://api.spotify.com/v1/tracks/5B0kgjHULYJhAQkK5XsMoC"
 },{
   "_id": {
     "$oid": "60f79092a24480877399e306"
   },
-  "Artist Name": "P!nk",
-  "Track Name": "Cover Me In Sunshine",
+  "ArtistName": "P!nk",
+  "TrackName": "Cover Me In Sunshine",
   "Danceability": 0.473,
   "Energy": 0.592,
   "Key": 0.131,
@@ -2429,13 +2429,13 @@
   "Liveness": 0.131,
   "Valence": 0.292,
   "Tempo": 159.7,
-  "Track Reference": "https://api.spotify.com/v1/tracks/0UKUfxIkDAMZz7hMdiVX3m"
+  "TrackReference": "https://api.spotify.com/v1/tracks/0UKUfxIkDAMZz7hMdiVX3m"
 },{
   "_id": {
     "$oid": "60f79093a24480877399e307"
   },
-  "Artist Name": "James Arthur",
-  "Track Name": "Say You Won't Let Go",
+  "ArtistName": "James Arthur",
+  "TrackName": "Say You Won't Let Go",
   "Danceability": 0.358,
   "Energy": 0.557,
   "Key": 0.0902,
@@ -2445,13 +2445,13 @@
   "Liveness": 0.0902,
   "Valence": 0.494,
   "Tempo": 85.043,
-  "Track Reference": "https://api.spotify.com/v1/tracks/5uCax9HTNlzGybIStD3vDh"
+  "TrackReference": "https://api.spotify.com/v1/tracks/5uCax9HTNlzGybIStD3vDh"
 },{
   "_id": {
     "$oid": "60f79093a24480877399e308"
   },
-  "Artist Name": "Avicii",
-  "Track Name": "Wake Me Up",
+  "ArtistName": "Avicii",
+  "TrackName": "Wake Me Up",
   "Danceability": 0.532,
   "Energy": 0.783,
   "Key": 0.161,
@@ -2461,13 +2461,13 @@
   "Liveness": 0.161,
   "Valence": 0.643,
   "Tempo": 124.08,
-  "Track Reference": "https://api.spotify.com/v1/tracks/0nrRP2bk19rLc0orkWPQk2"
+  "TrackReference": "https://api.spotify.com/v1/tracks/0nrRP2bk19rLc0orkWPQk2"
 },{
   "_id": {
     "$oid": "60f79093a24480877399e309"
   },
-  "Artist Name": "Juice WRLD",
-  "Track Name": "Lucid Dreams",
+  "ArtistName": "Juice WRLD",
+  "TrackName": "Lucid Dreams",
   "Danceability": 0.511,
   "Energy": 0.566,
   "Key": 0.34,
@@ -2477,13 +2477,13 @@
   "Liveness": 0.34,
   "Valence": 0.218,
   "Tempo": 83.903,
-  "Track Reference": "https://api.spotify.com/v1/tracks/285pBltuF7vW8TeWk8hdRR"
+  "TrackReference": "https://api.spotify.com/v1/tracks/285pBltuF7vW8TeWk8hdRR"
 },{
   "_id": {
     "$oid": "60f79093a24480877399e30a"
   },
-  "Artist Name": "Ariana Grande",
-  "Track Name": "34+35",
+  "ArtistName": "Ariana Grande",
+  "TrackName": "34+35",
   "Danceability": 0.83,
   "Energy": 0.585,
   "Key": 0.248,
@@ -2493,13 +2493,13 @@
   "Liveness": 0.248,
   "Valence": 0.485,
   "Tempo": 109.978,
-  "Track Reference": "https://api.spotify.com/v1/tracks/6Im9k8u9iIzKMrmV7BWtlF"
+  "TrackReference": "https://api.spotify.com/v1/tracks/6Im9k8u9iIzKMrmV7BWtlF"
 },{
   "_id": {
     "$oid": "60f79094a24480877399e30b"
   },
-  "Artist Name": "Pop Smoke",
-  "Track Name": "For The Night (feat. Lil Baby & DaBaby)",
+  "ArtistName": "Pop Smoke",
+  "TrackName": "For The Night (feat. Lil Baby & DaBaby)",
   "Danceability": 0.823,
   "Energy": 0.586,
   "Key": 0.193,
@@ -2509,13 +2509,13 @@
   "Liveness": 0.193,
   "Valence": 0.347,
   "Tempo": 125.971,
-  "Track Reference": "https://api.spotify.com/v1/tracks/0PvFJmanyNQMseIFrU708S"
+  "TrackReference": "https://api.spotify.com/v1/tracks/0PvFJmanyNQMseIFrU708S"
 },{
   "_id": {
     "$oid": "60f79094a24480877399e30c"
   },
-  "Artist Name": "Lady Gaga",
-  "Track Name": "Shallow",
+  "ArtistName": "Lady Gaga",
+  "TrackName": "Shallow",
   "Danceability": 0.572,
   "Energy": 0.385,
   "Key": 0.231,
@@ -2525,13 +2525,13 @@
   "Liveness": 0.231,
   "Valence": 0.323,
   "Tempo": 95.799,
-  "Track Reference": "https://api.spotify.com/v1/tracks/2VxeLyX666F8uXCJ0dZF8B"
+  "TrackReference": "https://api.spotify.com/v1/tracks/2VxeLyX666F8uXCJ0dZF8B"
 },{
   "_id": {
     "$oid": "60f79094a24480877399e30d"
   },
-  "Artist Name": "Pop Smoke",
-  "Track Name": "Coupe",
+  "ArtistName": "Pop Smoke",
+  "TrackName": "Coupe",
   "Danceability": 0.912,
   "Energy": 0.589,
   "Key": 0.0795,
@@ -2541,13 +2541,13 @@
   "Liveness": 0.0795,
   "Valence": 0.486,
   "Tempo": 135.921,
-  "Track Reference": "https://api.spotify.com/v1/tracks/4wNKxMbE3n1gRm4F6OaCP1"
+  "TrackReference": "https://api.spotify.com/v1/tracks/4wNKxMbE3n1gRm4F6OaCP1"
 },{
   "_id": {
     "$oid": "60f79094a24480877399e30e"
   },
-  "Artist Name": "Coldplay",
-  "Track Name": "Yellow",
+  "ArtistName": "Coldplay",
+  "TrackName": "Yellow",
   "Danceability": 0.429,
   "Energy": 0.661,
   "Key": 0.234,
@@ -2557,13 +2557,13 @@
   "Liveness": 0.234,
   "Valence": 0.285,
   "Tempo": 173.372,
-  "Track Reference": "https://api.spotify.com/v1/tracks/3AJwUDP919kvQ9QcozQPxg"
+  "TrackReference": "https://api.spotify.com/v1/tracks/3AJwUDP919kvQ9QcozQPxg"
 },{
   "_id": {
     "$oid": "60f79094a24480877399e30f"
   },
-  "Artist Name": "Queen",
-  "Track Name": "Bohemian Rhapsody - Remastered 2011",
+  "ArtistName": "Queen",
+  "TrackName": "Bohemian Rhapsody - Remastered 2011",
   "Danceability": 0.414,
   "Energy": 0.404,
   "Key": 0.3,
@@ -2573,13 +2573,13 @@
   "Liveness": 0.3,
   "Valence": 0.224,
   "Tempo": 71.105,
-  "Track Reference": "https://api.spotify.com/v1/tracks/4u7EnebtmKWzUH433cf5Qv"
+  "TrackReference": "https://api.spotify.com/v1/tracks/4u7EnebtmKWzUH433cf5Qv"
 },{
   "_id": {
     "$oid": "60f79095a24480877399e310"
   },
-  "Artist Name": "DaBaby",
-  "Track Name": "Ball If I Want To",
+  "ArtistName": "DaBaby",
+  "TrackName": "Ball If I Want To",
   "Danceability": 0.902,
   "Energy": 0.669,
   "Key": 0.0728,
@@ -2589,13 +2589,13 @@
   "Liveness": 0.0728,
   "Valence": 0.628,
   "Tempo": 139.949,
-  "Track Reference": "https://api.spotify.com/v1/tracks/0cu0rhnlCnJ7JIeHRiLpj3"
+  "TrackReference": "https://api.spotify.com/v1/tracks/0cu0rhnlCnJ7JIeHRiLpj3"
 },{
   "_id": {
     "$oid": "60f79095a24480877399e311"
   },
-  "Artist Name": "Roddy Ricch",
-  "Track Name": "Late At Night",
+  "ArtistName": "Roddy Ricch",
+  "TrackName": "Late At Night",
   "Danceability": 0.643,
   "Energy": 0.403,
   "Key": 0.138,
@@ -2605,13 +2605,13 @@
   "Liveness": 0.138,
   "Valence": 0.111,
   "Tempo": 98.54,
-  "Track Reference": "https://api.spotify.com/v1/tracks/1fxYz1s15pyZLsJT0Hdh1m"
+  "TrackReference": "https://api.spotify.com/v1/tracks/1fxYz1s15pyZLsJT0Hdh1m"
 },{
   "_id": {
     "$oid": "60f79095a24480877399e312"
   },
-  "Artist Name": "Billie Eilish",
-  "Track Name": "bad guy",
+  "ArtistName": "Billie Eilish",
+  "TrackName": "bad guy",
   "Danceability": 0.701,
   "Energy": 0.425,
   "Key": 0.1,
@@ -2621,13 +2621,13 @@
   "Liveness": 0.1,
   "Valence": 0.562,
   "Tempo": 135.128,
-  "Track Reference": "https://api.spotify.com/v1/tracks/2Fxmhks0bxGSBdJ92vM42m"
+  "TrackReference": "https://api.spotify.com/v1/tracks/2Fxmhks0bxGSBdJ92vM42m"
 },{
   "_id": {
     "$oid": "60f79095a24480877399e313"
   },
-  "Artist Name": "Harry Styles",
-  "Track Name": "Adore You",
+  "ArtistName": "Harry Styles",
+  "TrackName": "Adore You",
   "Danceability": 0.676,
   "Energy": 0.771,
   "Key": 0.102,
@@ -2637,13 +2637,13 @@
   "Liveness": 0.102,
   "Valence": 0.569,
   "Tempo": 99.048,
-  "Track Reference": "https://api.spotify.com/v1/tracks/3jjujdWJ72nww5eGnfs2E7"
+  "TrackReference": "https://api.spotify.com/v1/tracks/3jjujdWJ72nww5eGnfs2E7"
 },{
   "_id": {
     "$oid": "60f79095a24480877399e314"
   },
-  "Artist Name": "Powfu",
-  "Track Name": "death bed (coffee for your head)",
+  "ArtistName": "Powfu",
+  "TrackName": "death bed (coffee for your head)",
   "Danceability": 0.726,
   "Energy": 0.431,
   "Key": 0.696,
@@ -2653,13 +2653,13 @@
   "Liveness": 0.696,
   "Valence": 0.348,
   "Tempo": 144.026,
-  "Track Reference": "https://api.spotify.com/v1/tracks/7eJMfftS33KTjuF7lTsMCx"
+  "TrackReference": "https://api.spotify.com/v1/tracks/7eJMfftS33KTjuF7lTsMCx"
 },{
   "_id": {
     "$oid": "60f79095a24480877399e315"
   },
-  "Artist Name": "The Killers",
-  "Track Name": "Mr. Brightside",
+  "ArtistName": "The Killers",
+  "TrackName": "Mr. Brightside",
   "Danceability": 0.352,
   "Energy": 0.911,
   "Key": 0.0995,
@@ -2669,13 +2669,13 @@
   "Liveness": 0.0995,
   "Valence": 0.236,
   "Tempo": 148.033,
-  "Track Reference": "https://api.spotify.com/v1/tracks/003vvx7Niy0yvhvHt4a68B"
+  "TrackReference": "https://api.spotify.com/v1/tracks/003vvx7Niy0yvhvHt4a68B"
 },{
   "_id": {
     "$oid": "60f79096a24480877399e316"
   },
-  "Artist Name": "SZA",
-  "Track Name": "Good Days",
+  "ArtistName": "SZA",
+  "TrackName": "Good Days",
   "Danceability": 0.436,
   "Energy": 0.655,
   "Key": 0.688,
@@ -2685,13 +2685,13 @@
   "Liveness": 0.688,
   "Valence": 0.412,
   "Tempo": 121.002,
-  "Track Reference": "https://api.spotify.com/v1/tracks/3YJJjQPAbDT7mGpX3WtQ9A"
+  "TrackReference": "https://api.spotify.com/v1/tracks/3YJJjQPAbDT7mGpX3WtQ9A"
 },{
   "_id": {
     "$oid": "60f79096a24480877399e317"
   },
-  "Artist Name": "Cardi B",
-  "Track Name": "WAP (feat. Megan Thee Stallion)",
+  "ArtistName": "Cardi B",
+  "TrackName": "WAP (feat. Megan Thee Stallion)",
   "Danceability": 0.935,
   "Energy": 0.454,
   "Key": 0.0824,
@@ -2701,13 +2701,13 @@
   "Liveness": 0.0824,
   "Valence": 0.357,
   "Tempo": 133.073,
-  "Track Reference": "https://api.spotify.com/v1/tracks/4Oun2ylbjFKMPTiaSbbCih"
+  "TrackReference": "https://api.spotify.com/v1/tracks/4Oun2ylbjFKMPTiaSbbCih"
 },{
   "_id": {
     "$oid": "60f79096a24480877399e318"
   },
-  "Artist Name": "Pop Smoke",
-  "Track Name": "Dior",
+  "ArtistName": "Pop Smoke",
+  "TrackName": "Dior",
   "Danceability": 0.548,
   "Energy": 0.805,
   "Key": 0.408,
@@ -2717,13 +2717,13 @@
   "Liveness": 0.408,
   "Valence": 0.648,
   "Tempo": 142.094,
-  "Track Reference": "https://api.spotify.com/v1/tracks/79s5XnCN4TJKTVMSmOx8Ep"
+  "TrackReference": "https://api.spotify.com/v1/tracks/79s5XnCN4TJKTVMSmOx8Ep"
 },{
   "_id": {
     "$oid": "60f79096a24480877399e319"
   },
-  "Artist Name": "Tion Wayne",
-  "Track Name": "Body (Remix) [feat. ArrDee, E1 (3x3), ZT (3x3), Bugzy Malone, Buni, Fivio Foreign & Darkoo]",
+  "ArtistName": "Tion Wayne",
+  "TrackName": "Body (Remix) [feat. ArrDee, E1 (3x3), ZT (3x3), Bugzy Malone, Buni, Fivio Foreign & Darkoo]",
   "Danceability": 0.883,
   "Energy": 0.674,
   "Key": 0.0678,
@@ -2733,13 +2733,13 @@
   "Liveness": 0.0678,
   "Valence": 0.73,
   "Tempo": 141.02,
-  "Track Reference": "https://api.spotify.com/v1/tracks/6uvMKqNlrSvcC4NaKnrwjZ"
+  "TrackReference": "https://api.spotify.com/v1/tracks/6uvMKqNlrSvcC4NaKnrwjZ"
 },{
   "_id": {
     "$oid": "60f79096a24480877399e31a"
   },
-  "Artist Name": "The Police",
-  "Track Name": "Every Breath You Take",
+  "ArtistName": "The Police",
+  "TrackName": "Every Breath You Take",
   "Danceability": 0.82,
   "Energy": 0.452,
   "Key": 0.0714,
@@ -2749,13 +2749,13 @@
   "Liveness": 0.0714,
   "Valence": 0.74,
   "Tempo": 117.401,
-  "Track Reference": "https://api.spotify.com/v1/tracks/1JSTJqkT5qHq8MDJnJbRE1"
+  "TrackReference": "https://api.spotify.com/v1/tracks/1JSTJqkT5qHq8MDJnJbRE1"
 },{
   "_id": {
     "$oid": "60f79097a24480877399e31b"
   },
-  "Artist Name": "Fleetwood Mac",
-  "Track Name": "Dreams - 2004 Remaster",
+  "ArtistName": "Fleetwood Mac",
+  "TrackName": "Dreams - 2004 Remaster",
   "Danceability": 0.828,
   "Energy": 0.492,
   "Key": 0.128,
@@ -2765,13 +2765,13 @@
   "Liveness": 0.128,
   "Valence": 0.789,
   "Tempo": 120.151,
-  "Track Reference": "https://api.spotify.com/v1/tracks/0ofHAoxe9vBkTCp2UQIavz"
+  "TrackReference": "https://api.spotify.com/v1/tracks/0ofHAoxe9vBkTCp2UQIavz"
 },{
   "_id": {
     "$oid": "60f79097a24480877399e31c"
   },
-  "Artist Name": "Polo G",
-  "Track Name": "Martin & Gina",
+  "ArtistName": "Polo G",
+  "TrackName": "Martin & Gina",
   "Danceability": 0.832,
   "Energy": 0.534,
   "Key": 0.165,
@@ -2781,13 +2781,13 @@
   "Liveness": 0.165,
   "Valence": 0.116,
   "Tempo": 93.924,
-  "Track Reference": "https://api.spotify.com/v1/tracks/1VLtjHwRWOVJiE5Py7JxoQ"
+  "TrackReference": "https://api.spotify.com/v1/tracks/1VLtjHwRWOVJiE5Py7JxoQ"
 },{
   "_id": {
     "$oid": "60f79097a24480877399e31d"
   },
-  "Artist Name": "Billie Eilish",
-  "Track Name": "Lost Cause",
+  "ArtistName": "Billie Eilish",
+  "TrackName": "Lost Cause",
   "Danceability": 0.671,
   "Energy": 0.336,
   "Key": 0.0577,
@@ -2797,13 +2797,13 @@
   "Liveness": 0.0577,
   "Valence": 0.518,
   "Tempo": 75.051,
-  "Track Reference": "https://api.spotify.com/v1/tracks/2xdwCJLfKCkat14mlgR26M"
+  "TrackReference": "https://api.spotify.com/v1/tracks/2xdwCJLfKCkat14mlgR26M"
 },{
   "_id": {
     "$oid": "60f79097a24480877399e31e"
   },
-  "Artist Name": "Imagine Dragons",
-  "Track Name": "Wrecked",
+  "ArtistName": "Imagine Dragons",
+  "TrackName": "Wrecked",
   "Danceability": 0.626,
   "Energy": 0.56,
   "Key": 0.109,
@@ -2813,13 +2813,13 @@
   "Liveness": 0.109,
   "Valence": 0.229,
   "Tempo": 93.989,
-  "Track Reference": "https://api.spotify.com/v1/tracks/2d1MywHy6FwKdzxFuSJnwl"
+  "TrackReference": "https://api.spotify.com/v1/tracks/2d1MywHy6FwKdzxFuSJnwl"
 },{
   "_id": {
     "$oid": "60f79097a24480877399e31f"
   },
-  "Artist Name": "John Legend",
-  "Track Name": "All of Me",
+  "ArtistName": "John Legend",
+  "TrackName": "All of Me",
   "Danceability": 0.422,
   "Energy": 0.264,
   "Key": 0.132,
@@ -2829,13 +2829,13 @@
   "Liveness": 0.132,
   "Valence": 0.331,
   "Tempo": 119.93,
-  "Track Reference": "https://api.spotify.com/v1/tracks/3U4isOIWM3VvDubwSI3y7a"
+  "TrackReference": "https://api.spotify.com/v1/tracks/3U4isOIWM3VvDubwSI3y7a"
 },{
   "_id": {
     "$oid": "60f79098a24480877399e320"
   },
-  "Artist Name": "Pop Smoke",
-  "Track Name": "More Time",
+  "ArtistName": "Pop Smoke",
+  "TrackName": "More Time",
   "Danceability": 0.628,
   "Energy": 0.581,
   "Key": 0.152,
@@ -2845,13 +2845,13 @@
   "Liveness": 0.152,
   "Valence": 0.259,
   "Tempo": 145.396,
-  "Track Reference": "https://api.spotify.com/v1/tracks/2wzionesqIt3x5Sglb4n91"
+  "TrackReference": "https://api.spotify.com/v1/tracks/2wzionesqIt3x5Sglb4n91"
 },{
   "_id": {
     "$oid": "60f79098a24480877399e321"
   },
-  "Artist Name": "BLANCO",
-  "Track Name": "MI FAI IMPAZZIRE",
+  "ArtistName": "BLANCO",
+  "TrackName": "MI FAI IMPAZZIRE",
   "Danceability": 0.477,
   "Energy": 0.844,
   "Key": 0.137,
@@ -2861,13 +2861,13 @@
   "Liveness": 0.137,
   "Valence": 0.203,
   "Tempo": 169.941,
-  "Track Reference": "https://api.spotify.com/v1/tracks/1x3Qb8np6S1UvpSLthwEJN"
+  "TrackReference": "https://api.spotify.com/v1/tracks/1x3Qb8np6S1UvpSLthwEJN"
 },{
   "_id": {
     "$oid": "60f79098a24480877399e322"
   },
-  "Artist Name": "Internet Money",
-  "Track Name": "His & Hers (feat. Don Toliver, Lil Uzi Vert & Gunna)",
+  "ArtistName": "Internet Money",
+  "TrackName": "His & Hers (feat. Don Toliver, Lil Uzi Vert & Gunna)",
   "Danceability": 0.792,
   "Energy": 0.707,
   "Key": 0.12,
@@ -2877,13 +2877,13 @@
   "Liveness": 0.12,
   "Valence": 0.408,
   "Tempo": 134.997,
-  "Track Reference": "https://api.spotify.com/v1/tracks/2IePEfMAtqWS6rLXXFZIgI"
+  "TrackReference": "https://api.spotify.com/v1/tracks/2IePEfMAtqWS6rLXXFZIgI"
 },{
   "_id": {
     "$oid": "60f79098a24480877399e323"
   },
-  "Artist Name": "Topic",
-  "Track Name": "Breaking Me",
+  "ArtistName": "Topic",
+  "TrackName": "Breaking Me",
   "Danceability": 0.789,
   "Energy": 0.72,
   "Key": 0.129,
@@ -2893,13 +2893,13 @@
   "Liveness": 0.129,
   "Valence": 0.664,
   "Tempo": 122.031,
-  "Track Reference": "https://api.spotify.com/v1/tracks/3H7ihDc1dqLriiWXwsc2po"
+  "TrackReference": "https://api.spotify.com/v1/tracks/3H7ihDc1dqLriiWXwsc2po"
 },{
   "_id": {
     "$oid": "60f79098a24480877399e324"
   },
-  "Artist Name": "Drake",
-  "Track Name": "One Dance",
+  "ArtistName": "Drake",
+  "TrackName": "One Dance",
   "Danceability": 0.792,
   "Energy": 0.625,
   "Key": 0.329,
@@ -2909,13 +2909,13 @@
   "Liveness": 0.329,
   "Valence": 0.37,
   "Tempo": 103.967,
-  "Track Reference": "https://api.spotify.com/v1/tracks/1zi7xx7UVEFkmKfv06H8x0"
+  "TrackReference": "https://api.spotify.com/v1/tracks/1zi7xx7UVEFkmKfv06H8x0"
 },{
   "_id": {
     "$oid": "60f79099a24480877399e325"
   },
-  "Artist Name": "Saweetie",
-  "Track Name": "Best Friend (feat. Doja Cat)",
+  "ArtistName": "Saweetie",
+  "TrackName": "Best Friend (feat. Doja Cat)",
   "Danceability": 0.84,
   "Energy": 0.766,
   "Key": 0.0684,
@@ -2925,13 +2925,13 @@
   "Liveness": 0.0684,
   "Valence": 0.402,
   "Tempo": 94.018,
-  "Track Reference": "https://api.spotify.com/v1/tracks/20BOju91NaEFK5Py4VJ2pp"
+  "TrackReference": "https://api.spotify.com/v1/tracks/20BOju91NaEFK5Py4VJ2pp"
 },{
   "_id": {
     "$oid": "60f79099a24480877399e326"
   },
-  "Artist Name": "Olivia Rodrigo",
-  "Track Name": "hope ur ok",
+  "ArtistName": "Olivia Rodrigo",
+  "TrackName": "hope ur ok",
   "Danceability": 0.443,
   "Energy": 0.298,
   "Key": 0.103,
@@ -2941,13 +2941,13 @@
   "Liveness": 0.103,
   "Valence": 0.172,
   "Tempo": 77.253,
-  "Track Reference": "https://api.spotify.com/v1/tracks/1zejeOnykpCoyVSit6Bwp3"
+  "TrackReference": "https://api.spotify.com/v1/tracks/1zejeOnykpCoyVSit6Bwp3"
 },{
   "_id": {
     "$oid": "60f79099a24480877399e327"
   },
-  "Artist Name": "Sarah Cothran",
-  "Track Name": "As the World Caves In",
+  "ArtistName": "Sarah Cothran",
+  "TrackName": "As the World Caves In",
   "Danceability": 0.372,
   "Energy": 0.255,
   "Key": 0.33,
@@ -2957,13 +2957,13 @@
   "Liveness": 0.33,
   "Valence": 0.254,
   "Tempo": 114.402,
-  "Track Reference": "https://api.spotify.com/v1/tracks/7LAmsNJpBaNvNg7VZPXxSv"
+  "TrackReference": "https://api.spotify.com/v1/tracks/7LAmsNJpBaNvNg7VZPXxSv"
 },{
   "_id": {
     "$oid": "60f79099a24480877399e328"
   },
-  "Artist Name": "Nio Garcia",
-  "Track Name": "AM",
+  "ArtistName": "Nio Garcia",
+  "TrackName": "AM",
   "Danceability": 0.83,
   "Energy": 0.517,
   "Key": 0.0916,
@@ -2973,13 +2973,13 @@
   "Liveness": 0.0916,
   "Valence": 0.616,
   "Tempo": 171.959,
-  "Track Reference": "https://api.spotify.com/v1/tracks/2dNhNlpZAtV4lwAFW45LIv"
+  "TrackReference": "https://api.spotify.com/v1/tracks/2dNhNlpZAtV4lwAFW45LIv"
 },{
   "_id": {
     "$oid": "60f79099a24480877399e329"
   },
-  "Artist Name": "Regard",
-  "Track Name": "Ride It",
+  "ArtistName": "Regard",
+  "TrackName": "Ride It",
   "Danceability": 0.88,
   "Energy": 0.751,
   "Key": 0.106,
@@ -2989,13 +2989,13 @@
   "Liveness": 0.106,
   "Valence": 0.884,
   "Tempo": 117.948,
-  "Track Reference": "https://api.spotify.com/v1/tracks/2tnVG71enUj33Ic2nFN6kZ"
+  "TrackReference": "https://api.spotify.com/v1/tracks/2tnVG71enUj33Ic2nFN6kZ"
 },{
   "_id": {
     "$oid": "60f7909aa24480877399e32a"
   },
-  "Artist Name": "Imagine Dragons",
-  "Track Name": "Follow You",
+  "ArtistName": "Imagine Dragons",
+  "TrackName": "Follow You",
   "Danceability": 0.542,
   "Energy": 0.732,
   "Key": 0.496,
@@ -3005,13 +3005,13 @@
   "Liveness": 0.496,
   "Valence": 0.489,
   "Tempo": 124.912,
-  "Track Reference": "https://api.spotify.com/v1/tracks/7FdUvDkaE24o3FPIWTvzv2"
+  "TrackReference": "https://api.spotify.com/v1/tracks/7FdUvDkaE24o3FPIWTvzv2"
 },{
   "_id": {
     "$oid": "60f7909aa24480877399e32b"
   },
-  "Artist Name": "Luan Santana",
-  "Track Name": "MORENA",
+  "ArtistName": "Luan Santana",
+  "TrackName": "MORENA",
   "Danceability": 0.526,
   "Energy": 0.731,
   "Key": 0.0891,
@@ -3021,13 +3021,13 @@
   "Liveness": 0.0891,
   "Valence": 0.476,
   "Tempo": 86.959,
-  "Track Reference": "https://api.spotify.com/v1/tracks/4PQdrXMDHDPl1RczrrlADd"
+  "TrackReference": "https://api.spotify.com/v1/tracks/4PQdrXMDHDPl1RczrrlADd"
 },{
   "_id": {
     "$oid": "60f7909aa24480877399e32c"
   },
-  "Artist Name": "Pop Smoke",
-  "Track Name": "Genius (feat. Lil Tjay & Swae Lee)",
+  "ArtistName": "Pop Smoke",
+  "TrackName": "Genius (feat. Lil Tjay & Swae Lee)",
   "Danceability": 0.723,
   "Energy": 0.667,
   "Key": 0.261,
@@ -3037,13 +3037,13 @@
   "Liveness": 0.261,
   "Valence": 0.396,
   "Tempo": 143.044,
-  "Track Reference": "https://api.spotify.com/v1/tracks/0kNYrbMehFxp1eleTwUjkP"
+  "TrackReference": "https://api.spotify.com/v1/tracks/0kNYrbMehFxp1eleTwUjkP"
 },{
   "_id": {
     "$oid": "60f7909aa24480877399e32d"
   },
-  "Artist Name": "Ariana Grande",
-  "Track Name": "7 rings",
+  "ArtistName": "Ariana Grande",
+  "TrackName": "7 rings",
   "Danceability": 0.778,
   "Energy": 0.317,
   "Key": 0.0881,
@@ -3053,13 +3053,13 @@
   "Liveness": 0.0881,
   "Valence": 0.327,
   "Tempo": 140.048,
-  "Track Reference": "https://api.spotify.com/v1/tracks/6ocbgoVGwYJhOv1GgI9NsF"
+  "TrackReference": "https://api.spotify.com/v1/tracks/6ocbgoVGwYJhOv1GgI9NsF"
 },{
   "_id": {
     "$oid": "60f7909aa24480877399e32e"
   },
-  "Artist Name": "Doja Cat",
-  "Track Name": "Woman",
+  "ArtistName": "Doja Cat",
+  "TrackName": "Woman",
   "Danceability": 0.824,
   "Energy": 0.764,
   "Key": 0.117,
@@ -3069,13 +3069,13 @@
   "Liveness": 0.117,
   "Valence": 0.881,
   "Tempo": 107.998,
-  "Track Reference": "https://api.spotify.com/v1/tracks/6Uj1ctrBOjOas8xZXGqKk4"
+  "TrackReference": "https://api.spotify.com/v1/tracks/6Uj1ctrBOjOas8xZXGqKk4"
 },{
   "_id": {
     "$oid": "60f7909ba24480877399e32f"
   },
-  "Artist Name": "Mari Fernandez",
-  "Track Name": "Não, Não Vou",
+  "ArtistName": "Mari Fernandez",
+  "TrackName": "Não, Não Vou",
   "Danceability": 0.631,
   "Energy": 0.861,
   "Key": 0.215,
@@ -3085,13 +3085,13 @@
   "Liveness": 0.215,
   "Valence": 0.822,
   "Tempo": 149.95,
-  "Track Reference": "https://api.spotify.com/v1/tracks/0xBQvhJAm6f7J142ympKOn"
+  "TrackReference": "https://api.spotify.com/v1/tracks/0xBQvhJAm6f7J142ympKOn"
 },{
   "_id": {
     "$oid": "60f7909ba24480877399e330"
   },
-  "Artist Name": "Queen",
-  "Track Name": "Another One Bites The Dust - Remastered 2011",
+  "ArtistName": "Queen",
+  "TrackName": "Another One Bites The Dust - Remastered 2011",
   "Danceability": 0.933,
   "Energy": 0.528,
   "Key": 0.163,
@@ -3101,13 +3101,13 @@
   "Liveness": 0.163,
   "Valence": 0.754,
   "Tempo": 109.967,
-  "Track Reference": "https://api.spotify.com/v1/tracks/5vdp5UmvTsnMEMESIF2Ym7"
+  "TrackReference": "https://api.spotify.com/v1/tracks/5vdp5UmvTsnMEMESIF2Ym7"
 },{
   "_id": {
     "$oid": "60f7909ba24480877399e331"
   },
-  "Artist Name": "BTS",
-  "Track Name": "Life Goes On",
+  "ArtistName": "BTS",
+  "TrackName": "Life Goes On",
   "Danceability": 0.566,
   "Energy": 0.716,
   "Key": 0.37,
@@ -3117,13 +3117,13 @@
   "Liveness": 0.37,
   "Valence": 0.45,
   "Tempo": 81.068,
-  "Track Reference": "https://api.spotify.com/v1/tracks/249gnXrbfmV8NG6jTEMSwD"
+  "TrackReference": "https://api.spotify.com/v1/tracks/249gnXrbfmV8NG6jTEMSwD"
 },{
   "_id": {
     "$oid": "60f7909ba24480877399e332"
   },
-  "Artist Name": "Pop Smoke",
-  "Track Name": "Manslaughter (feat. Rick Ross & The-Dream)",
+  "ArtistName": "Pop Smoke",
+  "TrackName": "Manslaughter (feat. Rick Ross & The-Dream)",
   "Danceability": 0.441,
   "Energy": 0.623,
   "Key": 0.14,
@@ -3133,13 +3133,13 @@
   "Liveness": 0.14,
   "Valence": 0.285,
   "Tempo": 78.082,
-  "Track Reference": "https://api.spotify.com/v1/tracks/5EVzgDPaM0LCM3M5exl3z8"
+  "TrackReference": "https://api.spotify.com/v1/tracks/5EVzgDPaM0LCM3M5exl3z8"
 },{
   "_id": {
     "$oid": "60f7909ba24480877399e333"
   },
-  "Artist Name": "The Weeknd",
-  "Track Name": "The Hills",
+  "ArtistName": "The Weeknd",
+  "TrackName": "The Hills",
   "Danceability": 0.585,
   "Energy": 0.564,
   "Key": 0.135,
@@ -3149,13 +3149,13 @@
   "Liveness": 0.135,
   "Valence": 0.137,
   "Tempo": 113.003,
-  "Track Reference": "https://api.spotify.com/v1/tracks/7fBv7CLKzipRk6EC6TWHOB"
+  "TrackReference": "https://api.spotify.com/v1/tracks/7fBv7CLKzipRk6EC6TWHOB"
 },{
   "_id": {
     "$oid": "60f7909ca24480877399e334"
   },
-  "Artist Name": "Anne-Marie",
-  "Track Name": "Our Song",
+  "ArtistName": "Anne-Marie",
+  "TrackName": "Our Song",
   "Danceability": 0.595,
   "Energy": 0.759,
   "Key": 0.172,
@@ -3165,13 +3165,13 @@
   "Liveness": 0.172,
   "Valence": 0.515,
   "Tempo": 80.953,
-  "Track Reference": "https://api.spotify.com/v1/tracks/5zqObw7wjBgL9TDiAymxPn"
+  "TrackReference": "https://api.spotify.com/v1/tracks/5zqObw7wjBgL9TDiAymxPn"
 },{
   "_id": {
     "$oid": "60f7909ca24480877399e335"
   },
-  "Artist Name": "Arctic Monkeys",
-  "Track Name": "Do I Wanna Know?",
+  "ArtistName": "Arctic Monkeys",
+  "TrackName": "Do I Wanna Know?",
   "Danceability": 0.548,
   "Energy": 0.532,
   "Key": 0.217,
@@ -3181,13 +3181,13 @@
   "Liveness": 0.217,
   "Valence": 0.405,
   "Tempo": 85.03,
-  "Track Reference": "https://api.spotify.com/v1/tracks/3rq5w4bQGigXOfdN30ATJt"
+  "TrackReference": "https://api.spotify.com/v1/tracks/3rq5w4bQGigXOfdN30ATJt"
 },{
   "_id": {
     "$oid": "60f7909ca24480877399e336"
   },
-  "Artist Name": "Conan Gray",
-  "Track Name": "People Watching",
+  "ArtistName": "Conan Gray",
+  "TrackName": "People Watching",
   "Danceability": 0.53,
   "Energy": 0.593,
   "Key": 0.314,
@@ -3197,5 +3197,5 @@
   "Liveness": 0.314,
   "Valence": 0.538,
   "Tempo": 125.723,
-  "Track Reference": "https://api.spotify.com/v1/tracks/4JeOesjcWWlprTAvucDSJX"
+  "TrackReference": "https://api.spotify.com/v1/tracks/4JeOesjcWWlprTAvucDSJX"
 }]
