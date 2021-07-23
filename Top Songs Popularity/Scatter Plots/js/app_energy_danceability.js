@@ -104,7 +104,7 @@ var margin = {
             var xLabel = group_labels.append("text")
                 .attr("x", 0)
                 .attr("y", 20)
-                .text("In Poverty (%) ")
+                .text("Danceability")
                 .style("font-weight", "bold")
 
             // Variable Y Label
@@ -113,7 +113,7 @@ var margin = {
                 .attr("x", 0 - (height/2))
                 .attr("y", 0 - margin.left)
                 .attr("dy", "1em")
-                .text("Locks Healthcare (%)")
+                .text("Energy")
                 .style("font-weight", "bold")    
             }).catch(function(error){
             console.log(error);
