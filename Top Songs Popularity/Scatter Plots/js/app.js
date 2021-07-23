@@ -1,4 +1,4 @@
-// Set up the chart
+// Chart
 // SVG Dimensions
 
 var svgWidth = 960;
@@ -16,17 +16,17 @@ var margin = {
     var width = svgWidth - margin.left - margin.right;
     var height = svgHeight - margin.top - margin.bottom;
 
-    // Create SVG Container
-    var svg = d3.select("#scatter")
+    // Create SVG Wrapper
+    var svg_wrapper = d3.select("#scatter")
     .append("svg")
     .attr("width", svgWidth)
     .attr("height", svgHeight);
 
-    // Append a chart group to the SVG and move it to the top left
-    var chartGroup = svg.append("g")
+    // Chart Group to the SVG
+    var group_chart = svg_wrapper.append("g")
         .attr("transform", `translate(${margin.left}, ${margin.top})`);
 
-        // Import data from CSV
+        // Import data from JSON
         d3.json("../Resources/JSON/TopGlobal.json").then(function (TopChartData) {
 
             // Parse the data to convert to numercial values
@@ -48,48 +48,47 @@ var margin = {
 
             // Create Scale Functions
 
-            var xLinearScale = d3.scaleLinear()
-                // .domain([8, d3.max(censusData, d => d.poverty+2)])
+            var x_linear_scale = d3.scaleLinear()
+            
                 .domain([d3.min(TopChartData, d => d.Danceability) * 0.9, d3.max(TopChartData, d => d.Danceability) * 1.1])
                 .range([0,width]);
 
-            var yLinearScale = d3.scaleLinear()
-                // .domain([4, d3.max(censusData, d => d.healthcare+2)])
+            var y_linear_scale = d3.scaleLinear()
+        
                 .domain([d3.min(TopChartData, d => d.Energy) * 0.8, d3.max(TopChartData, d => d.Energy) * 1.1])
                 .range([height, 0]);
 
             // Create Axis Function
-            var bottomAxis = d3.axisBottom(xLinearScale);
-            var leftAxis = d3.axisLeft(yLinearScale);
+            var bottomAxis = d3.axisBottom(x_linear_scale);
+            var leftAxis = d3.axisLeft(y_linear_scale);
 
             // Append Axis to the chart
-            chartGroup.append("g")
+            group_chart.append("g")
                 .attr("transform", `translate(0,${height})`)
                 .call(bottomAxis);
 
-            chartGroup.append("g")
+            group_chart.append("g")
                 .call(leftAxis);
 
             // Create Circles
-            var circlesGroup = chartGroup.selectAll("circle")
+            var group_circles = group_chart.selectAll("circle")
                 .data(TopChartData)
                 .enter()
                 .append("circle")
                 .classed("circle", true)
-                .attr("cx", d => xLinearScale(d.Danceability))
-                .attr("cy", d => yLinearScale(d.Energy))
+                .attr("cx", d => x_linear_scale(d.Danceability))
+                .attr("cy", d => y_linear_scale(d.Energy))
                 .attr("r", "10")
                 .attr("fill", "blue")
                 .attr("opacity", ".6");
 
-            var text = chartGroup.append("g").selectAll("text")
+            var text = group_chart.append("g").selectAll("text")
                 .data(TopChartData)
                 .enter()
                 .append("text")
                 .classed('text', true)
-                .attr("x", d => xLinearScale(d.Danceability))
-                .attr("y", d => yLinearScale(d.Energy))
-                // .attr("dy", "50%")
+                .attr("x", d => x_linear_scale(d.Danceability))
+                .attr("y", d => y_linear_scale(d.Energy))
                 .text(d => d.abbr)
                 .attr("text-anchor", "middle")
                 .attr("font-family", "sans-serif")
@@ -97,19 +96,19 @@ var margin = {
                 .attr("fill", "white")
                 .attr("font-weight", "700");
 
-            // Create a label group for x and y abels    
-            var labelsGroup = chartGroup.append("g")
+            // Label Group for X Labels and Y Labels  
+            var group_labels = group_chart.append("g")
                 .attr("transform", `translate(${width / 2}, ${height + 20 })`);
 
-            // Create x label variable
-            var xLabel = labelsGroup.append("text")
+            // Variable X Label
+            var xLabel = group_labels.append("text")
                 .attr("x", 0)
                 .attr("y", 20)
                 .text("In Poverty (%) ")
                 .style("font-weight", "bold")
 
-            // Create y label variable
-            chartGroup.append("text")
+            // Variable Y Label
+            var yLabel = group_chart.append("text")
                 .attr("transform", "rotate(-90)")
                 .attr("x", 0 - (height/2))
                 .attr("y", 0 - margin.left)
@@ -118,4 +117,44 @@ var margin = {
                 .style("font-weight", "bold")    
             }).catch(function(error){
             console.log(error);
+
+            // Tooltip
+
+            function updateToolTip(chosenXAxis, chosenYAxis, circlesGroup) {
+                var xlabel;
+                var ylabel;
+                if (chosenXAxis === "poverty") {
+                  xlabel = "Poverty:";
+                }
+                else if(chosenXAxis === "age"){
+                  xlabel = "Age:"
+                }
+                else {
+                  xlabel = "Income:";
+                }
+                if (chosenYAxis === "healthcare") {
+                  ylabel = "Healthcare:";
+                }
+                else if(chosenYAxis === "smokes"){
+                  ylabel = "Smokes:"
+                }
+                else {
+                  ylabel = "Obesity:";
+                }
+                var toolTip = d3.tip()
+                  .attr("class", "d3-tip")
+                  .offset([0, 0])
+                  .html(function(d) {
+                    return (`${d.state}<br>${xlabel} ${d[chosenXAxis]}%<br>${ylabel} ${d[chosenYAxis]}%`);
+                  });
+                circlesGroup.call(toolTip);
+                circlesGroup.on("mouseover", function(data) {
+                  toolTip.show(data);
+                })
+                  // onmouseout event
+                  .on("mouseout", function(data, index) {
+                    toolTip.hide(data);
+                  });
+                return circlesGroup;
+              }
         });
