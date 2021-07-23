@@ -33,8 +33,8 @@ var margin = {
             TopChartData.forEach( function (data) {
                 data.ArtistName = +data.ArtistName;
                 data.TrackName = +data.TrackName;
-                data.Danceability = +data.Danceability;
-                data.Energy = +data.Energy;
+                data.Instrumentalness = +data.Instrumentalness;
+                data.Liveness = +data.Liveness;
                 data.Key = +data.Key;
                 data.Loudness = +data.Loudness;
                 data.Acousticness = +data.Acousticness;
@@ -50,12 +50,12 @@ var margin = {
 
             var x_linear_scale = d3.scaleLinear()
             
-                .domain([d3.min(TopChartData, d => d.Danceability) * 0.9, d3.max(TopChartData, d => d.Danceability) * 1.1])
+                .domain([d3.min(TopChartData, d => d.Instrumentalness) * 0.9, d3.max(TopChartData, d => d.Instrumentalness) * 1.1])
                 .range([0,width]);
 
             var y_linear_scale = d3.scaleLinear()
         
-                .domain([d3.min(TopChartData, d => d.Energy) * 0.8, d3.max(TopChartData, d => d.Energy) * 1.1])
+                .domain([d3.min(TopChartData, d => d.Liveness) * 0.8, d3.max(TopChartData, d => d.Liveness) * 1.1])
                 .range([height, 0]);
 
             // Create Axis Function
@@ -76,8 +76,8 @@ var margin = {
                 .enter()
                 .append("circle")
                 .classed("circle", true)
-                .attr("cx", d => x_linear_scale(d.Danceability))
-                .attr("cy", d => y_linear_scale(d.Energy))
+                .attr("cx", d => x_linear_scale(d.Instrumentalness))
+                .attr("cy", d => y_linear_scale(d.Liveness))
                 .attr("r", "10")
                 .attr("fill", "blue")
                 .attr("opacity", ".6");
@@ -87,8 +87,8 @@ var margin = {
                 .enter()
                 .append("text")
                 .classed('text', true)
-                .attr("x", d => x_linear_scale(d.Danceability))
-                .attr("y", d => y_linear_scale(d.Energy))
+                .attr("x", d => x_linear_scale(d.Instrumentalness))
+                .attr("y", d => y_linear_scale(d.Liveness))
                 .text(d => d.abbr)
                 .attr("text-anchor", "middle")
                 .attr("font-family", "sans-serif")
@@ -104,7 +104,7 @@ var margin = {
             var xLabel = group_labels.append("text")
                 .attr("x", 0)
                 .attr("y", 20)
-                .text("Danceability")
+                .text("Instrumentalness")
                 .style("font-weight", "bold")
 
             // Variable Y Label
@@ -113,7 +113,7 @@ var margin = {
                 .attr("x", 0 - (height/2))
                 .attr("y", 0 - margin.left)
                 .attr("dy", "1em")
-                .text("Energy")
+                .text("Liveness")
                 .style("font-weight", "bold")    
             }).catch(function(error){
             console.log(error);
@@ -122,8 +122,8 @@ var margin = {
 
             // Tooltip
 
-            var chosenXAxis = "Danceability"
-            var chosenYAxis = "Energy"
+            var chosenXAxis = "Instrumentalness"
+            var chosenYAxis = "Liveness"
 
             function updateToolTip(chosenXAxis, chosenYAxis, circlesGroup) {
                 var xLabel;
