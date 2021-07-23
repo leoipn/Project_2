@@ -7,7 +7,7 @@
 
 Since the origin of modern times humanity has been sorounded by music, we may say that history of the world can be tell throuhg music.
 
-Muscic has been constantly changing, evolving or derivating in several genders. The music taste during time has been changing and new artists have been emerging. 
+Music has been constantly changing, evolving or derivating in several genders. The music taste during time has been changing and new artists have been emerging. 
 We would like to study these changes through Data Analytics.
 
 As a team we are always close to music. Music is an universal language, like programming languages it has been the union of many cultures and traditions.
