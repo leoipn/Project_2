@@ -118,34 +118,22 @@ var margin = {
             }).catch(function(error){
             console.log(error);
 
+            /*
+
             // Tooltip
 
+            var chosenXAxis = "Danceability"
+            var chosenYAxis = "Energy"
+
             function updateToolTip(chosenXAxis, chosenYAxis, circlesGroup) {
-                var xlabel;
-                var ylabel;
-                if (chosenXAxis === "poverty") {
-                  xlabel = "Poverty:";
-                }
-                else if(chosenXAxis === "age"){
-                  xlabel = "Age:"
-                }
-                else {
-                  xlabel = "Income:";
-                }
-                if (chosenYAxis === "healthcare") {
-                  ylabel = "Healthcare:";
-                }
-                else if(chosenYAxis === "smokes"){
-                  ylabel = "Smokes:"
-                }
-                else {
-                  ylabel = "Obesity:";
-                }
+                var xLabel;
+                var yLabel;
+                
                 var toolTip = d3.tip()
                   .attr("class", "d3-tip")
                   .offset([0, 0])
                   .html(function(d) {
-                    return (`${d.state}<br>${xlabel} ${d[chosenXAxis]}%<br>${ylabel} ${d[chosenYAxis]}%`);
+                    return (`${d.ArtistName}<br>${xlabel} ${d[chosenXAxis]}%<br>${yLabel} ${d[chosenYAxis]}%`);
                   });
                 circlesGroup.call(toolTip);
                 circlesGroup.on("mouseover", function(data) {
@@ -157,4 +145,6 @@ var margin = {
                   });
                 return circlesGroup;
               }
+
+            */
         });
