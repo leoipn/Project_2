@@ -35,7 +35,10 @@ function scatterplot(TopChartData,x,y,id,color_circle){
       },
       tickwidth: 4,
       tickcolor: 'white',
-      
+      tickfont:{
+        size:14,
+        color:'white'
+      }
 
     },
     yaxis: {
@@ -45,7 +48,12 @@ function scatterplot(TopChartData,x,y,id,color_circle){
         font: {family: 'Poppins, monospace',size: 18,color: 'white'}
       },
       tickwidth: 4,
-      tickcolor: 'white'
+      tickcolor: 'white',
+      tickfont:{
+        size:14,
+        color:'white'
+      }
+
     }
   };
   
