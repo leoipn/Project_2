@@ -92,12 +92,10 @@ def jsonified3():
     song_array=[]
 
     country_array = (data_df["Country"].unique())
-    # country_array = country_array.sort()
     country_array = np.insert(country_array,0,"")
-    # print(country_array)
 
-    artist_array = np.insert(((data_df["Artist"].unique())[0:50]),0,"")
-    song_array = np.insert(((data_df["Track_Name"].unique())[0:50]),0,"")
+    artist_array = np.insert(((data_df["Artist"].unique())[0:500]),0,"")
+    song_array = np.insert(((data_df["Track_Name"].unique())[0:500]),0,"")
 
     no_artist = len(data_df["Artist"].unique())
     no_songs = len(data_df["Track_URL"].unique())

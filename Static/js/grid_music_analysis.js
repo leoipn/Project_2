@@ -30,7 +30,7 @@ function scatterplot(TopChartData,x,y,id,color_circle){
       font: {family: 'Poppins, monospace', size: 22, color: 'white'}
     },
     xaxis: {
-      gridwidth: 0.5,
+      gridwidth: 0.1,
       title: {
         text: titlex,
         font: {family: 'Poppins, monospace', size: 18, color: 'white'}
@@ -44,7 +44,7 @@ function scatterplot(TopChartData,x,y,id,color_circle){
 
     },
     yaxis: {
-      gridwidth: 0.5,
+      gridwidth: 0.1,
       title: {
         text: titley,
         font: {family: 'Poppins, monospace',size: 18,color: 'white'}
@@ -66,7 +66,7 @@ function scatterplot(TopChartData,x,y,id,color_circle){
 }
 
 d3.json('http://127.0.0.1:5000/Popularity').then(TopChartData=>{
-  console.log(TopChartData)
+  // console.log(TopChartData)
   scatterplot(TopChartData,'Tempo','Danceability','scatter1','rgba(30, 215, 96, 1)')
   scatterplot(TopChartData,'Danceability','Energy','scatter2','rgb(29, 117, 222, 1)')
   scatterplot(TopChartData,'Energy','Tempo','scatter3','rgb(255, 153, 0, 1)')
