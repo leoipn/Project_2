@@ -8,10 +8,12 @@ function scatterplot(TopChartData,x,y,id,color_circle){
 
   ArtistName=TopChartData.map(sample=>sample['Artist Name'])            
   Song=TopChartData.map(sample=>sample['Track Name'])
+  TraceTitle = TopChartData.map(sample=>"<b>Artist</b>: "+sample['Artist Name']+"<br><b>Track:</b> "+sample['Track Name'])
 
   var trace1 = {x: x, y: y,
-    text: Song, 
-    // text: `${ArtistName} | ${Song}`, 
+    hovertemplate: '%{text}<extra></extra>',
+    text: TraceTitle,
+    showlegend: false,
     mode: 'markers', 
     type: 'scatter',
     marker: {
