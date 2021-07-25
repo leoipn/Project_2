@@ -13,8 +13,6 @@ Everyone know how music sounds and we love it, but what about how it is seen?
 
 ## Coding Approach:
 
-<img src="https://www.zdnet.com/a/hub/i/2021/02/02/f5d66b1e-6228-4373-a347-a327de7ab4a3/spotify-korea.jpg" alt="drawing" width="800"/>
-
 ![image](https://user-images.githubusercontent.com/80076539/126912072-6d7ddbc1-fd18-47c2-bd53-f8a338388f5b.png)
 
 
