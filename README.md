@@ -13,7 +13,11 @@ Everyone know how music sounds and we love it, but what about how it is seen?
 
 ## Coding Approach:
 
-![image](https://user-images.githubusercontent.com/80076539/126912104-436b9e74-6db9-47b2-90a4-fd4f000942a2.png)
+![image](https://user-images.githubusercontent.com/80076539/126912197-efd72b34-0d6b-43a2-9d4c-00883830d1c2.png)
+
+## Data Munging Technics:
+
+![image](https://user-images.githubusercontent.com/80076539/126912179-b87aa67b-0b02-4155-aa05-a4b59d54221a.png)
 
 
 ## Team Members:
