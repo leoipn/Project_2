@@ -3,16 +3,14 @@
 
 <img src="https://www.zdnet.com/a/hub/i/2021/02/02/f5d66b1e-6228-4373-a347-a327de7ab4a3/spotify-korea.jpg" alt="drawing" width="800"/>
 
-## Proposal:
+## Purpose:
 
-Since the origin of modern times humanity has been sorounded by music, we may say that history of the world can be tell throuhg music.
+Since the origin of modern times humanity has been sorounded by music, we may say might history of the world can be tell throuhg music.
+Music is an universal language, like programming languages it has been the union of many cultures and thinking structures.
 
-Muscic has been constantly changing, evolving or derivating in several genders. The music taste during time has been changing and new artists have been emerging. 
-We would like to study these changes through Data Analytics.
+We wanted to explore universal artists, genders, popularity and music listened around the world on one of the most important platform for online streaming.
+Everyone know how music sounds and we love it, but what about how it is seen?
 
-As a team we are always close to music. Music is an universal language, like programming languages it has been the union of many cultures and traditions.
-
-We would like to explore universal artists, genders, popularity and music lisetened around the world on one of the most important platform for online streaming.
 
 ## Team Members:
 
