@@ -15,9 +15,14 @@ Everyone know how music sounds and we love it, but what about how it is seen?
 
 ![image](https://user-images.githubusercontent.com/80076539/126912197-efd72b34-0d6b-43a2-9d4c-00883830d1c2.png)
 
-## Data Munging Technics:
+## Data Munging Diagrams:
 
 ![image](https://user-images.githubusercontent.com/80076539/126912179-b87aa67b-0b02-4155-aa05-a4b59d54221a.png)
+
+## Exploring Music:
+
+We can explore music through different features like it´s acousticness, danceability, energy, instrumentalness, liveness, loudness and tempo among others.
+We can use this audio features provided by Spotify API´s for different purposes. For example to determine people's choice or to create predictions for dynamic playlists recommendations or even for target publicity.
 
 
 ## Team Members:
