@@ -23,18 +23,18 @@ Everyone know how music sounds and we love it, but what about how it is seen?
 We can explore music through different features like it´s acousticness, danceability, energy, instrumentalness, liveness, loudness and tempo among others.
 We can use this audio features provided by Spotify API´s for different purposes. For example to determine people's choice or to create predictions for dynamic playlists recommendations or even for target publicity.
 
-
-## Team Members:
-
-![image](https://user-images.githubusercontent.com/80076539/126912369-5e3eeaf4-39cf-43d3-9da7-d857d2583aa5.png)
-
 ## Dataset: ##
 
 https://developer.spotify.com/documentation/web-api/
 
 https://spotifycharts.com/regional/
 
-## Scketch: ##
+## Team Members:
+
+![image](https://user-images.githubusercontent.com/80076539/126912369-5e3eeaf4-39cf-43d3-9da7-d857d2583aa5.png)
+
+
+## Dashboard: ##
 
 <img src="https://user-images.githubusercontent.com/80076539/125554739-12c4f6e7-6214-4695-99d0-fea13844cb04.png" alt="drawing" width="800"/>
 
