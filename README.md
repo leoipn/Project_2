@@ -26,11 +26,7 @@ We can use this audio features provided by Spotify API´s for different purposes
 
 ## Team Members:
 
- - Andres Estrada
- - Orlando García
- - José Sierra
- - Leobardo Preciado
- - Carlos Mendoza
+![image](https://user-images.githubusercontent.com/80076539/126912369-5e3eeaf4-39cf-43d3-9da7-d857d2583aa5.png)
 
 ## Dataset: ##
 
