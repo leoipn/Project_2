@@ -17,7 +17,7 @@
 
 Desing and deploy a visualization interface that helps understand a story behind our data. We want to provide information to any artist that helps him understand how are they performing and who is the person o the group of people who listen them the most. All visuals presented in the dashboard refered to the number of streams by artist, song or country, this streams count only referer to the streams that a song had by day while the song was in the Top 200 most streamed songs. So we understand that the streams showed, can be a fraction of the total streams a song actyally has. 
 
-Important consideration during this project is that during the definition of what we wanted to visualize in the final product, we always considered the experience the user can have while he/she manipulates and utilize the . Creating a clean, ordered, and with the purpose of explain what kind of music and from who is listened all aroung the world.
+Important consideration during this project is that during the definition of what we wanted to visualize in the final product, we always considered the experience the user can have while he/she manipulates and utilize diferent filters and option to find what he/she is looking for. Creating a clean, ordered, and with the purpose of explain what kind of music and from who is listened all aroung the world.
 
 We wanted to explore universal artists, genders, popularity and music listened around the world on one of the most important platform for online streaming.
 Everyone know how music sounds and we love it, but what about how it is seen?
@@ -40,6 +40,9 @@ We can use this audio features provided by Spotify API´s for different purposes
 https://developer.spotify.com/documentation/web-api/
 
 https://spotifycharts.com/regional/
+
+
+## Step to load the data sets and initialize the fllask app to feed the dashboard: ##
 
 ## Team Members:
 
