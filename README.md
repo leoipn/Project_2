@@ -1,6 +1,6 @@
 # _A Spotify Visualization Project 
 
-## Future deploymen link:
+## Future deployment link:
 
 ## Web app demo:
 
