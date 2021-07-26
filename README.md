@@ -1,4 +1,15 @@
-# _A Spotify Story._
+# _A Spotify Visualization Project 
+
+## Future deploymen link:
+
+## Web app demo:
+
+<img src="https://github.com/leoipn/Project_2/blob/main/1.png" alt="drawing" width="800"/>
+
+<img src="https://github.com/leoipn/Project_2/blob/main/2.png" alt="drawing" width="800"/>
+
+
+
 
 <img src="https://www.zdnet.com/a/hub/i/2021/02/02/f5d66b1e-6228-4373-a347-a327de7ab4a3/spotify-korea.jpg" alt="drawing" width="800"/>
 
