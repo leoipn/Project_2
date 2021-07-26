@@ -4,9 +4,9 @@
 
 ## Web app demo:
 
-<!-- <img src="https://github.com/leoipn/Project_2/blob/main/1.png" alt="drawing" width="800"/> -->
+<img src="https://github.com/leoipn/Project_2/blob/main/1.png" alt="drawing" width="800"/>
 
-<!-- <img src="https://github.com/leoipn/Project_2/blob/main/2.png" alt="drawing" width="800"/> -->
+<img src="https://github.com/leoipn/Project_2/blob/main/2.png" alt="drawing" width="800"/>
 
 
 <hr>
