@@ -1,4 +1,4 @@
-# _A Spotify Visualization Project 
+# A Spotify Visualization Project 
 
 ## Future deployment link:
 
