@@ -24,7 +24,7 @@ Everyone know how music sounds and we love it, but what about how it is seen?
 
 ## Coding Approach:
 
-![image](https://user-images.githubusercontent.com/80076539/126912197-efd72b34-0d6b-43a2-9d4c-00883830d1c2.png)
+![image](https://github.com/leoipn/Project_2/blob/main/Coding%20Approach.png)
 
 ## Data Munging Diagrams:
 
