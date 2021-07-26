@@ -46,7 +46,7 @@ https://spotifycharts.com/regional/
 
 ## Team Members:
 
-![image](https://user-images.githubusercontent.com/80076539/126912369-5e3eeaf4-39cf-43d3-9da7-d857d2583aa5.png)
+![image](https://github.com/leoipn/Project_2/blob/main/Members.png)
 
 <!-- 
 ## Dashboard: ##
