@@ -48,11 +48,11 @@ https://spotifycharts.com/regional/
 
 ![image](https://user-images.githubusercontent.com/80076539/126912369-5e3eeaf4-39cf-43d3-9da7-d857d2583aa5.png)
 
-
+<!-- 
 ## Dashboard: ##
 
 <img src="https://user-images.githubusercontent.com/80076539/125554739-12c4f6e7-6214-4695-99d0-fea13844cb04.png" alt="drawing" width="800"/>
-
+ -->
 ## Documentation: ##
 
 https://docs.google.com/presentation/d/1wwfA7ykD5djNibOcCrLmiRX4VQXxLZ7WsqQTf8vrG7E/edit?usp=sharing
