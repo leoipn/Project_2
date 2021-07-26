@@ -1,4 +1,4 @@
-# A Spotify Visualization Project 
+# Spotify Visualization Project 
 
 ## Future deployment link:
 
@@ -28,7 +28,7 @@ Everyone know how music sounds and we love it, but what about how it is seen?
 
 ## Data Munging Diagrams:
 
-![image](https://user-images.githubusercontent.com/80076539/126912179-b87aa67b-0b02-4155-aa05-a4b59d54221a.png)
+![image](https://github.com/leoipn/Project_2/blob/main/Data%20Munging.png)
 
 ## Exploring Music:
 
