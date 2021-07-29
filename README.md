@@ -16,7 +16,7 @@ In order to load the datasets, you can follow 2 alternatives:
 
 ### OPTION 1 (Quick Load): Loading Dataset from JSON previously constructed
 
-1. You will need to run only one [Jupyter Notebook](https://github.com/leoipn/Project_2/tree/main/Load) located in the Fast Load Folder that will get the datasets from the JSON files previously cleaned and ready to load them to Mongo:
+1. You will need to run only one Jupyter Notebook located in the [Fast Load Folder](https://github.com/leoipn/Project_2/tree/main/Fast%20Load) that will get the datasets from the JSON files previously cleaned and ready to load them to Mongo:
 
 ### OPTION 2: Loading Dataset by API Calls (Building the data set)
 
