@@ -18,17 +18,19 @@ In order to load the datasets, you can follow 2 alternatives
 
 1. First you must run both of the following Jupyter Notebook
 
-For loading both notebooks and their databases you will need a Token
+    For loading both notebooks and their databases you will need a Token
 
-ETL > LoadingFiles.ipynb 
-token generated in: https://developer.spotify.com/console/get-track/
+    ETL > LoadingFiles.ipynb 
+    token generated in: https://developer.spotify.com/console/get-track/
 
-and 
+    and 
 
-Top Songs Popularity > Jupyter Notebook > Spotify Music Analysis.ipynb
-token generated in : # https://developer.spotify.com/console/get-audio-features-several-tracks/
+    Top Songs Popularity > Jupyter Notebook > Spotify Music Analysis.ipynb
+    token generated in : # https://developer.spotify.com/console/get-audio-features-several-tracks/
 
 #### OPTION 2: Loading Dataset from JSON previously constructed
+
+1. You will need to run only one Jupyter Notebook that will get the dataset from the JSON files and load it to Mongo
 
 
 
@@ -47,6 +49,13 @@ Everyone know how music sounds and we love it, but what about how it is seen?
 
 ## Coding Approach
 
+The approach to this project followed a straight road, find the data sources, process the data collected through ETL process
+  1. Extracting the dataset from csv extracted from Spotify Charts
+  2. Cleaning and ordering with Python (Pandas)
+  3. Loading the final datasets to Mongo (Python Pymongo)
+
+The visualization was constructed in HTML and CSS, JS was used to feed all the data already filtered and clean from a Flask app that funcitoned as a local server.
+
 <img src="https://github.com/leoipn/Project_2/blob/main/Coding%20Approach.png" width="800" style="float: center;" />
 
 
@@ -60,7 +69,7 @@ Everyone know how music sounds and we love it, but what about how it is seen?
 We can explore music through different features like it´s acousticness, danceability, energy, instrumentalness, liveness, loudness and tempo among others.
 We can use this audio features provided by Spotify API´s for different purposes. For example to determine people's choice or to create predictions for dynamic playlists recommendations or even for target publicity.
 
-## Datasets
+## Data Sources
 
 https://developer.spotify.com/documentation/web-api/
 
