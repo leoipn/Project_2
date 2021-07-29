@@ -36,14 +36,8 @@ Everyone know how music sounds and we love it, but what about how it is seen?
 
 ## Coding Approach:
 
-<!-- <img style="float: right;" src="https://github.com/leoipn/Project_2/blob/main/Coding%20Approach.png"> -->
+<img src="https://github.com/leoipn/Project_2/blob/main/Coding%20Approach.png" width="500" style="float: middle;" />
 
-<!-- <img src="https://github.com/leoipn/Project_2/blob/main/Coding%20Approach.png" alt="drawing" style="width:5px;"/> -->
-
-<img src="https://github.com/leoipn/Project_2/blob/main/Coding%20Approach.png" width="100px" />
-
-
-<!-- ![image](https://github.com/leoipn/Project_2/blob/main/Coding%20Approach.png#center){width: 20px;}{float: right;}   -->
 
 ## Data Munging Diagrams:
 
