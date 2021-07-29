@@ -42,17 +42,6 @@ Everyone know how music sounds and we love it, but what about how it is seen?
 
 ![image](https://github.com/leoipn/Project_2/blob/main/Data%20Munging.png)
 
-## Data Munging Techincs:
-
-Web Scraping to Spotify Charts to get Top 200.
-Web API request to retrieve Genre by Artist.
-Pandas library to clean N/As, format Dates and merge datasets
-PyMongo that connected with a MongoDB to store the final dataset
-Flask App that retrieves the data from Mongo and applies the summarization and filtering.
-Javascript that calls the endpoints to get the data for visualization (Chart JS and D3).
-HTML and CSS that present the charts, visuals and dropdown filters.
-Bootstrap that provides a Dashboard template.
-
 ## Exploring Music:
 
 We can explore music through different features like it´s acousticness, danceability, energy, instrumentalness, liveness, loudness and tempo among others.
