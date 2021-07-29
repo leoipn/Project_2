@@ -4,7 +4,7 @@
 
 <!-- ## Web app demo: -->
 
-<img src="https://github.com/leoipn/Project_2/blob/main/1.png" width="500" style="float: center;" /> <img src="https://github.com/leoipn/Project_2/blob/main/2.png" width="500" style="float: center;" />
+<img src="https://github.com/leoipn/Project_2/blob/main/Assets/1.png" width="500" style="float: center;" /> <img src="https://github.com/leoipn/Project_2/blob/main/Assets/2.png" width="500" style="float: center;" />
 
 <!-- <img src="https://github.com/leoipn/Project_2/blob/main/2.png" alt="drawing" width="800"/> -->
 
@@ -56,7 +56,7 @@ The approach to this project followed a straight road, find the data sources, pr
 
 The visualization was constructed in HTML and CSS, JS was used to feed all the data already filtered and clean from a Flask app that funcitoned as a local server.
 
-<img src="https://github.com/leoipn/Project_2/blob/main/Coding%20Approach.png" width="800" style="float: center;" />
+<img src="https://github.com/leoipn/Project_2/blob/main/Assets/Coding%20Approach.png" width="800" style="float: center;" />
 
 
 ## Data Munging
@@ -72,7 +72,7 @@ We can defined the following steps as a more detail explanation of the Data Mung
     7. HTML and CSS that present the charts, visuals and dropdown filters.
     8. Bootstrap that provides a Dashboard template.
 
-<img src="https://github.com/leoipn/Project_2/blob/main/Data%20Munging.png" width="800" style="float: center;" />
+<img src="https://github.com/leoipn/Project_2/blob/main/Assets/Data%20Munging.png" width="800" style="float: center;" />
 
 
 ## Exploring Music
@@ -91,7 +91,7 @@ https://spotifycharts.com/regional/
 
 ## Team Members:
 
-![image](https://github.com/leoipn/Project_2/blob/main/Members.png)
+![image](https://github.com/leoipn/Project_2/blob/main/Assets/Members.png)
 
 <!-- <img src="https://www.zdnet.com/a/hub/i/2021/02/02/f5d66b1e-6228-4373-a347-a327de7ab4a3/spotify-korea.jpg" alt="drawing" width="800"/> -->
 
