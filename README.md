@@ -14,7 +14,11 @@
 ## IMPORTANT
 In order to load the datasets, you can follow 2 alternatives
 
-#### OPTION 1: Loading Dataset from API
+#### OPTION 1 (Quick Load): Loading Dataset from JSON previously constructed
+
+1. You will need to run only one [Jupyter Notebook](https://github.com/leoipn/Project_2/tree/main/Load) that will get the datasets from the JSON files and load it to Mongo:
+
+#### OPTION 2: Loading Dataset by API Calls (Building the data set)
 
 1. First you must run both of the following Jupyter Notebook
 
@@ -27,13 +31,6 @@ In order to load the datasets, you can follow 2 alternatives
 
     Top Songs Popularity > Jupyter Notebook > Spotify Music Analysis.ipynb
     token generated in : # https://developer.spotify.com/console/get-audio-features-several-tracks/
-
-#### OPTION 2: Loading Dataset from JSON previously constructed
-
-1. You will need to run only one Jupyter Notebook that will get the dataset from the JSON files and load it to Mongo
-
-
-
 
 
 <br>
