@@ -4,16 +4,17 @@
 
 ## Web app demo:
 
-<img src="https://github.com/leoipn/Project_2/blob/main/1.png" alt="drawing" width="800"/>
+<img src="https://github.com/leoipn/Project_2/blob/main/1.png" width="500" style="float: center;" />
+
 
 <!-- <img src="https://github.com/leoipn/Project_2/blob/main/2.png" alt="drawing" width="800"/> -->
 
 
 <hr>
 
-<img src="https://www.zdnet.com/a/hub/i/2021/02/02/f5d66b1e-6228-4373-a347-a327de7ab4a3/spotify-korea.jpg" alt="drawing" width="800"/>
+### IMPORTANT: 
 
-### IMPORTANT: You have to load the Databases first running both of the following Jupyter Notebook
+You have to load the Databases first running both of the following Jupyter Notebook
 
 For loading both notebooks and their databases you will need a Token
 
@@ -41,7 +42,8 @@ Everyone know how music sounds and we love it, but what about how it is seen?
 
 ## Data Munging Diagrams:
 
-![image](https://github.com/leoipn/Project_2/blob/main/Data%20Munging.png)
+<img src="https://github.com/leoipn/Project_2/blob/main/Data%20Munging.png" width="800" style="float: center;" />
+
 
 ## Exploring Music:
 
@@ -61,11 +63,8 @@ https://spotifycharts.com/regional/
 
 ![image](https://github.com/leoipn/Project_2/blob/main/Members.png)
 
-<!-- 
-## Dashboard: ##
+<img src="https://www.zdnet.com/a/hub/i/2021/02/02/f5d66b1e-6228-4373-a347-a327de7ab4a3/spotify-korea.jpg" alt="drawing" width="800"/>
 
-<img src="https://user-images.githubusercontent.com/80076539/125554739-12c4f6e7-6214-4695-99d0-fea13844cb04.png" alt="drawing" width="800"/>
- -->
 ## Documentation: ##
 
 https://docs.google.com/presentation/d/1wwfA7ykD5djNibOcCrLmiRX4VQXxLZ7WsqQTf8vrG7E/edit?usp=sharing
