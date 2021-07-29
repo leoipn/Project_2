@@ -13,6 +13,18 @@
 
 <img src="https://www.zdnet.com/a/hub/i/2021/02/02/f5d66b1e-6228-4373-a347-a327de7ab4a3/spotify-korea.jpg" alt="drawing" width="800"/>
 
+### IMPORTANT: You have to load the Databases first running both of the following Jupyter Notebook
+
+For loading both notebooks and their databases you will need a Token
+
+ETL > LoadingFiles.ipynb 
+token generated in: https://developer.spotify.com/console/get-track/
+
+and 
+
+Top Songs Popularity > Jupyter Notebook > Spotify Music Analysis.ipynb
+token generated in : # https://developer.spotify.com/console/get-audio-features-several-tracks/
+
 ## Purpose:
 
 Desing and deploy a visualization interface that helps understand a story behind our data. We want to provide information to any artist that helps him understand how are they performing and who is the person or the group of people who listen them the most. All visuals presented in the dashboard refered to the number of streams by artist, song or country, this streams count only referer to the streams that a song had by day while the song was in the Top 200 most streamed songs. So we understand that the streams showed, can be a fraction of the total streams a song actyally has. 
