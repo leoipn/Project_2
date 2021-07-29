@@ -35,6 +35,7 @@ token generated in : # https://developer.spotify.com/console/get-audio-features-
 
 
 <br>
+
 ## Purpose
 
 Desing and deploy a visualization interface that helps understand a story behind our data. We want to provide information to any artist that helps him understand how are they performing and who is the person or the group of people who listen them the most. All visuals presented in the dashboard refered to the number of streams by artist, song or country, this streams count only referer to the streams that a song had by day while the song was in the Top 200 most streamed songs. So we understand that the streams showed, can be a fraction of the total streams a song actyally has. 
