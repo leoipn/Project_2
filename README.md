@@ -14,7 +14,7 @@
 ### IMPORTANT
 In order to load the datasets, you can follow 2 alternatives
 
-#### Loading Dataset from API
+#### OPTION 1: Loading Dataset from API
 
 1. First you must run both of the following Jupyter Notebook
 
@@ -28,12 +28,14 @@ and
 Top Songs Popularity > Jupyter Notebook > Spotify Music Analysis.ipynb
 token generated in : # https://developer.spotify.com/console/get-audio-features-several-tracks/
 
-#### Loading Dataset from JSON previously constructed
+#### OPTION 2: Loading Dataset from JSON previously constructed
 
 
 
 
-## Purpose:
+
+<br>
+## Purpose
 
 Desing and deploy a visualization interface that helps understand a story behind our data. We want to provide information to any artist that helps him understand how are they performing and who is the person or the group of people who listen them the most. All visuals presented in the dashboard refered to the number of streams by artist, song or country, this streams count only referer to the streams that a song had by day while the song was in the Top 200 most streamed songs. So we understand that the streams showed, can be a fraction of the total streams a song actyally has. 
 
@@ -42,29 +44,29 @@ Important consideration during this project is that during the definition of wha
 We wanted to explore universal artists, genders, popularity and music listened around the world on one of the most important platform for online streaming.
 Everyone know how music sounds and we love it, but what about how it is seen?
 
-## Coding Approach:
+## Coding Approach
 
 <img src="https://github.com/leoipn/Project_2/blob/main/Coding%20Approach.png" width="800" style="float: center;" />
 
 
-## Data Munging Diagrams:
+## Data Munging
 
 <img src="https://github.com/leoipn/Project_2/blob/main/Data%20Munging.png" width="800" style="float: center;" />
 
 
-## Exploring Music:
+## Exploring Music
 
 We can explore music through different features like it´s acousticness, danceability, energy, instrumentalness, liveness, loudness and tempo among others.
 We can use this audio features provided by Spotify API´s for different purposes. For example to determine people's choice or to create predictions for dynamic playlists recommendations or even for target publicity.
 
-## Dataset: ##
+## Datasets
 
 https://developer.spotify.com/documentation/web-api/
 
 https://spotifycharts.com/regional/
 
 
-## Step to load the data sets and initialize the fllask app to feed the dashboard: ##
+
 
 ## Team Members:
 
