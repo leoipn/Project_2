@@ -12,6 +12,9 @@
 <hr>
 
 ## IMPORTANT
+
+## Step 1 (Loading)
+
 In order to load the datasets, you can follow 2 alternatives:
 
 ### OPTION 1 (Quick Load): Loading Dataset from JSON previously constructed
@@ -32,6 +35,11 @@ For loading both notebooks and their databases you will need a Token generated b
     Top Songs Popularity > Jupyter Notebook > Spotify Music Analysis.ipynb
     token generated in : # https://developer.spotify.com/console/get-audio-features-several-tracks/
 
+## Step 2 (Deploying)
+
+1. In order to run the Dashboard in your browser, first you need to start the Flask app located in the [Server Folder](https://github.com/leoipn/Project_2/tree/main/Server)
+2. Once the dev server start running, you can just click on the [index.html](https://github.com/leoipn/Project_2/blob/main/index.html) file and you will be able to see the Dashboard running. (This can take 20-30 sec to load the first time, have pattience).
+3. Have fun :D
 
 <br>
 
