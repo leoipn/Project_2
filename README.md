@@ -39,7 +39,7 @@ Then you must run a second [Jupyter Notebook](https://github.com/leoipn/Project_
 
 1. In order to run the Dashboard in your browser, first you need to start the Flask app located in the [Server Folder](https://github.com/leoipn/Project_2/tree/main/Server)
 2. Once the dev server start running, you can just click on the [index.html](https://github.com/leoipn/Project_2/blob/main/index.html) file and you will be able to see the Dashboard running. (This can take 20-30 sec to load the first time, have pattience).
-3. Have fun :D
+3. Have fun searching for your favorite artist :D
 
 <br>
 
