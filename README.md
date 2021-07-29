@@ -2,19 +2,22 @@
 
 <!-- ## Future deployment link: -->
 
-## Web app demo:
+<!-- ## Web app demo: -->
 
 <img src="https://github.com/leoipn/Project_2/blob/main/1.png" width="500" style="float: center;" />
-
+<img src="https://github.com/leoipn/Project_2/blob/main/2.png" width="500" style="float: center;" />
 
 <!-- <img src="https://github.com/leoipn/Project_2/blob/main/2.png" alt="drawing" width="800"/> -->
 
 
 <hr>
 
-### IMPORTANT: 
+### IMPORTANT
+In order to load the datasets, you can follow 2 alternatives
 
-You have to load the Databases first running both of the following Jupyter Notebook
+#### Loading Dataset from API
+
+1. First you must run both of the following Jupyter Notebook
 
 For loading both notebooks and their databases you will need a Token
 
@@ -25,6 +28,11 @@ and
 
 Top Songs Popularity > Jupyter Notebook > Spotify Music Analysis.ipynb
 token generated in : # https://developer.spotify.com/console/get-audio-features-several-tracks/
+
+#### Loading Dataset from JSON previously constructed
+
+
+
 
 ## Purpose:
 
@@ -63,7 +71,7 @@ https://spotifycharts.com/regional/
 
 ![image](https://github.com/leoipn/Project_2/blob/main/Members.png)
 
-<img src="https://www.zdnet.com/a/hub/i/2021/02/02/f5d66b1e-6228-4373-a347-a327de7ab4a3/spotify-korea.jpg" alt="drawing" width="800"/>
+<!-- <img src="https://www.zdnet.com/a/hub/i/2021/02/02/f5d66b1e-6228-4373-a347-a327de7ab4a3/spotify-korea.jpg" alt="drawing" width="800"/> -->
 
 ## Documentation: ##
 
