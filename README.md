@@ -11,7 +11,7 @@
 
 <hr>
 
-### IMPORTANT
+## IMPORTANT
 In order to load the datasets, you can follow 2 alternatives
 
 #### OPTION 1: Loading Dataset from API
@@ -60,6 +60,17 @@ The visualization was constructed in HTML and CSS, JS was used to feed all the d
 
 
 ## Data Munging
+
+We can defined the following steps as a more detail explanation of the Data Munging:
+
+    1. Web Scraping to Spotify Charts to get Top 200.
+    2. Web API request to retrieve Genre by Artist.
+    3. Pandas library to clean N/As, format Dates and merge datasets
+    4. PyMongo that connected with a MongoDB to store the final dataset
+    5. Flask App that retrieves the data from Mongo and applies the summarization and filtering.
+    6. Javascript that calls the endpoints to get the data for visualization (Chart JS and D3).
+    7. HTML and CSS that present the charts, visuals and dropdown filters.
+    8. Bootstrap that provides a Dashboard template.
 
 <img src="https://github.com/leoipn/Project_2/blob/main/Data%20Munging.png" width="800" style="float: center;" />
 
