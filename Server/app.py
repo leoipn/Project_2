@@ -77,7 +77,7 @@ def jsonified2():
     
     response = Response(grouped.to_json(orient="records"), mimetype='application/json')
     response.headers.add('Access-Control-Allow-Origin', '*')
-
+    
     return response
 
 @app.route("/summary")
