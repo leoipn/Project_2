@@ -40,7 +40,8 @@ Everyone know how music sounds and we love it, but what about how it is seen?
 
 <!-- img[alt=drawing] -->
 
-![image](https://github.com/leoipn/Project_2/blob/main/Coding%20Approach.png)  { width: 20px; }
+
+![image](https://github.com/leoipn/Project_2/blob/main/Coding%20Approach.png){width: 20px;}{float: right;}  
 
 ## Data Munging Diagrams:
 
