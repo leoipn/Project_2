@@ -4,7 +4,7 @@
 
 <!-- ## Web app demo: -->
 
-<img src="https://github.com/leoipn/Project_2/blob/main/Assets/1.png" width="500" style="float: center;" /> <img src="https://github.com/leoipn/Project_2/blob/main/Assets/2.png" width="500" style="float: center;" />
+<img src="https://github.com/leoipn/Project_2/blob/main/Assets/1.png" width="300" style="float: center;" /> <img src="https://github.com/leoipn/Project_2/blob/main/Assets/2.png" width="300" style="float: center;" />
 
 <!-- <img src="https://github.com/leoipn/Project_2/blob/main/2.png" alt="drawing" width="800"/> -->
 
